@@ -1,0 +1,61 @@
+product_name,department,category,price
+Metformin 500mg,Rx,Diabetes Rx,15.0
+Metformin 1000mg,Rx,Diabetes Rx,22.0
+Lisinopril 10mg,Rx,Blood Pressure Rx,12.0
+Amlodipine 5mg,Rx,Blood Pressure Rx,14.0
+Atorvastatin 20mg,Rx,Statin Rx,18.0
+Simvastatin 40mg,Rx,Statin Rx,16.0
+Omeprazole 20mg,Rx,GI Rx,20.0
+Levothyroxine 50mcg,Rx,Thyroid Rx,11.0
+Sertraline 50mg,Rx,SSRI Rx,14.0
+Fluoxetine 20mg,Rx,SSRI Rx,13.0
+Cetirizine Rx 10mg,Rx,Allergy Rx,10.0
+Montelukast 10mg,Rx,Allergy Rx,25.0
+Prenatal Vitamins Rx,Rx,Prenatal Rx,18.0
+Albuterol Inhaler,Rx,Respiratory Rx,35.0
+Gabapentin 300mg,Rx,Pain Rx,16.0
+Ibuprofen 200mg,OTC,Pain Relief OTC,8.99
+Acetaminophen 500mg,OTC,Pain Relief OTC,7.99
+Diphenhydramine 25mg,OTC,Allergy OTC,9.49
+Loratadine 10mg,OTC,Allergy OTC,11.99
+Saline Nasal Spray,OTC,Allergy OTC,6.99
+Antihistamine Eye Drops,OTC,Allergy OTC,12.49
+Cold & Flu Relief,OTC,Cold/Flu OTC,10.99
+Cough Syrup DM,OTC,Cold/Flu OTC,9.99
+Antacid Tablets,OTC,GI OTC,7.49
+Laxative Gentle,OTC,GI OTC,8.99
+Hydrocortisone Cream 1%,OTC,Skin OTC,6.99
+Melatonin 5mg,OTC,Sleep OTC,8.99
+Glucose Monitor Strips,OTC,Diabetes OTC,29.99
+Blood Pressure Monitor,OTC,BP Monitor,49.99
+Digital Thermometer,OTC,Diagnostics,12.99
+Vitamin D 2000IU,Supplements,Vitamins,11.99
+Vitamin C 1000mg,Supplements,Vitamins,9.99
+Multivitamin Daily,Supplements,Vitamins,14.99
+Omega-3 Fish Oil,Supplements,Supplements,16.99
+CoQ10 100mg,Supplements,Supplements,22.99
+Probiotic Daily,Supplements,Supplements,19.99
+Calcium + D3,Supplements,Supplements,12.99
+Iron Supplement,Supplements,Supplements,8.99
+Folic Acid,Supplements,Supplements,7.99
+Magnesium 400mg,Supplements,Supplements,10.99
+Zinc 50mg,Supplements,Supplements,7.49
+Turmeric Curcumin,Supplements,Supplements,18.99
+Selenium 200mcg,Supplements,Supplements,9.49
+B-Complex,Supplements,Vitamins,11.49
+Elderberry Extract,Supplements,Immune,14.99
+Hand Sanitizer,Personal Care,Hygiene,3.99
+Facial Tissues Box,Personal Care,Tissues,2.99
+Lip Balm SPF,Personal Care,Skin Care,4.49
+Sunscreen SPF 50,Personal Care,Sun Care,12.99
+Moisturizing Lotion,Personal Care,Skin Care,8.99
+Toothpaste Whitening,Personal Care,Oral Care,5.99
+Mouthwash Antiseptic,Personal Care,Oral Care,6.99
+Bandages Assorted,Personal Care,First Aid,5.49
+Diabetic Socks,Personal Care,Diabetes Care,9.99
+Compression Stockings,Personal Care,Circulation,19.99
+Low-Sodium Seasoning,Personal Care,Heart Health Food,5.99
+Sugar-Free Candy,Personal Care,Diabetic Snacks,4.49
+Protein Bar Variety,Personal Care,Nutrition,2.99
+Electrolyte Drink Mix,Personal Care,Hydration,7.99
+Sleep Mask & Earplugs,Personal Care,Sleep Wellness,8.99

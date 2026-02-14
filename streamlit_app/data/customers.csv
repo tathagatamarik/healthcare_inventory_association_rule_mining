@@ -1,0 +1,5001 @@
+customer_id,segment,age,gender,loyalty_member
+C00001,Health Seekers,50,M,False
+C00002,Chronic Loyalists,40,M,True
+C00003,Rx-Only,45,F,True
+C00004,Occasional Visitors,59,M,False
+C00005,Rx-Only,43,M,True
+C00006,Rx-Only,63,M,False
+C00007,Rx-Only,68,F,True
+C00008,Rx-Only,24,F,True
+C00009,Chronic Loyalists,25,F,True
+C00010,Health Seekers,74,M,True
+C00011,Rx-Only,29,M,False
+C00012,Chronic Loyalists,25,M,True
+C00013,Rx-Only,50,F,False
+C00014,Health Seekers,57,F,False
+C00015,Chronic Loyalists,61,F,True
+C00016,Occasional Visitors,47,F,True
+C00017,Health Seekers,50,F,True
+C00018,Rx-Only,22,M,True
+C00019,Chronic Loyalists,29,F,False
+C00020,Price Sensitives,62,F,False
+C00021,Rx-Only,54,M,True
+C00022,Occasional Visitors,65,F,False
+C00023,Rx-Only,58,F,False
+C00024,Rx-Only,35,F,True
+C00025,Chronic Loyalists,34,M,False
+C00026,Health Seekers,53,F,True
+C00027,Rx-Only,64,M,False
+C00028,Health Seekers,43,F,True
+C00029,Rx-Only,27,F,True
+C00030,Price Sensitives,32,M,True
+C00031,Health Seekers,54,M,True
+C00032,Occasional Visitors,62,M,True
+C00033,Rx-Only,58,F,True
+C00034,Price Sensitives,75,M,True
+C00035,Rx-Only,70,M,True
+C00036,Rx-Only,70,M,False
+C00037,Rx-Only,23,M,True
+C00038,Price Sensitives,40,F,True
+C00039,Rx-Only,27,M,True
+C00040,Health Seekers,38,F,True
+C00041,Rx-Only,32,F,False
+C00042,Health Seekers,27,F,False
+C00043,Health Seekers,47,F,True
+C00044,Chronic Loyalists,54,M,True
+C00045,Occasional Visitors,46,M,True
+C00046,Occasional Visitors,28,F,False
+C00047,Rx-Only,70,M,True
+C00048,Rx-Only,53,F,True
+C00049,Occasional Visitors,37,F,False
+C00050,Occasional Visitors,45,F,False
+C00051,Occasional Visitors,61,F,True
+C00052,Chronic Loyalists,56,F,True
+C00053,Rx-Only,75,M,False
+C00054,Occasional Visitors,54,F,True
+C00055,Health Seekers,29,F,True
+C00056,Rx-Only,72,F,True
+C00057,At-Risk Lapsing,66,F,False
+C00058,Rx-Only,42,F,True
+C00059,Price Sensitives,69,M,True
+C00060,Rx-Only,38,F,True
+C00061,Price Sensitives,56,F,False
+C00062,Health Seekers,67,F,False
+C00063,Chronic Loyalists,42,M,True
+C00064,Chronic Loyalists,46,M,False
+C00065,Rx-Only,45,M,True
+C00066,Chronic Loyalists,48,M,True
+C00067,Chronic Loyalists,75,M,True
+C00068,Rx-Only,71,F,False
+C00069,Chronic Loyalists,57,F,True
+C00070,Occasional Visitors,33,F,True
+C00071,Rx-Only,53,F,True
+C00072,Chronic Loyalists,43,F,True
+C00073,Occasional Visitors,75,F,True
+C00074,Occasional Visitors,65,F,True
+C00075,Occasional Visitors,53,F,True
+C00076,Rx-Only,73,M,False
+C00077,Health Seekers,38,M,True
+C00078,Chronic Loyalists,58,M,True
+C00079,Occasional Visitors,74,M,False
+C00080,Rx-Only,53,F,True
+C00081,Price Sensitives,22,F,True
+C00082,Rx-Only,43,F,True
+C00083,Health Seekers,58,M,True
+C00084,Chronic Loyalists,51,F,True
+C00085,Occasional Visitors,42,F,True
+C00086,Rx-Only,44,M,False
+C00087,Chronic Loyalists,52,M,False
+C00088,Rx-Only,66,M,True
+C00089,Price Sensitives,49,F,False
+C00090,Rx-Only,71,F,True
+C00091,Rx-Only,58,F,False
+C00092,Price Sensitives,65,M,True
+C00093,Health Seekers,72,F,True
+C00094,Health Seekers,47,F,True
+C00095,Health Seekers,25,F,True
+C00096,Price Sensitives,57,M,False
+C00097,Rx-Only,58,F,False
+C00098,Occasional Visitors,57,M,False
+C00099,Health Seekers,53,F,True
+C00100,Occasional Visitors,56,M,False
+C00101,Rx-Only,69,M,True
+C00102,Health Seekers,33,F,False
+C00103,Health Seekers,35,F,True
+C00104,Rx-Only,74,M,True
+C00105,Occasional Visitors,57,F,False
+C00106,Chronic Loyalists,74,F,True
+C00107,Chronic Loyalists,56,F,True
+C00108,At-Risk Lapsing,30,F,True
+C00109,Chronic Loyalists,28,M,True
+C00110,Occasional Visitors,23,M,True
+C00111,At-Risk Lapsing,69,F,False
+C00112,Health Seekers,28,F,False
+C00113,Occasional Visitors,40,F,True
+C00114,Rx-Only,47,M,True
+C00115,Chronic Loyalists,49,F,True
+C00116,Occasional Visitors,60,F,True
+C00117,At-Risk Lapsing,70,M,True
+C00118,Rx-Only,65,F,True
+C00119,Price Sensitives,75,F,False
+C00120,Health Seekers,40,F,True
+C00121,Chronic Loyalists,36,F,True
+C00122,Health Seekers,44,M,True
+C00123,Rx-Only,49,M,True
+C00124,Rx-Only,71,M,True
+C00125,At-Risk Lapsing,75,M,True
+C00126,Rx-Only,34,F,True
+C00127,Chronic Loyalists,27,F,True
+C00128,Price Sensitives,31,F,False
+C00129,Chronic Loyalists,76,M,False
+C00130,At-Risk Lapsing,70,M,True
+C00131,Health Seekers,48,F,True
+C00132,Rx-Only,22,M,True
+C00133,Occasional Visitors,52,F,False
+C00134,Rx-Only,74,F,False
+C00135,Health Seekers,30,M,False
+C00136,Chronic Loyalists,22,F,True
+C00137,Chronic Loyalists,47,F,True
+C00138,Rx-Only,33,F,False
+C00139,Price Sensitives,38,M,True
+C00140,Occasional Visitors,42,F,False
+C00141,Price Sensitives,55,M,True
+C00142,Health Seekers,48,M,True
+C00143,Rx-Only,45,F,True
+C00144,Price Sensitives,26,F,True
+C00145,Occasional Visitors,38,M,True
+C00146,At-Risk Lapsing,74,M,True
+C00147,Rx-Only,32,M,True
+C00148,Rx-Only,32,M,True
+C00149,Occasional Visitors,46,F,True
+C00150,Occasional Visitors,71,F,True
+C00151,Occasional Visitors,39,M,True
+C00152,Chronic Loyalists,22,F,True
+C00153,Health Seekers,35,M,True
+C00154,Occasional Visitors,43,M,False
+C00155,Price Sensitives,38,M,False
+C00156,Occasional Visitors,73,M,True
+C00157,Rx-Only,47,F,True
+C00158,Occasional Visitors,35,M,True
+C00159,Occasional Visitors,44,F,True
+C00160,Chronic Loyalists,59,F,True
+C00161,Occasional Visitors,49,M,True
+C00162,Chronic Loyalists,47,F,True
+C00163,Rx-Only,25,M,True
+C00164,Chronic Loyalists,68,F,True
+C00165,Rx-Only,63,M,True
+C00166,Rx-Only,77,F,True
+C00167,Health Seekers,43,M,True
+C00168,Chronic Loyalists,51,M,False
+C00169,Chronic Loyalists,52,M,False
+C00170,Price Sensitives,41,F,False
+C00171,Occasional Visitors,70,F,True
+C00172,Occasional Visitors,23,F,True
+C00173,Health Seekers,65,M,False
+C00174,Chronic Loyalists,41,M,True
+C00175,Occasional Visitors,59,F,True
+C00176,Rx-Only,64,F,True
+C00177,Chronic Loyalists,44,F,True
+C00178,Chronic Loyalists,58,M,True
+C00179,Rx-Only,76,F,True
+C00180,Occasional Visitors,65,M,False
+C00181,At-Risk Lapsing,55,M,True
+C00182,Occasional Visitors,43,M,False
+C00183,Occasional Visitors,58,M,True
+C00184,Chronic Loyalists,26,M,True
+C00185,Health Seekers,66,F,True
+C00186,Occasional Visitors,53,F,True
+C00187,Occasional Visitors,36,F,True
+C00188,Health Seekers,23,F,False
+C00189,Rx-Only,27,F,True
+C00190,Occasional Visitors,73,F,True
+C00191,Rx-Only,60,F,False
+C00192,Health Seekers,58,F,True
+C00193,Occasional Visitors,26,F,True
+C00194,Occasional Visitors,52,M,True
+C00195,Rx-Only,36,F,True
+C00196,Rx-Only,66,F,True
+C00197,Rx-Only,47,M,True
+C00198,At-Risk Lapsing,61,F,True
+C00199,Rx-Only,67,F,False
+C00200,Rx-Only,46,M,True
+C00201,Price Sensitives,57,F,False
+C00202,Chronic Loyalists,63,F,True
+C00203,Rx-Only,50,M,False
+C00204,Rx-Only,67,M,True
+C00205,Chronic Loyalists,22,F,True
+C00206,Health Seekers,30,F,True
+C00207,Chronic Loyalists,62,M,True
+C00208,Price Sensitives,23,F,True
+C00209,Price Sensitives,64,M,False
+C00210,Health Seekers,46,F,True
+C00211,Health Seekers,64,F,True
+C00212,Rx-Only,38,F,True
+C00213,Price Sensitives,61,F,True
+C00214,Chronic Loyalists,44,M,False
+C00215,Chronic Loyalists,50,F,True
+C00216,Chronic Loyalists,35,F,True
+C00217,Rx-Only,71,F,False
+C00218,Chronic Loyalists,50,M,False
+C00219,Health Seekers,67,F,False
+C00220,Chronic Loyalists,71,F,True
+C00221,Health Seekers,45,M,True
+C00222,Health Seekers,58,M,True
+C00223,Occasional Visitors,56,M,True
+C00224,Price Sensitives,64,F,False
+C00225,Chronic Loyalists,35,M,False
+C00226,Rx-Only,54,M,True
+C00227,Price Sensitives,50,M,False
+C00228,Occasional Visitors,41,M,False
+C00229,Health Seekers,76,M,True
+C00230,Occasional Visitors,30,M,True
+C00231,Price Sensitives,43,F,True
+C00232,Rx-Only,67,F,True
+C00233,Chronic Loyalists,35,F,True
+C00234,Health Seekers,75,F,True
+C00235,Rx-Only,66,F,True
+C00236,Price Sensitives,42,F,True
+C00237,Chronic Loyalists,58,F,False
+C00238,Chronic Loyalists,43,M,False
+C00239,Occasional Visitors,55,F,True
+C00240,Chronic Loyalists,66,F,True
+C00241,Rx-Only,23,M,True
+C00242,Chronic Loyalists,72,M,True
+C00243,Health Seekers,70,F,True
+C00244,Rx-Only,68,F,True
+C00245,Chronic Loyalists,57,F,True
+C00246,Occasional Visitors,66,M,True
+C00247,Rx-Only,30,M,True
+C00248,Occasional Visitors,61,M,True
+C00249,Occasional Visitors,58,M,False
+C00250,Chronic Loyalists,33,M,True
+C00251,At-Risk Lapsing,38,F,True
+C00252,Chronic Loyalists,37,F,True
+C00253,Occasional Visitors,58,F,False
+C00254,Health Seekers,46,F,True
+C00255,Price Sensitives,68,M,True
+C00256,At-Risk Lapsing,47,F,False
+C00257,Chronic Loyalists,74,F,True
+C00258,Rx-Only,50,F,False
+C00259,Rx-Only,63,F,True
+C00260,Health Seekers,66,M,True
+C00261,Occasional Visitors,65,F,False
+C00262,Rx-Only,43,M,True
+C00263,Rx-Only,65,M,True
+C00264,At-Risk Lapsing,76,M,True
+C00265,Price Sensitives,60,M,True
+C00266,Chronic Loyalists,74,F,True
+C00267,Health Seekers,51,M,True
+C00268,Occasional Visitors,70,M,True
+C00269,Health Seekers,25,F,True
+C00270,Price Sensitives,36,M,True
+C00271,Occasional Visitors,33,F,False
+C00272,Health Seekers,27,F,False
+C00273,Price Sensitives,55,M,False
+C00274,Health Seekers,41,F,True
+C00275,Rx-Only,31,M,True
+C00276,Chronic Loyalists,24,F,False
+C00277,At-Risk Lapsing,70,F,True
+C00278,Rx-Only,63,F,True
+C00279,Chronic Loyalists,53,F,True
+C00280,Rx-Only,30,F,False
+C00281,Price Sensitives,24,M,True
+C00282,Chronic Loyalists,55,F,False
+C00283,Rx-Only,55,M,True
+C00284,Occasional Visitors,69,F,True
+C00285,Health Seekers,34,F,False
+C00286,Rx-Only,53,F,False
+C00287,Health Seekers,55,F,False
+C00288,Price Sensitives,40,F,True
+C00289,Chronic Loyalists,69,F,False
+C00290,Price Sensitives,57,F,False
+C00291,Chronic Loyalists,64,F,True
+C00292,Occasional Visitors,31,F,True
+C00293,Price Sensitives,39,F,False
+C00294,Rx-Only,60,M,True
+C00295,At-Risk Lapsing,38,M,True
+C00296,Chronic Loyalists,66,F,True
+C00297,Chronic Loyalists,62,F,True
+C00298,Price Sensitives,50,F,True
+C00299,Occasional Visitors,25,M,True
+C00300,Chronic Loyalists,31,F,True
+C00301,Price Sensitives,35,F,False
+C00302,Occasional Visitors,56,F,True
+C00303,Chronic Loyalists,54,M,True
+C00304,Health Seekers,44,M,True
+C00305,Price Sensitives,56,F,True
+C00306,Occasional Visitors,50,M,False
+C00307,Occasional Visitors,41,F,True
+C00308,At-Risk Lapsing,65,M,True
+C00309,Price Sensitives,58,F,True
+C00310,Health Seekers,24,M,True
+C00311,Health Seekers,56,M,True
+C00312,Price Sensitives,37,F,True
+C00313,Chronic Loyalists,50,F,False
+C00314,Rx-Only,28,F,True
+C00315,Price Sensitives,24,M,True
+C00316,Chronic Loyalists,28,M,True
+C00317,Chronic Loyalists,43,F,True
+C00318,At-Risk Lapsing,38,M,True
+C00319,Health Seekers,67,F,True
+C00320,Occasional Visitors,54,F,False
+C00321,Occasional Visitors,72,M,True
+C00322,At-Risk Lapsing,53,M,True
+C00323,Chronic Loyalists,54,F,True
+C00324,Rx-Only,54,F,True
+C00325,Chronic Loyalists,43,M,False
+C00326,Occasional Visitors,71,F,True
+C00327,Occasional Visitors,61,F,True
+C00328,Chronic Loyalists,27,F,True
+C00329,Occasional Visitors,29,F,True
+C00330,Occasional Visitors,68,F,True
+C00331,Price Sensitives,25,F,False
+C00332,Rx-Only,62,M,True
+C00333,Chronic Loyalists,44,F,True
+C00334,Chronic Loyalists,76,F,True
+C00335,Occasional Visitors,76,M,True
+C00336,Chronic Loyalists,40,M,False
+C00337,Rx-Only,49,M,True
+C00338,Rx-Only,36,M,True
+C00339,At-Risk Lapsing,45,M,True
+C00340,Health Seekers,41,F,True
+C00341,Rx-Only,57,M,True
+C00342,Price Sensitives,55,F,True
+C00343,At-Risk Lapsing,75,M,True
+C00344,Rx-Only,42,F,True
+C00345,Rx-Only,51,M,True
+C00346,Rx-Only,58,F,True
+C00347,Chronic Loyalists,68,F,True
+C00348,Chronic Loyalists,38,M,False
+C00349,Price Sensitives,26,M,False
+C00350,Chronic Loyalists,66,M,True
+C00351,Chronic Loyalists,35,M,True
+C00352,Chronic Loyalists,26,M,True
+C00353,Health Seekers,75,M,True
+C00354,Health Seekers,33,F,False
+C00355,Price Sensitives,65,F,True
+C00356,At-Risk Lapsing,30,F,False
+C00357,Chronic Loyalists,76,M,True
+C00358,Health Seekers,70,F,True
+C00359,Rx-Only,64,M,True
+C00360,Price Sensitives,52,M,True
+C00361,Health Seekers,59,M,True
+C00362,Chronic Loyalists,71,M,True
+C00363,Chronic Loyalists,76,F,True
+C00364,At-Risk Lapsing,68,F,False
+C00365,Price Sensitives,31,M,True
+C00366,Occasional Visitors,68,F,True
+C00367,Price Sensitives,67,F,True
+C00368,Price Sensitives,35,M,True
+C00369,Chronic Loyalists,49,M,True
+C00370,At-Risk Lapsing,62,F,False
+C00371,Chronic Loyalists,52,F,False
+C00372,Occasional Visitors,25,F,False
+C00373,Occasional Visitors,62,M,False
+C00374,Health Seekers,75,F,True
+C00375,Health Seekers,28,F,True
+C00376,Rx-Only,70,F,True
+C00377,Chronic Loyalists,56,M,True
+C00378,Rx-Only,24,F,False
+C00379,Rx-Only,74,F,True
+C00380,Health Seekers,58,M,True
+C00381,Occasional Visitors,27,F,True
+C00382,Rx-Only,42,M,True
+C00383,Chronic Loyalists,36,M,False
+C00384,Chronic Loyalists,34,M,True
+C00385,Rx-Only,74,M,True
+C00386,Rx-Only,29,M,True
+C00387,Health Seekers,34,M,True
+C00388,Chronic Loyalists,65,M,True
+C00389,Health Seekers,70,F,True
+C00390,Occasional Visitors,22,M,True
+C00391,Chronic Loyalists,34,F,False
+C00392,Rx-Only,47,M,True
+C00393,Health Seekers,63,F,True
+C00394,Health Seekers,25,M,False
+C00395,Occasional Visitors,39,F,True
+C00396,Rx-Only,26,M,True
+C00397,Rx-Only,42,M,True
+C00398,Health Seekers,28,F,True
+C00399,Rx-Only,46,F,True
+C00400,Occasional Visitors,63,M,True
+C00401,Occasional Visitors,60,M,False
+C00402,Rx-Only,59,F,True
+C00403,Health Seekers,58,F,True
+C00404,Health Seekers,62,F,True
+C00405,Occasional Visitors,65,M,True
+C00406,Price Sensitives,71,F,True
+C00407,Rx-Only,43,F,False
+C00408,Health Seekers,56,F,True
+C00409,Rx-Only,57,F,True
+C00410,Chronic Loyalists,37,M,True
+C00411,Occasional Visitors,38,M,False
+C00412,Rx-Only,51,M,True
+C00413,Chronic Loyalists,41,F,True
+C00414,Occasional Visitors,41,F,True
+C00415,Occasional Visitors,54,F,True
+C00416,Chronic Loyalists,35,M,True
+C00417,Health Seekers,42,M,True
+C00418,Health Seekers,73,M,False
+C00419,Rx-Only,56,F,True
+C00420,Price Sensitives,63,F,True
+C00421,Rx-Only,66,M,False
+C00422,Occasional Visitors,24,F,True
+C00423,Chronic Loyalists,42,M,True
+C00424,Health Seekers,41,F,False
+C00425,Chronic Loyalists,75,M,True
+C00426,Rx-Only,75,F,True
+C00427,Health Seekers,46,F,True
+C00428,Chronic Loyalists,46,M,True
+C00429,Price Sensitives,41,M,True
+C00430,Rx-Only,50,M,True
+C00431,Chronic Loyalists,72,F,True
+C00432,Chronic Loyalists,32,F,True
+C00433,At-Risk Lapsing,40,M,True
+C00434,Occasional Visitors,67,M,True
+C00435,Chronic Loyalists,25,F,True
+C00436,Rx-Only,73,M,True
+C00437,Rx-Only,58,F,True
+C00438,Health Seekers,48,M,False
+C00439,Health Seekers,26,M,True
+C00440,Rx-Only,59,M,False
+C00441,Chronic Loyalists,26,M,True
+C00442,Rx-Only,74,F,False
+C00443,Health Seekers,70,F,True
+C00444,Chronic Loyalists,25,F,True
+C00445,Rx-Only,62,F,False
+C00446,Occasional Visitors,34,M,True
+C00447,Occasional Visitors,62,F,True
+C00448,Health Seekers,31,F,True
+C00449,Occasional Visitors,76,F,False
+C00450,Rx-Only,36,F,True
+C00451,Chronic Loyalists,53,F,True
+C00452,Chronic Loyalists,44,F,True
+C00453,Chronic Loyalists,26,F,True
+C00454,Health Seekers,32,F,False
+C00455,Chronic Loyalists,64,M,True
+C00456,Occasional Visitors,31,M,True
+C00457,At-Risk Lapsing,52,F,True
+C00458,At-Risk Lapsing,36,M,True
+C00459,Rx-Only,35,M,False
+C00460,Chronic Loyalists,71,M,True
+C00461,At-Risk Lapsing,75,F,False
+C00462,Rx-Only,53,F,True
+C00463,Chronic Loyalists,39,M,True
+C00464,Rx-Only,46,M,True
+C00465,Chronic Loyalists,53,F,True
+C00466,Health Seekers,53,M,False
+C00467,Rx-Only,42,F,True
+C00468,Occasional Visitors,67,F,True
+C00469,Chronic Loyalists,43,F,True
+C00470,Occasional Visitors,23,M,True
+C00471,Occasional Visitors,52,F,True
+C00472,Health Seekers,43,F,True
+C00473,Health Seekers,40,M,True
+C00474,Price Sensitives,58,M,True
+C00475,Chronic Loyalists,22,F,False
+C00476,Rx-Only,63,F,True
+C00477,Occasional Visitors,60,F,True
+C00478,Health Seekers,30,F,True
+C00479,Occasional Visitors,33,F,True
+C00480,At-Risk Lapsing,41,M,True
+C00481,Health Seekers,77,F,True
+C00482,Rx-Only,41,F,True
+C00483,Health Seekers,42,M,True
+C00484,Rx-Only,25,M,True
+C00485,Rx-Only,25,F,True
+C00486,Rx-Only,76,F,True
+C00487,Occasional Visitors,39,F,True
+C00488,Health Seekers,67,M,True
+C00489,At-Risk Lapsing,74,F,True
+C00490,Rx-Only,57,M,True
+C00491,Chronic Loyalists,73,M,False
+C00492,At-Risk Lapsing,75,F,True
+C00493,Rx-Only,69,M,True
+C00494,Occasional Visitors,32,F,False
+C00495,Chronic Loyalists,73,M,True
+C00496,Occasional Visitors,51,F,True
+C00497,Rx-Only,66,F,True
+C00498,Rx-Only,72,M,True
+C00499,Occasional Visitors,31,F,True
+C00500,Rx-Only,60,F,False
+C00501,Occasional Visitors,27,M,True
+C00502,Chronic Loyalists,52,F,True
+C00503,Chronic Loyalists,65,M,True
+C00504,Health Seekers,49,F,False
+C00505,Rx-Only,46,F,True
+C00506,Price Sensitives,64,M,False
+C00507,Chronic Loyalists,25,M,False
+C00508,Price Sensitives,39,F,True
+C00509,Chronic Loyalists,69,F,True
+C00510,Occasional Visitors,42,M,True
+C00511,Chronic Loyalists,45,M,True
+C00512,Rx-Only,62,M,True
+C00513,Health Seekers,28,F,True
+C00514,Health Seekers,49,F,True
+C00515,Rx-Only,55,M,True
+C00516,Rx-Only,26,F,False
+C00517,Chronic Loyalists,37,M,True
+C00518,Health Seekers,68,F,False
+C00519,At-Risk Lapsing,72,F,True
+C00520,Health Seekers,41,F,False
+C00521,Chronic Loyalists,61,F,False
+C00522,Health Seekers,62,F,False
+C00523,Chronic Loyalists,46,M,True
+C00524,Health Seekers,56,M,True
+C00525,Health Seekers,64,F,False
+C00526,Chronic Loyalists,49,F,True
+C00527,Rx-Only,36,F,True
+C00528,Rx-Only,27,F,True
+C00529,Health Seekers,48,M,False
+C00530,Rx-Only,76,M,False
+C00531,Occasional Visitors,58,M,True
+C00532,Chronic Loyalists,53,M,True
+C00533,At-Risk Lapsing,66,F,True
+C00534,Rx-Only,25,F,False
+C00535,Chronic Loyalists,48,F,True
+C00536,Occasional Visitors,47,M,True
+C00537,Chronic Loyalists,50,M,False
+C00538,Occasional Visitors,65,F,False
+C00539,Occasional Visitors,30,M,True
+C00540,Occasional Visitors,49,F,True
+C00541,Chronic Loyalists,47,M,True
+C00542,Health Seekers,68,M,True
+C00543,Rx-Only,43,F,False
+C00544,At-Risk Lapsing,56,M,True
+C00545,Chronic Loyalists,56,F,True
+C00546,Chronic Loyalists,41,M,False
+C00547,Chronic Loyalists,24,F,True
+C00548,Health Seekers,42,M,True
+C00549,Occasional Visitors,57,F,False
+C00550,Occasional Visitors,34,F,True
+C00551,Price Sensitives,48,F,True
+C00552,Rx-Only,59,M,True
+C00553,Health Seekers,51,F,True
+C00554,Chronic Loyalists,45,M,False
+C00555,Price Sensitives,40,F,False
+C00556,Occasional Visitors,49,M,False
+C00557,Occasional Visitors,76,F,True
+C00558,Rx-Only,77,F,True
+C00559,Health Seekers,30,M,True
+C00560,Occasional Visitors,74,M,True
+C00561,Occasional Visitors,25,M,False
+C00562,Price Sensitives,67,M,False
+C00563,Rx-Only,37,M,False
+C00564,Rx-Only,32,F,False
+C00565,Occasional Visitors,69,F,True
+C00566,Chronic Loyalists,30,F,True
+C00567,Chronic Loyalists,53,F,True
+C00568,Chronic Loyalists,75,M,False
+C00569,Health Seekers,73,M,True
+C00570,Rx-Only,50,F,True
+C00571,Chronic Loyalists,43,F,False
+C00572,Health Seekers,48,F,True
+C00573,Rx-Only,43,M,True
+C00574,Rx-Only,48,M,True
+C00575,Rx-Only,66,F,True
+C00576,Rx-Only,41,M,True
+C00577,Price Sensitives,70,M,True
+C00578,Chronic Loyalists,47,F,True
+C00579,Health Seekers,75,F,True
+C00580,Health Seekers,38,M,True
+C00581,Rx-Only,60,F,True
+C00582,Rx-Only,67,M,True
+C00583,Rx-Only,29,F,True
+C00584,Health Seekers,66,F,False
+C00585,Chronic Loyalists,48,M,True
+C00586,Chronic Loyalists,68,F,True
+C00587,Occasional Visitors,57,M,True
+C00588,Rx-Only,41,F,True
+C00589,Health Seekers,60,M,True
+C00590,Health Seekers,32,F,True
+C00591,Price Sensitives,60,F,True
+C00592,Chronic Loyalists,23,F,False
+C00593,Chronic Loyalists,38,F,True
+C00594,Rx-Only,66,M,False
+C00595,Rx-Only,52,F,False
+C00596,Occasional Visitors,75,F,True
+C00597,Chronic Loyalists,30,M,False
+C00598,Health Seekers,24,F,False
+C00599,Chronic Loyalists,32,F,True
+C00600,Chronic Loyalists,54,F,True
+C00601,Rx-Only,58,F,True
+C00602,Health Seekers,31,F,True
+C00603,Health Seekers,48,M,True
+C00604,Occasional Visitors,29,M,True
+C00605,At-Risk Lapsing,22,M,True
+C00606,At-Risk Lapsing,51,M,True
+C00607,At-Risk Lapsing,25,M,True
+C00608,Price Sensitives,48,M,True
+C00609,Occasional Visitors,36,F,True
+C00610,Occasional Visitors,58,F,True
+C00611,Price Sensitives,25,F,True
+C00612,Chronic Loyalists,68,M,True
+C00613,Rx-Only,58,F,True
+C00614,Occasional Visitors,44,M,True
+C00615,Health Seekers,72,M,True
+C00616,Health Seekers,65,F,True
+C00617,Rx-Only,45,F,True
+C00618,Rx-Only,72,F,True
+C00619,Rx-Only,45,F,True
+C00620,Chronic Loyalists,26,F,True
+C00621,Chronic Loyalists,48,F,True
+C00622,Rx-Only,75,M,False
+C00623,Chronic Loyalists,77,M,False
+C00624,Chronic Loyalists,40,F,True
+C00625,Rx-Only,57,M,True
+C00626,Rx-Only,48,F,True
+C00627,Occasional Visitors,74,F,True
+C00628,Occasional Visitors,68,F,False
+C00629,Chronic Loyalists,30,M,True
+C00630,Occasional Visitors,53,M,True
+C00631,Health Seekers,26,F,True
+C00632,Occasional Visitors,71,F,True
+C00633,Occasional Visitors,75,F,True
+C00634,Rx-Only,33,F,True
+C00635,Rx-Only,51,M,False
+C00636,At-Risk Lapsing,61,M,True
+C00637,Occasional Visitors,46,F,True
+C00638,Chronic Loyalists,29,F,True
+C00639,Price Sensitives,56,F,True
+C00640,Rx-Only,67,M,True
+C00641,Chronic Loyalists,56,F,True
+C00642,Price Sensitives,55,M,True
+C00643,Price Sensitives,23,M,True
+C00644,Occasional Visitors,37,F,True
+C00645,Occasional Visitors,77,M,True
+C00646,Health Seekers,29,M,True
+C00647,Price Sensitives,50,F,False
+C00648,Rx-Only,51,F,True
+C00649,Rx-Only,46,M,False
+C00650,Price Sensitives,31,F,True
+C00651,Chronic Loyalists,53,F,True
+C00652,Occasional Visitors,45,M,True
+C00653,Chronic Loyalists,44,F,True
+C00654,Health Seekers,39,F,True
+C00655,Occasional Visitors,36,M,True
+C00656,Occasional Visitors,39,M,True
+C00657,Chronic Loyalists,71,F,True
+C00658,Chronic Loyalists,49,M,True
+C00659,Rx-Only,55,M,False
+C00660,Price Sensitives,40,F,True
+C00661,At-Risk Lapsing,58,M,True
+C00662,Rx-Only,48,F,True
+C00663,Chronic Loyalists,42,F,True
+C00664,At-Risk Lapsing,68,F,True
+C00665,Rx-Only,40,F,True
+C00666,Rx-Only,60,F,True
+C00667,Chronic Loyalists,35,F,True
+C00668,Occasional Visitors,39,F,True
+C00669,Occasional Visitors,30,F,True
+C00670,Price Sensitives,54,F,False
+C00671,Chronic Loyalists,30,M,True
+C00672,Occasional Visitors,27,F,True
+C00673,Occasional Visitors,75,F,True
+C00674,Chronic Loyalists,34,M,True
+C00675,Rx-Only,68,F,True
+C00676,Price Sensitives,23,M,True
+C00677,Rx-Only,46,F,True
+C00678,Rx-Only,45,F,False
+C00679,Rx-Only,59,F,True
+C00680,Occasional Visitors,61,M,False
+C00681,Rx-Only,63,F,False
+C00682,Chronic Loyalists,28,M,True
+C00683,Occasional Visitors,28,M,True
+C00684,Chronic Loyalists,64,F,True
+C00685,Occasional Visitors,53,F,False
+C00686,Occasional Visitors,29,M,True
+C00687,Price Sensitives,50,M,True
+C00688,Rx-Only,36,M,True
+C00689,At-Risk Lapsing,30,M,True
+C00690,Occasional Visitors,32,F,True
+C00691,Health Seekers,47,M,True
+C00692,Occasional Visitors,66,M,False
+C00693,Rx-Only,25,M,True
+C00694,Occasional Visitors,68,F,True
+C00695,Rx-Only,68,M,True
+C00696,Chronic Loyalists,26,F,True
+C00697,Rx-Only,59,F,True
+C00698,Price Sensitives,67,M,True
+C00699,Occasional Visitors,39,F,True
+C00700,Rx-Only,24,M,True
+C00701,Price Sensitives,65,F,False
+C00702,Occasional Visitors,32,M,True
+C00703,Chronic Loyalists,25,F,False
+C00704,At-Risk Lapsing,33,M,True
+C00705,Rx-Only,76,M,True
+C00706,Chronic Loyalists,72,F,True
+C00707,At-Risk Lapsing,74,F,False
+C00708,Health Seekers,63,F,True
+C00709,Health Seekers,64,F,True
+C00710,Occasional Visitors,43,F,False
+C00711,Occasional Visitors,49,F,True
+C00712,Rx-Only,45,F,True
+C00713,Occasional Visitors,48,M,True
+C00714,Rx-Only,65,F,True
+C00715,Chronic Loyalists,76,F,False
+C00716,Occasional Visitors,70,F,True
+C00717,Chronic Loyalists,56,F,True
+C00718,Rx-Only,66,M,True
+C00719,Rx-Only,22,M,True
+C00720,At-Risk Lapsing,44,F,True
+C00721,Chronic Loyalists,22,M,False
+C00722,Health Seekers,25,F,True
+C00723,Rx-Only,33,F,True
+C00724,Rx-Only,76,F,False
+C00725,Occasional Visitors,44,F,True
+C00726,Chronic Loyalists,50,M,True
+C00727,Chronic Loyalists,67,M,True
+C00728,Price Sensitives,22,M,False
+C00729,Occasional Visitors,57,F,False
+C00730,Occasional Visitors,24,F,True
+C00731,Chronic Loyalists,73,M,True
+C00732,Rx-Only,62,M,True
+C00733,Health Seekers,31,M,True
+C00734,Health Seekers,24,F,True
+C00735,Occasional Visitors,57,F,False
+C00736,Rx-Only,71,F,False
+C00737,Occasional Visitors,35,M,True
+C00738,At-Risk Lapsing,57,F,False
+C00739,Health Seekers,42,M,True
+C00740,Rx-Only,31,M,True
+C00741,Rx-Only,32,F,True
+C00742,Rx-Only,73,F,True
+C00743,Chronic Loyalists,22,F,True
+C00744,Price Sensitives,45,M,True
+C00745,Chronic Loyalists,27,F,True
+C00746,Price Sensitives,38,M,True
+C00747,Chronic Loyalists,27,M,False
+C00748,Chronic Loyalists,70,F,True
+C00749,Rx-Only,38,M,True
+C00750,Health Seekers,25,M,True
+C00751,Chronic Loyalists,54,F,True
+C00752,Rx-Only,27,F,False
+C00753,Rx-Only,26,F,False
+C00754,At-Risk Lapsing,56,F,True
+C00755,Price Sensitives,46,M,True
+C00756,Health Seekers,77,F,True
+C00757,Health Seekers,76,F,False
+C00758,Rx-Only,73,F,True
+C00759,Chronic Loyalists,74,M,True
+C00760,Price Sensitives,26,F,True
+C00761,Chronic Loyalists,54,M,True
+C00762,Occasional Visitors,23,M,True
+C00763,At-Risk Lapsing,41,F,True
+C00764,Chronic Loyalists,40,F,True
+C00765,Health Seekers,31,F,True
+C00766,Rx-Only,38,M,True
+C00767,Rx-Only,26,M,True
+C00768,Health Seekers,33,M,True
+C00769,Rx-Only,37,F,True
+C00770,At-Risk Lapsing,64,F,True
+C00771,Price Sensitives,41,M,True
+C00772,Rx-Only,41,M,True
+C00773,Chronic Loyalists,24,M,True
+C00774,Occasional Visitors,69,F,True
+C00775,Health Seekers,23,F,False
+C00776,Rx-Only,74,F,True
+C00777,Chronic Loyalists,77,F,True
+C00778,Chronic Loyalists,22,M,True
+C00779,Rx-Only,40,F,True
+C00780,Rx-Only,53,F,False
+C00781,Rx-Only,48,M,True
+C00782,Chronic Loyalists,46,M,True
+C00783,Rx-Only,48,M,True
+C00784,Rx-Only,62,M,True
+C00785,Occasional Visitors,74,F,True
+C00786,Chronic Loyalists,54,M,True
+C00787,Chronic Loyalists,71,F,True
+C00788,Rx-Only,51,F,False
+C00789,Health Seekers,57,F,True
+C00790,Health Seekers,59,F,True
+C00791,Health Seekers,67,M,False
+C00792,Occasional Visitors,60,M,True
+C00793,Price Sensitives,30,M,False
+C00794,Rx-Only,64,F,False
+C00795,Rx-Only,64,F,True
+C00796,Rx-Only,32,F,True
+C00797,Rx-Only,64,F,False
+C00798,Health Seekers,24,M,True
+C00799,Price Sensitives,42,M,True
+C00800,Chronic Loyalists,42,F,True
+C00801,Occasional Visitors,56,F,True
+C00802,Price Sensitives,48,F,True
+C00803,Health Seekers,73,F,False
+C00804,Price Sensitives,53,F,True
+C00805,Health Seekers,60,M,True
+C00806,Health Seekers,72,F,True
+C00807,Price Sensitives,63,F,True
+C00808,Rx-Only,51,M,True
+C00809,Rx-Only,44,M,True
+C00810,Rx-Only,66,M,True
+C00811,Rx-Only,65,F,True
+C00812,Health Seekers,64,F,False
+C00813,Health Seekers,72,M,True
+C00814,Health Seekers,76,M,True
+C00815,Chronic Loyalists,49,F,False
+C00816,Rx-Only,54,F,True
+C00817,Occasional Visitors,50,F,True
+C00818,Price Sensitives,55,M,False
+C00819,Occasional Visitors,74,M,True
+C00820,Chronic Loyalists,47,F,True
+C00821,Price Sensitives,28,F,False
+C00822,Occasional Visitors,38,F,True
+C00823,Rx-Only,50,F,True
+C00824,Price Sensitives,75,F,True
+C00825,Occasional Visitors,43,F,True
+C00826,Health Seekers,62,F,True
+C00827,Price Sensitives,66,F,True
+C00828,Rx-Only,61,M,True
+C00829,Chronic Loyalists,43,F,True
+C00830,Chronic Loyalists,70,M,True
+C00831,At-Risk Lapsing,41,F,True
+C00832,Health Seekers,40,M,True
+C00833,Occasional Visitors,25,F,True
+C00834,Occasional Visitors,64,F,True
+C00835,Occasional Visitors,70,M,True
+C00836,Chronic Loyalists,77,F,True
+C00837,Rx-Only,58,F,True
+C00838,Rx-Only,38,M,True
+C00839,Occasional Visitors,28,F,True
+C00840,Health Seekers,38,M,True
+C00841,Occasional Visitors,57,F,True
+C00842,Occasional Visitors,33,F,True
+C00843,Health Seekers,29,F,True
+C00844,Chronic Loyalists,51,F,True
+C00845,Chronic Loyalists,38,F,True
+C00846,Occasional Visitors,39,F,True
+C00847,Rx-Only,68,F,True
+C00848,Health Seekers,66,F,True
+C00849,Chronic Loyalists,57,F,True
+C00850,Occasional Visitors,25,F,False
+C00851,Occasional Visitors,58,F,True
+C00852,Chronic Loyalists,58,M,True
+C00853,Price Sensitives,36,F,True
+C00854,Occasional Visitors,27,M,True
+C00855,Rx-Only,50,M,True
+C00856,Occasional Visitors,32,F,True
+C00857,At-Risk Lapsing,48,F,True
+C00858,Occasional Visitors,53,F,True
+C00859,Rx-Only,52,M,True
+C00860,At-Risk Lapsing,32,M,False
+C00861,Rx-Only,69,M,True
+C00862,Occasional Visitors,71,F,True
+C00863,Chronic Loyalists,64,M,False
+C00864,Price Sensitives,31,M,True
+C00865,Rx-Only,40,M,True
+C00866,Rx-Only,69,F,False
+C00867,Health Seekers,49,F,True
+C00868,Rx-Only,71,F,False
+C00869,Price Sensitives,35,M,True
+C00870,Occasional Visitors,76,F,True
+C00871,Price Sensitives,65,F,True
+C00872,Occasional Visitors,62,M,True
+C00873,Occasional Visitors,28,F,True
+C00874,Occasional Visitors,43,F,True
+C00875,Price Sensitives,71,M,False
+C00876,Rx-Only,64,F,True
+C00877,At-Risk Lapsing,24,F,False
+C00878,Price Sensitives,23,F,True
+C00879,Price Sensitives,47,F,True
+C00880,Rx-Only,41,M,True
+C00881,Price Sensitives,41,F,False
+C00882,Occasional Visitors,28,F,False
+C00883,Occasional Visitors,48,F,True
+C00884,Occasional Visitors,56,M,True
+C00885,Occasional Visitors,52,F,True
+C00886,Occasional Visitors,51,M,True
+C00887,Rx-Only,33,F,False
+C00888,Health Seekers,67,M,True
+C00889,Health Seekers,41,M,False
+C00890,Chronic Loyalists,24,F,True
+C00891,Occasional Visitors,67,F,True
+C00892,Chronic Loyalists,31,M,True
+C00893,Health Seekers,57,M,False
+C00894,Occasional Visitors,59,F,True
+C00895,Chronic Loyalists,23,F,True
+C00896,Occasional Visitors,26,F,False
+C00897,Health Seekers,45,F,True
+C00898,Price Sensitives,22,F,True
+C00899,Occasional Visitors,63,M,True
+C00900,Chronic Loyalists,46,F,True
+C00901,Price Sensitives,36,M,True
+C00902,Rx-Only,53,F,True
+C00903,Rx-Only,34,F,True
+C00904,Occasional Visitors,28,M,False
+C00905,Chronic Loyalists,60,F,False
+C00906,Price Sensitives,66,F,True
+C00907,Rx-Only,47,F,True
+C00908,Rx-Only,46,F,True
+C00909,Rx-Only,49,M,False
+C00910,Chronic Loyalists,55,F,True
+C00911,At-Risk Lapsing,29,M,False
+C00912,Health Seekers,31,M,True
+C00913,Occasional Visitors,50,F,True
+C00914,Occasional Visitors,62,M,True
+C00915,Rx-Only,43,F,True
+C00916,Occasional Visitors,41,M,True
+C00917,Health Seekers,22,M,True
+C00918,Health Seekers,48,M,True
+C00919,Health Seekers,34,F,True
+C00920,Occasional Visitors,76,F,True
+C00921,Rx-Only,60,F,True
+C00922,Occasional Visitors,34,F,False
+C00923,Chronic Loyalists,38,F,True
+C00924,Rx-Only,65,F,True
+C00925,Health Seekers,73,F,False
+C00926,Occasional Visitors,37,M,True
+C00927,Occasional Visitors,35,F,True
+C00928,Price Sensitives,33,M,False
+C00929,Health Seekers,32,F,True
+C00930,Health Seekers,50,F,False
+C00931,Health Seekers,59,M,False
+C00932,Chronic Loyalists,70,M,True
+C00933,Health Seekers,23,F,False
+C00934,Rx-Only,40,M,True
+C00935,Price Sensitives,72,F,True
+C00936,Price Sensitives,57,F,True
+C00937,Occasional Visitors,62,M,True
+C00938,Occasional Visitors,56,M,True
+C00939,Occasional Visitors,63,M,False
+C00940,Price Sensitives,29,F,True
+C00941,Chronic Loyalists,48,M,True
+C00942,Chronic Loyalists,35,M,False
+C00943,Health Seekers,75,F,False
+C00944,Chronic Loyalists,45,F,False
+C00945,Chronic Loyalists,33,F,True
+C00946,Rx-Only,52,M,False
+C00947,Health Seekers,76,M,True
+C00948,Chronic Loyalists,42,M,False
+C00949,Chronic Loyalists,54,M,True
+C00950,Health Seekers,73,F,True
+C00951,Health Seekers,27,F,True
+C00952,Chronic Loyalists,48,F,False
+C00953,Rx-Only,24,M,True
+C00954,Chronic Loyalists,76,M,False
+C00955,Rx-Only,76,M,True
+C00956,Chronic Loyalists,30,F,False
+C00957,Occasional Visitors,49,M,False
+C00958,Occasional Visitors,29,M,False
+C00959,Occasional Visitors,51,M,False
+C00960,Rx-Only,68,M,True
+C00961,Occasional Visitors,76,M,False
+C00962,Rx-Only,63,M,False
+C00963,Chronic Loyalists,56,M,True
+C00964,Chronic Loyalists,75,M,True
+C00965,Health Seekers,66,F,True
+C00966,Chronic Loyalists,36,F,True
+C00967,Health Seekers,77,F,True
+C00968,Chronic Loyalists,44,F,True
+C00969,Health Seekers,27,M,True
+C00970,Health Seekers,35,F,True
+C00971,Rx-Only,64,M,True
+C00972,Health Seekers,57,F,False
+C00973,Rx-Only,28,M,True
+C00974,Occasional Visitors,27,F,True
+C00975,Chronic Loyalists,68,M,True
+C00976,Chronic Loyalists,47,M,False
+C00977,Chronic Loyalists,29,F,True
+C00978,Health Seekers,23,F,False
+C00979,Health Seekers,37,M,False
+C00980,Chronic Loyalists,74,M,True
+C00981,Price Sensitives,44,F,True
+C00982,Occasional Visitors,67,M,False
+C00983,Rx-Only,63,F,True
+C00984,Health Seekers,31,F,True
+C00985,Rx-Only,63,M,False
+C00986,Health Seekers,38,F,True
+C00987,Occasional Visitors,56,F,True
+C00988,Occasional Visitors,32,F,False
+C00989,At-Risk Lapsing,33,F,True
+C00990,Chronic Loyalists,62,M,True
+C00991,Health Seekers,68,F,False
+C00992,Chronic Loyalists,66,F,True
+C00993,Price Sensitives,67,M,True
+C00994,Chronic Loyalists,35,M,True
+C00995,Health Seekers,32,F,False
+C00996,Chronic Loyalists,23,F,True
+C00997,Chronic Loyalists,37,F,True
+C00998,Occasional Visitors,37,M,False
+C00999,Health Seekers,69,F,True
+C01000,Chronic Loyalists,47,M,True
+C01001,Occasional Visitors,68,F,True
+C01002,Chronic Loyalists,34,F,False
+C01003,Health Seekers,57,F,False
+C01004,Health Seekers,33,M,True
+C01005,Occasional Visitors,66,F,False
+C01006,Occasional Visitors,36,M,True
+C01007,Chronic Loyalists,63,M,True
+C01008,Chronic Loyalists,41,F,True
+C01009,Rx-Only,37,M,False
+C01010,Health Seekers,44,F,True
+C01011,Health Seekers,43,M,True
+C01012,Health Seekers,40,F,False
+C01013,Occasional Visitors,30,F,True
+C01014,Chronic Loyalists,44,F,True
+C01015,Chronic Loyalists,65,M,False
+C01016,Rx-Only,25,F,False
+C01017,Occasional Visitors,42,F,True
+C01018,Rx-Only,23,M,True
+C01019,Health Seekers,38,F,True
+C01020,Price Sensitives,64,M,True
+C01021,Chronic Loyalists,28,M,False
+C01022,Rx-Only,32,F,True
+C01023,Occasional Visitors,28,M,False
+C01024,Chronic Loyalists,47,M,True
+C01025,Occasional Visitors,33,M,False
+C01026,Price Sensitives,70,F,True
+C01027,Rx-Only,59,M,True
+C01028,Occasional Visitors,61,M,True
+C01029,Occasional Visitors,68,M,True
+C01030,Rx-Only,41,F,True
+C01031,Health Seekers,47,F,True
+C01032,Rx-Only,30,F,False
+C01033,Chronic Loyalists,23,M,True
+C01034,Health Seekers,52,F,True
+C01035,Price Sensitives,49,M,True
+C01036,Health Seekers,67,M,True
+C01037,Occasional Visitors,33,M,False
+C01038,At-Risk Lapsing,43,F,True
+C01039,Price Sensitives,46,M,False
+C01040,Rx-Only,59,M,True
+C01041,Chronic Loyalists,26,F,True
+C01042,Rx-Only,35,F,True
+C01043,Occasional Visitors,28,M,False
+C01044,Price Sensitives,75,F,True
+C01045,Chronic Loyalists,73,F,True
+C01046,Chronic Loyalists,54,M,True
+C01047,Chronic Loyalists,44,F,False
+C01048,Price Sensitives,50,M,True
+C01049,Health Seekers,66,F,True
+C01050,Rx-Only,65,M,True
+C01051,At-Risk Lapsing,32,F,False
+C01052,At-Risk Lapsing,67,F,True
+C01053,Rx-Only,22,M,True
+C01054,Rx-Only,69,M,True
+C01055,Occasional Visitors,65,F,True
+C01056,Occasional Visitors,25,M,False
+C01057,Chronic Loyalists,64,M,True
+C01058,Health Seekers,68,F,False
+C01059,Health Seekers,29,F,True
+C01060,Health Seekers,34,F,True
+C01061,Occasional Visitors,72,F,True
+C01062,Health Seekers,47,M,False
+C01063,Rx-Only,27,M,True
+C01064,Chronic Loyalists,56,F,True
+C01065,Price Sensitives,28,F,True
+C01066,Chronic Loyalists,47,F,True
+C01067,Price Sensitives,67,F,False
+C01068,At-Risk Lapsing,75,M,False
+C01069,Rx-Only,53,F,True
+C01070,Health Seekers,62,M,True
+C01071,At-Risk Lapsing,47,F,True
+C01072,Chronic Loyalists,35,M,True
+C01073,Chronic Loyalists,67,M,True
+C01074,Rx-Only,46,M,True
+C01075,Rx-Only,75,F,True
+C01076,Rx-Only,28,F,False
+C01077,Chronic Loyalists,28,F,True
+C01078,Health Seekers,22,M,True
+C01079,Rx-Only,75,M,True
+C01080,Health Seekers,56,M,True
+C01081,Rx-Only,64,F,False
+C01082,Chronic Loyalists,50,M,True
+C01083,Health Seekers,58,M,False
+C01084,Rx-Only,62,F,True
+C01085,Occasional Visitors,33,F,False
+C01086,Health Seekers,28,F,True
+C01087,At-Risk Lapsing,66,M,True
+C01088,Occasional Visitors,40,F,True
+C01089,Price Sensitives,63,F,False
+C01090,At-Risk Lapsing,48,M,False
+C01091,Chronic Loyalists,50,M,True
+C01092,Rx-Only,60,M,True
+C01093,Chronic Loyalists,39,M,True
+C01094,Occasional Visitors,52,F,False
+C01095,Rx-Only,70,F,True
+C01096,Occasional Visitors,27,F,True
+C01097,Chronic Loyalists,37,F,True
+C01098,Rx-Only,30,M,False
+C01099,Rx-Only,63,M,False
+C01100,Occasional Visitors,36,F,True
+C01101,Chronic Loyalists,31,M,True
+C01102,Health Seekers,59,F,True
+C01103,Chronic Loyalists,68,F,True
+C01104,Rx-Only,37,F,False
+C01105,Health Seekers,74,M,True
+C01106,Occasional Visitors,43,F,True
+C01107,Chronic Loyalists,64,F,True
+C01108,Chronic Loyalists,33,F,False
+C01109,Rx-Only,62,M,True
+C01110,Occasional Visitors,64,M,False
+C01111,Chronic Loyalists,49,M,True
+C01112,Chronic Loyalists,77,M,True
+C01113,Chronic Loyalists,55,M,False
+C01114,Occasional Visitors,69,M,True
+C01115,Chronic Loyalists,41,M,False
+C01116,Rx-Only,66,F,False
+C01117,Rx-Only,68,M,False
+C01118,Health Seekers,47,F,False
+C01119,Rx-Only,64,F,True
+C01120,Chronic Loyalists,33,F,True
+C01121,Health Seekers,49,F,False
+C01122,At-Risk Lapsing,56,M,True
+C01123,Rx-Only,34,F,True
+C01124,Chronic Loyalists,69,F,False
+C01125,Price Sensitives,42,M,True
+C01126,Rx-Only,27,M,True
+C01127,Occasional Visitors,53,M,True
+C01128,Rx-Only,54,F,True
+C01129,Rx-Only,39,M,False
+C01130,Health Seekers,71,M,True
+C01131,Occasional Visitors,66,M,True
+C01132,Rx-Only,66,F,True
+C01133,Price Sensitives,49,F,True
+C01134,Health Seekers,71,M,False
+C01135,Occasional Visitors,66,M,True
+C01136,Chronic Loyalists,74,F,True
+C01137,Occasional Visitors,73,M,True
+C01138,Price Sensitives,57,M,True
+C01139,Chronic Loyalists,55,F,True
+C01140,Occasional Visitors,46,F,False
+C01141,Rx-Only,40,M,True
+C01142,Health Seekers,55,M,True
+C01143,Rx-Only,53,F,True
+C01144,Chronic Loyalists,51,F,True
+C01145,Occasional Visitors,36,M,False
+C01146,Health Seekers,47,F,True
+C01147,Rx-Only,26,F,True
+C01148,Price Sensitives,50,F,False
+C01149,Occasional Visitors,52,M,True
+C01150,Health Seekers,30,M,True
+C01151,Chronic Loyalists,34,M,True
+C01152,Health Seekers,77,M,True
+C01153,Rx-Only,44,F,False
+C01154,Price Sensitives,35,M,False
+C01155,Chronic Loyalists,52,F,True
+C01156,Chronic Loyalists,46,F,True
+C01157,Occasional Visitors,24,M,True
+C01158,Rx-Only,26,M,True
+C01159,Rx-Only,37,F,False
+C01160,Occasional Visitors,76,F,True
+C01161,Occasional Visitors,57,M,True
+C01162,Chronic Loyalists,68,M,False
+C01163,Health Seekers,73,F,True
+C01164,Price Sensitives,48,F,True
+C01165,Price Sensitives,39,F,True
+C01166,Health Seekers,38,F,True
+C01167,Chronic Loyalists,55,M,True
+C01168,Chronic Loyalists,47,M,True
+C01169,Occasional Visitors,29,F,True
+C01170,Occasional Visitors,28,M,True
+C01171,Occasional Visitors,77,F,True
+C01172,Rx-Only,66,M,True
+C01173,Chronic Loyalists,28,M,True
+C01174,Occasional Visitors,54,M,True
+C01175,Rx-Only,38,F,False
+C01176,Price Sensitives,68,M,False
+C01177,Occasional Visitors,52,M,True
+C01178,Chronic Loyalists,39,M,False
+C01179,Chronic Loyalists,48,F,True
+C01180,Health Seekers,68,F,True
+C01181,Chronic Loyalists,51,F,True
+C01182,Health Seekers,65,F,True
+C01183,Rx-Only,50,M,True
+C01184,Chronic Loyalists,29,M,True
+C01185,Occasional Visitors,77,F,True
+C01186,Rx-Only,43,M,False
+C01187,Occasional Visitors,64,F,True
+C01188,Occasional Visitors,42,F,True
+C01189,Health Seekers,46,M,False
+C01190,Chronic Loyalists,61,F,False
+C01191,Chronic Loyalists,57,F,True
+C01192,Chronic Loyalists,59,F,False
+C01193,Price Sensitives,54,F,True
+C01194,Health Seekers,48,M,True
+C01195,Chronic Loyalists,57,F,True
+C01196,Chronic Loyalists,63,M,True
+C01197,Rx-Only,70,M,True
+C01198,Price Sensitives,39,F,True
+C01199,Occasional Visitors,25,F,True
+C01200,At-Risk Lapsing,61,M,False
+C01201,Price Sensitives,70,F,True
+C01202,Occasional Visitors,35,F,True
+C01203,At-Risk Lapsing,77,F,True
+C01204,Occasional Visitors,59,F,False
+C01205,Chronic Loyalists,68,M,True
+C01206,Health Seekers,56,M,True
+C01207,Price Sensitives,50,F,True
+C01208,Occasional Visitors,51,M,True
+C01209,Health Seekers,35,F,False
+C01210,Occasional Visitors,76,M,True
+C01211,Price Sensitives,22,F,True
+C01212,Chronic Loyalists,72,F,True
+C01213,Price Sensitives,61,M,True
+C01214,Occasional Visitors,64,M,False
+C01215,At-Risk Lapsing,74,M,True
+C01216,Health Seekers,25,F,True
+C01217,Occasional Visitors,71,M,True
+C01218,Occasional Visitors,53,M,True
+C01219,Chronic Loyalists,27,F,True
+C01220,Chronic Loyalists,47,M,True
+C01221,Health Seekers,36,F,False
+C01222,Price Sensitives,23,F,True
+C01223,At-Risk Lapsing,76,F,True
+C01224,Occasional Visitors,24,M,True
+C01225,Price Sensitives,44,F,False
+C01226,Occasional Visitors,64,M,True
+C01227,Health Seekers,53,F,True
+C01228,Rx-Only,57,F,True
+C01229,Chronic Loyalists,68,M,True
+C01230,Rx-Only,48,F,True
+C01231,Occasional Visitors,23,M,True
+C01232,Rx-Only,46,F,True
+C01233,Rx-Only,32,M,True
+C01234,Chronic Loyalists,62,M,True
+C01235,Chronic Loyalists,58,F,True
+C01236,Occasional Visitors,25,F,True
+C01237,At-Risk Lapsing,61,F,True
+C01238,Rx-Only,50,F,True
+C01239,Occasional Visitors,41,F,True
+C01240,Health Seekers,70,M,True
+C01241,Occasional Visitors,77,F,True
+C01242,Health Seekers,48,F,True
+C01243,Chronic Loyalists,47,M,True
+C01244,Rx-Only,74,M,False
+C01245,Rx-Only,54,M,True
+C01246,Rx-Only,76,F,False
+C01247,Price Sensitives,28,M,True
+C01248,Chronic Loyalists,75,M,True
+C01249,Chronic Loyalists,37,F,True
+C01250,Rx-Only,37,F,True
+C01251,Chronic Loyalists,28,F,True
+C01252,Chronic Loyalists,25,F,False
+C01253,Occasional Visitors,70,F,True
+C01254,Occasional Visitors,45,F,True
+C01255,Rx-Only,69,M,True
+C01256,Health Seekers,34,F,False
+C01257,Chronic Loyalists,67,F,True
+C01258,Price Sensitives,35,F,True
+C01259,Rx-Only,27,F,True
+C01260,Health Seekers,75,F,True
+C01261,Rx-Only,40,M,False
+C01262,Chronic Loyalists,28,F,True
+C01263,Chronic Loyalists,44,F,True
+C01264,Chronic Loyalists,38,F,True
+C01265,Rx-Only,29,F,True
+C01266,At-Risk Lapsing,35,F,True
+C01267,Chronic Loyalists,55,M,True
+C01268,Occasional Visitors,52,F,True
+C01269,Rx-Only,34,F,True
+C01270,At-Risk Lapsing,26,M,True
+C01271,Occasional Visitors,27,M,True
+C01272,Rx-Only,33,F,True
+C01273,Chronic Loyalists,57,M,False
+C01274,Health Seekers,35,F,True
+C01275,Rx-Only,71,M,False
+C01276,Rx-Only,22,F,False
+C01277,Rx-Only,65,F,True
+C01278,Rx-Only,71,M,True
+C01279,At-Risk Lapsing,77,M,True
+C01280,Rx-Only,54,M,True
+C01281,Rx-Only,33,M,True
+C01282,Occasional Visitors,63,M,True
+C01283,Chronic Loyalists,55,M,True
+C01284,Chronic Loyalists,28,M,False
+C01285,Chronic Loyalists,58,M,True
+C01286,Health Seekers,39,M,True
+C01287,Price Sensitives,74,M,False
+C01288,At-Risk Lapsing,47,F,True
+C01289,Occasional Visitors,25,F,True
+C01290,Health Seekers,44,M,True
+C01291,Chronic Loyalists,29,M,True
+C01292,Rx-Only,34,M,True
+C01293,Rx-Only,33,F,True
+C01294,Health Seekers,43,F,True
+C01295,Price Sensitives,45,M,True
+C01296,Occasional Visitors,30,M,False
+C01297,Rx-Only,31,F,True
+C01298,Health Seekers,63,F,True
+C01299,Health Seekers,69,M,True
+C01300,Occasional Visitors,58,F,True
+C01301,Health Seekers,70,F,True
+C01302,At-Risk Lapsing,51,F,True
+C01303,Rx-Only,74,M,True
+C01304,Occasional Visitors,69,M,True
+C01305,Rx-Only,73,M,False
+C01306,At-Risk Lapsing,55,F,False
+C01307,Occasional Visitors,35,M,True
+C01308,Rx-Only,28,F,False
+C01309,At-Risk Lapsing,64,F,True
+C01310,Chronic Loyalists,40,M,True
+C01311,At-Risk Lapsing,39,M,True
+C01312,Rx-Only,55,F,True
+C01313,Price Sensitives,64,F,True
+C01314,Health Seekers,62,F,True
+C01315,Rx-Only,36,M,False
+C01316,Health Seekers,63,M,True
+C01317,Health Seekers,48,F,True
+C01318,Chronic Loyalists,70,M,False
+C01319,Health Seekers,25,F,True
+C01320,Occasional Visitors,68,M,False
+C01321,Rx-Only,55,F,True
+C01322,Rx-Only,68,F,True
+C01323,Rx-Only,65,F,False
+C01324,Chronic Loyalists,71,F,True
+C01325,Chronic Loyalists,25,F,True
+C01326,Chronic Loyalists,41,M,False
+C01327,Rx-Only,38,F,False
+C01328,Rx-Only,35,M,True
+C01329,At-Risk Lapsing,65,M,True
+C01330,Health Seekers,55,F,True
+C01331,Health Seekers,60,F,True
+C01332,Health Seekers,72,F,True
+C01333,Health Seekers,42,F,True
+C01334,Occasional Visitors,52,M,False
+C01335,Rx-Only,40,F,True
+C01336,Rx-Only,50,F,False
+C01337,Health Seekers,27,F,False
+C01338,Rx-Only,37,F,True
+C01339,Rx-Only,46,F,True
+C01340,Health Seekers,50,F,True
+C01341,Chronic Loyalists,42,M,True
+C01342,Rx-Only,59,M,True
+C01343,Chronic Loyalists,42,F,True
+C01344,Health Seekers,34,M,False
+C01345,Occasional Visitors,40,F,True
+C01346,Rx-Only,41,F,True
+C01347,Rx-Only,57,F,True
+C01348,Health Seekers,28,F,True
+C01349,Chronic Loyalists,46,F,True
+C01350,Health Seekers,72,M,True
+C01351,At-Risk Lapsing,33,M,False
+C01352,Occasional Visitors,44,M,True
+C01353,Rx-Only,36,M,True
+C01354,Rx-Only,40,M,True
+C01355,Health Seekers,22,M,True
+C01356,Chronic Loyalists,43,M,False
+C01357,Occasional Visitors,60,F,True
+C01358,Rx-Only,52,F,True
+C01359,Chronic Loyalists,30,F,True
+C01360,Rx-Only,39,M,True
+C01361,Occasional Visitors,46,F,True
+C01362,Chronic Loyalists,52,M,True
+C01363,Chronic Loyalists,36,M,True
+C01364,Chronic Loyalists,63,M,True
+C01365,Occasional Visitors,60,M,True
+C01366,Rx-Only,38,M,True
+C01367,Occasional Visitors,76,F,True
+C01368,Rx-Only,66,F,True
+C01369,Occasional Visitors,27,F,True
+C01370,Chronic Loyalists,43,F,True
+C01371,Chronic Loyalists,69,M,True
+C01372,Chronic Loyalists,60,F,True
+C01373,Rx-Only,31,M,True
+C01374,Health Seekers,25,F,True
+C01375,Health Seekers,69,M,True
+C01376,Occasional Visitors,25,F,True
+C01377,Rx-Only,57,M,True
+C01378,At-Risk Lapsing,34,M,True
+C01379,Occasional Visitors,47,M,True
+C01380,Price Sensitives,33,F,True
+C01381,At-Risk Lapsing,62,M,True
+C01382,Rx-Only,31,M,False
+C01383,Rx-Only,56,F,True
+C01384,Occasional Visitors,74,F,True
+C01385,Rx-Only,29,M,True
+C01386,Health Seekers,62,M,True
+C01387,Health Seekers,46,F,True
+C01388,Price Sensitives,44,M,False
+C01389,Occasional Visitors,43,F,True
+C01390,Chronic Loyalists,29,F,True
+C01391,Occasional Visitors,26,M,True
+C01392,Chronic Loyalists,51,F,True
+C01393,Chronic Loyalists,69,F,True
+C01394,Rx-Only,55,F,True
+C01395,Health Seekers,26,F,False
+C01396,Occasional Visitors,48,M,True
+C01397,Chronic Loyalists,28,M,True
+C01398,Health Seekers,49,F,False
+C01399,Rx-Only,40,F,True
+C01400,Chronic Loyalists,60,F,True
+C01401,Price Sensitives,54,F,True
+C01402,Health Seekers,60,F,False
+C01403,Chronic Loyalists,68,F,True
+C01404,Rx-Only,49,F,False
+C01405,Rx-Only,72,M,True
+C01406,Rx-Only,26,F,True
+C01407,Price Sensitives,31,M,True
+C01408,Price Sensitives,68,F,True
+C01409,Rx-Only,67,F,True
+C01410,Occasional Visitors,65,M,True
+C01411,Occasional Visitors,37,M,True
+C01412,Price Sensitives,52,F,False
+C01413,Rx-Only,23,F,False
+C01414,Rx-Only,59,F,False
+C01415,Rx-Only,28,M,True
+C01416,Rx-Only,42,F,True
+C01417,Rx-Only,71,M,True
+C01418,Occasional Visitors,31,F,True
+C01419,Chronic Loyalists,75,M,False
+C01420,Occasional Visitors,37,F,True
+C01421,Chronic Loyalists,74,M,True
+C01422,At-Risk Lapsing,34,M,True
+C01423,Rx-Only,49,F,True
+C01424,Chronic Loyalists,57,M,True
+C01425,Occasional Visitors,74,F,True
+C01426,Rx-Only,46,M,False
+C01427,Health Seekers,74,F,True
+C01428,Occasional Visitors,43,F,False
+C01429,Health Seekers,22,M,True
+C01430,Chronic Loyalists,51,M,False
+C01431,Chronic Loyalists,43,F,True
+C01432,Chronic Loyalists,31,F,True
+C01433,Rx-Only,75,F,True
+C01434,Rx-Only,36,F,False
+C01435,Rx-Only,31,M,False
+C01436,Health Seekers,44,F,True
+C01437,Price Sensitives,54,M,True
+C01438,Price Sensitives,28,M,True
+C01439,Occasional Visitors,53,F,True
+C01440,Chronic Loyalists,69,F,True
+C01441,Chronic Loyalists,40,F,True
+C01442,Rx-Only,66,M,True
+C01443,Chronic Loyalists,73,F,True
+C01444,Health Seekers,23,F,True
+C01445,Chronic Loyalists,50,M,True
+C01446,Chronic Loyalists,52,F,True
+C01447,Rx-Only,54,F,True
+C01448,Price Sensitives,23,M,False
+C01449,Price Sensitives,37,M,True
+C01450,Chronic Loyalists,33,M,False
+C01451,Rx-Only,64,M,False
+C01452,Rx-Only,57,M,True
+C01453,Chronic Loyalists,71,F,True
+C01454,Chronic Loyalists,50,M,True
+C01455,Occasional Visitors,37,F,False
+C01456,Price Sensitives,63,M,True
+C01457,Price Sensitives,41,F,False
+C01458,Chronic Loyalists,25,M,True
+C01459,Chronic Loyalists,55,F,True
+C01460,Health Seekers,63,M,True
+C01461,Chronic Loyalists,50,F,True
+C01462,Chronic Loyalists,23,F,True
+C01463,Occasional Visitors,60,F,False
+C01464,Health Seekers,75,M,True
+C01465,Price Sensitives,39,M,True
+C01466,Chronic Loyalists,31,F,True
+C01467,Occasional Visitors,51,M,True
+C01468,Rx-Only,34,M,True
+C01469,Rx-Only,64,M,False
+C01470,Rx-Only,23,M,False
+C01471,Chronic Loyalists,61,M,True
+C01472,Health Seekers,71,M,True
+C01473,Rx-Only,68,F,False
+C01474,Occasional Visitors,32,F,True
+C01475,Chronic Loyalists,61,F,True
+C01476,Rx-Only,63,F,True
+C01477,Rx-Only,40,M,False
+C01478,Rx-Only,33,M,True
+C01479,Occasional Visitors,47,F,True
+C01480,Chronic Loyalists,64,M,True
+C01481,Chronic Loyalists,47,M,False
+C01482,Rx-Only,70,F,False
+C01483,Price Sensitives,63,F,True
+C01484,Rx-Only,31,M,True
+C01485,Price Sensitives,43,F,True
+C01486,Price Sensitives,35,F,True
+C01487,Health Seekers,71,F,True
+C01488,Occasional Visitors,30,M,True
+C01489,Price Sensitives,72,F,True
+C01490,Health Seekers,63,F,True
+C01491,Occasional Visitors,39,F,True
+C01492,Rx-Only,32,M,True
+C01493,Occasional Visitors,50,F,True
+C01494,Health Seekers,66,M,True
+C01495,Occasional Visitors,76,F,False
+C01496,Rx-Only,36,M,True
+C01497,Health Seekers,70,F,True
+C01498,Health Seekers,23,F,False
+C01499,At-Risk Lapsing,35,F,True
+C01500,Chronic Loyalists,75,M,True
+C01501,Chronic Loyalists,22,M,False
+C01502,Rx-Only,65,F,False
+C01503,Occasional Visitors,73,M,False
+C01504,Chronic Loyalists,67,F,False
+C01505,Price Sensitives,26,M,True
+C01506,Rx-Only,54,M,True
+C01507,At-Risk Lapsing,52,F,True
+C01508,Occasional Visitors,48,F,True
+C01509,Occasional Visitors,26,F,False
+C01510,Occasional Visitors,59,F,True
+C01511,Occasional Visitors,47,F,True
+C01512,Rx-Only,72,F,True
+C01513,Chronic Loyalists,72,F,False
+C01514,Rx-Only,34,M,True
+C01515,At-Risk Lapsing,52,M,True
+C01516,Price Sensitives,45,F,True
+C01517,Chronic Loyalists,33,M,True
+C01518,Chronic Loyalists,53,F,True
+C01519,Chronic Loyalists,44,M,True
+C01520,Price Sensitives,36,M,True
+C01521,Health Seekers,62,F,False
+C01522,Price Sensitives,47,M,True
+C01523,Rx-Only,47,F,False
+C01524,Rx-Only,54,F,False
+C01525,Health Seekers,35,F,True
+C01526,Rx-Only,34,F,True
+C01527,Occasional Visitors,39,F,False
+C01528,Occasional Visitors,40,M,False
+C01529,Rx-Only,41,F,False
+C01530,Price Sensitives,48,F,True
+C01531,Rx-Only,70,M,True
+C01532,Health Seekers,33,M,True
+C01533,Health Seekers,38,M,True
+C01534,Occasional Visitors,23,M,True
+C01535,Health Seekers,41,F,True
+C01536,Price Sensitives,66,F,True
+C01537,Price Sensitives,35,F,True
+C01538,Occasional Visitors,52,M,False
+C01539,Chronic Loyalists,38,F,True
+C01540,Chronic Loyalists,66,F,True
+C01541,Price Sensitives,39,M,False
+C01542,Rx-Only,56,F,True
+C01543,Rx-Only,51,M,True
+C01544,Occasional Visitors,70,F,True
+C01545,Health Seekers,33,F,True
+C01546,Occasional Visitors,71,M,True
+C01547,Rx-Only,73,M,False
+C01548,Occasional Visitors,72,F,True
+C01549,Chronic Loyalists,50,M,False
+C01550,Rx-Only,75,M,False
+C01551,Rx-Only,33,M,True
+C01552,Chronic Loyalists,60,M,True
+C01553,Chronic Loyalists,43,F,False
+C01554,Occasional Visitors,26,M,True
+C01555,Rx-Only,72,F,True
+C01556,Chronic Loyalists,72,M,True
+C01557,Rx-Only,43,M,False
+C01558,Chronic Loyalists,23,F,True
+C01559,Chronic Loyalists,35,M,False
+C01560,Health Seekers,45,M,True
+C01561,Chronic Loyalists,59,F,False
+C01562,Rx-Only,45,M,False
+C01563,At-Risk Lapsing,61,F,True
+C01564,Price Sensitives,43,M,False
+C01565,Price Sensitives,39,M,False
+C01566,Occasional Visitors,75,M,True
+C01567,Health Seekers,26,M,True
+C01568,Rx-Only,47,M,False
+C01569,Rx-Only,60,M,True
+C01570,Chronic Loyalists,59,F,False
+C01571,Rx-Only,49,M,True
+C01572,Health Seekers,41,M,True
+C01573,Health Seekers,44,F,True
+C01574,Occasional Visitors,30,F,True
+C01575,Chronic Loyalists,63,M,True
+C01576,Rx-Only,76,M,True
+C01577,Rx-Only,72,M,False
+C01578,Occasional Visitors,54,F,True
+C01579,Rx-Only,58,F,False
+C01580,Chronic Loyalists,27,M,True
+C01581,Price Sensitives,23,F,True
+C01582,Rx-Only,55,F,False
+C01583,Health Seekers,68,F,True
+C01584,Rx-Only,48,M,True
+C01585,Rx-Only,26,M,True
+C01586,Rx-Only,77,F,False
+C01587,Health Seekers,41,F,True
+C01588,Chronic Loyalists,45,M,True
+C01589,Rx-Only,70,M,True
+C01590,Health Seekers,61,M,True
+C01591,Health Seekers,68,F,True
+C01592,Health Seekers,70,F,True
+C01593,Chronic Loyalists,27,F,True
+C01594,Chronic Loyalists,68,M,True
+C01595,Health Seekers,32,F,True
+C01596,At-Risk Lapsing,75,M,True
+C01597,Chronic Loyalists,77,M,True
+C01598,Health Seekers,77,M,True
+C01599,Occasional Visitors,25,F,False
+C01600,Rx-Only,77,F,True
+C01601,Chronic Loyalists,28,M,True
+C01602,Rx-Only,47,F,True
+C01603,Health Seekers,76,M,True
+C01604,Rx-Only,52,F,True
+C01605,Rx-Only,61,F,False
+C01606,Rx-Only,44,F,False
+C01607,Rx-Only,76,F,False
+C01608,Chronic Loyalists,75,F,True
+C01609,Rx-Only,68,F,True
+C01610,At-Risk Lapsing,60,M,True
+C01611,Chronic Loyalists,38,F,True
+C01612,At-Risk Lapsing,69,F,False
+C01613,Rx-Only,63,M,True
+C01614,Chronic Loyalists,41,F,True
+C01615,Rx-Only,50,F,True
+C01616,Chronic Loyalists,76,M,True
+C01617,Price Sensitives,53,F,False
+C01618,Rx-Only,65,F,True
+C01619,Rx-Only,26,F,False
+C01620,Rx-Only,73,F,False
+C01621,Rx-Only,74,F,True
+C01622,Health Seekers,50,F,True
+C01623,Occasional Visitors,35,F,True
+C01624,At-Risk Lapsing,61,M,True
+C01625,Rx-Only,71,F,True
+C01626,Rx-Only,77,M,True
+C01627,Health Seekers,41,M,True
+C01628,Price Sensitives,31,F,True
+C01629,Price Sensitives,48,M,False
+C01630,Occasional Visitors,44,M,True
+C01631,Occasional Visitors,62,F,False
+C01632,Rx-Only,61,F,True
+C01633,Rx-Only,39,M,True
+C01634,Chronic Loyalists,29,M,True
+C01635,Rx-Only,70,M,True
+C01636,Rx-Only,22,M,True
+C01637,Health Seekers,46,M,True
+C01638,Chronic Loyalists,54,F,False
+C01639,Chronic Loyalists,25,F,False
+C01640,Health Seekers,58,M,False
+C01641,Occasional Visitors,52,F,True
+C01642,Occasional Visitors,60,F,True
+C01643,Health Seekers,32,F,False
+C01644,Chronic Loyalists,38,F,True
+C01645,Health Seekers,34,F,True
+C01646,Price Sensitives,47,M,True
+C01647,Occasional Visitors,50,M,True
+C01648,Rx-Only,27,F,False
+C01649,Rx-Only,30,M,True
+C01650,Health Seekers,31,M,True
+C01651,Rx-Only,22,M,False
+C01652,Health Seekers,38,M,False
+C01653,Price Sensitives,38,M,True
+C01654,Rx-Only,26,M,False
+C01655,Rx-Only,58,M,True
+C01656,Chronic Loyalists,35,M,True
+C01657,Occasional Visitors,37,M,True
+C01658,Price Sensitives,24,F,False
+C01659,Occasional Visitors,31,F,True
+C01660,Rx-Only,54,M,True
+C01661,Rx-Only,45,F,True
+C01662,Occasional Visitors,69,F,True
+C01663,Occasional Visitors,64,F,True
+C01664,Rx-Only,41,M,True
+C01665,Chronic Loyalists,64,F,False
+C01666,Chronic Loyalists,48,F,True
+C01667,Occasional Visitors,71,F,True
+C01668,Health Seekers,47,M,True
+C01669,Rx-Only,75,F,False
+C01670,Chronic Loyalists,33,M,True
+C01671,Occasional Visitors,32,F,True
+C01672,Price Sensitives,62,F,True
+C01673,Price Sensitives,76,M,True
+C01674,Occasional Visitors,36,F,True
+C01675,Price Sensitives,32,M,False
+C01676,Price Sensitives,68,F,True
+C01677,Chronic Loyalists,39,M,True
+C01678,Rx-Only,28,M,True
+C01679,Rx-Only,77,M,True
+C01680,Occasional Visitors,42,F,True
+C01681,Occasional Visitors,39,F,True
+C01682,Rx-Only,57,M,True
+C01683,Rx-Only,37,F,True
+C01684,Chronic Loyalists,59,F,True
+C01685,Chronic Loyalists,50,F,True
+C01686,Health Seekers,50,F,True
+C01687,Occasional Visitors,33,F,False
+C01688,Rx-Only,53,F,True
+C01689,Occasional Visitors,23,M,True
+C01690,Chronic Loyalists,48,M,True
+C01691,Occasional Visitors,41,F,True
+C01692,Price Sensitives,25,F,True
+C01693,Chronic Loyalists,63,F,True
+C01694,Occasional Visitors,68,M,True
+C01695,Occasional Visitors,58,F,True
+C01696,Chronic Loyalists,47,F,True
+C01697,At-Risk Lapsing,51,F,True
+C01698,Chronic Loyalists,31,M,True
+C01699,Price Sensitives,39,F,True
+C01700,Chronic Loyalists,40,F,True
+C01701,Rx-Only,22,F,True
+C01702,At-Risk Lapsing,26,M,True
+C01703,Health Seekers,28,M,False
+C01704,Occasional Visitors,76,F,True
+C01705,Chronic Loyalists,54,M,True
+C01706,At-Risk Lapsing,50,F,True
+C01707,Rx-Only,29,M,True
+C01708,Occasional Visitors,37,M,True
+C01709,Health Seekers,63,M,True
+C01710,Chronic Loyalists,39,M,True
+C01711,Health Seekers,41,F,False
+C01712,Price Sensitives,55,M,True
+C01713,Chronic Loyalists,34,M,True
+C01714,Health Seekers,44,M,True
+C01715,Chronic Loyalists,35,M,True
+C01716,Rx-Only,52,F,False
+C01717,Health Seekers,71,F,True
+C01718,Occasional Visitors,69,F,True
+C01719,Health Seekers,75,F,True
+C01720,Rx-Only,31,F,False
+C01721,Chronic Loyalists,23,M,True
+C01722,Rx-Only,69,F,True
+C01723,Price Sensitives,67,M,True
+C01724,Chronic Loyalists,32,M,False
+C01725,Rx-Only,71,M,True
+C01726,Health Seekers,52,M,True
+C01727,Rx-Only,25,M,False
+C01728,Occasional Visitors,72,M,True
+C01729,Rx-Only,51,F,True
+C01730,Chronic Loyalists,43,F,False
+C01731,Rx-Only,44,F,True
+C01732,Rx-Only,49,M,True
+C01733,Rx-Only,75,M,True
+C01734,Chronic Loyalists,53,F,True
+C01735,Occasional Visitors,62,M,True
+C01736,Price Sensitives,68,F,True
+C01737,Health Seekers,37,F,True
+C01738,Price Sensitives,39,F,False
+C01739,Rx-Only,52,F,True
+C01740,Rx-Only,46,M,True
+C01741,Rx-Only,24,M,True
+C01742,Health Seekers,35,F,True
+C01743,Chronic Loyalists,53,M,True
+C01744,Health Seekers,73,M,False
+C01745,Rx-Only,65,F,True
+C01746,Rx-Only,25,F,True
+C01747,Rx-Only,34,F,False
+C01748,Chronic Loyalists,49,M,True
+C01749,Rx-Only,49,F,True
+C01750,Health Seekers,30,F,True
+C01751,Rx-Only,38,F,True
+C01752,Price Sensitives,69,F,True
+C01753,Price Sensitives,73,M,False
+C01754,Health Seekers,37,M,True
+C01755,At-Risk Lapsing,72,M,False
+C01756,Price Sensitives,39,M,True
+C01757,Occasional Visitors,54,F,True
+C01758,Chronic Loyalists,63,F,True
+C01759,Rx-Only,32,M,True
+C01760,Occasional Visitors,40,M,True
+C01761,Price Sensitives,67,M,True
+C01762,Price Sensitives,46,F,True
+C01763,Price Sensitives,36,M,True
+C01764,Chronic Loyalists,57,F,True
+C01765,Occasional Visitors,60,F,True
+C01766,Chronic Loyalists,70,M,True
+C01767,Health Seekers,68,M,True
+C01768,Health Seekers,62,M,True
+C01769,Chronic Loyalists,37,M,True
+C01770,Price Sensitives,38,F,False
+C01771,At-Risk Lapsing,30,F,True
+C01772,Chronic Loyalists,65,F,True
+C01773,Occasional Visitors,31,M,True
+C01774,Rx-Only,32,F,True
+C01775,Chronic Loyalists,41,M,True
+C01776,Rx-Only,71,F,True
+C01777,Occasional Visitors,35,M,True
+C01778,Price Sensitives,26,M,True
+C01779,Health Seekers,51,M,False
+C01780,Rx-Only,47,F,False
+C01781,Health Seekers,37,F,True
+C01782,Health Seekers,29,F,True
+C01783,Rx-Only,29,M,True
+C01784,Health Seekers,50,M,True
+C01785,Rx-Only,38,M,True
+C01786,Rx-Only,23,F,True
+C01787,Rx-Only,43,M,True
+C01788,Rx-Only,49,F,True
+C01789,Rx-Only,50,M,True
+C01790,At-Risk Lapsing,33,M,False
+C01791,Rx-Only,41,M,True
+C01792,Health Seekers,69,F,True
+C01793,Price Sensitives,71,F,True
+C01794,Occasional Visitors,33,F,True
+C01795,Occasional Visitors,49,M,False
+C01796,Rx-Only,43,F,True
+C01797,Occasional Visitors,43,M,True
+C01798,Price Sensitives,28,F,True
+C01799,Rx-Only,44,F,True
+C01800,Chronic Loyalists,52,F,True
+C01801,Occasional Visitors,42,F,True
+C01802,Price Sensitives,56,F,False
+C01803,Rx-Only,42,F,False
+C01804,Health Seekers,42,F,True
+C01805,Rx-Only,36,F,True
+C01806,Occasional Visitors,47,F,True
+C01807,Rx-Only,53,M,False
+C01808,Occasional Visitors,45,F,False
+C01809,Health Seekers,42,F,True
+C01810,At-Risk Lapsing,67,F,True
+C01811,Rx-Only,38,F,True
+C01812,Occasional Visitors,31,F,True
+C01813,Chronic Loyalists,46,F,True
+C01814,Chronic Loyalists,39,F,True
+C01815,Price Sensitives,25,M,False
+C01816,Price Sensitives,71,F,True
+C01817,Price Sensitives,59,M,False
+C01818,Chronic Loyalists,76,M,False
+C01819,Price Sensitives,55,M,True
+C01820,Rx-Only,59,F,True
+C01821,Occasional Visitors,73,M,True
+C01822,At-Risk Lapsing,34,M,True
+C01823,Price Sensitives,45,F,True
+C01824,Rx-Only,77,M,True
+C01825,Occasional Visitors,31,F,True
+C01826,Rx-Only,24,F,True
+C01827,Rx-Only,45,F,True
+C01828,Rx-Only,48,F,True
+C01829,Price Sensitives,47,M,True
+C01830,Rx-Only,64,M,False
+C01831,Health Seekers,38,M,True
+C01832,Rx-Only,32,M,False
+C01833,Chronic Loyalists,77,F,True
+C01834,Health Seekers,35,M,False
+C01835,At-Risk Lapsing,55,M,True
+C01836,Chronic Loyalists,38,M,True
+C01837,At-Risk Lapsing,54,F,True
+C01838,Chronic Loyalists,54,F,False
+C01839,Rx-Only,29,F,True
+C01840,Occasional Visitors,27,M,True
+C01841,Chronic Loyalists,63,F,True
+C01842,Health Seekers,23,F,True
+C01843,Health Seekers,38,F,True
+C01844,Occasional Visitors,71,F,True
+C01845,At-Risk Lapsing,36,F,True
+C01846,Chronic Loyalists,45,F,True
+C01847,Chronic Loyalists,45,F,True
+C01848,Rx-Only,49,F,True
+C01849,Occasional Visitors,52,M,True
+C01850,Chronic Loyalists,62,M,True
+C01851,Health Seekers,31,F,False
+C01852,At-Risk Lapsing,32,F,True
+C01853,Occasional Visitors,38,F,True
+C01854,Rx-Only,43,F,False
+C01855,Health Seekers,70,M,True
+C01856,Chronic Loyalists,57,F,True
+C01857,Chronic Loyalists,77,M,True
+C01858,Occasional Visitors,38,F,True
+C01859,Price Sensitives,32,M,False
+C01860,Occasional Visitors,65,M,True
+C01861,Health Seekers,38,M,True
+C01862,Rx-Only,30,F,True
+C01863,At-Risk Lapsing,44,F,True
+C01864,Health Seekers,35,F,True
+C01865,Rx-Only,69,F,True
+C01866,Occasional Visitors,37,M,False
+C01867,Occasional Visitors,70,M,True
+C01868,Chronic Loyalists,75,M,True
+C01869,Occasional Visitors,45,M,True
+C01870,Rx-Only,76,M,True
+C01871,Rx-Only,39,F,True
+C01872,Chronic Loyalists,31,F,True
+C01873,Occasional Visitors,73,F,True
+C01874,Chronic Loyalists,24,M,False
+C01875,Health Seekers,56,M,True
+C01876,Chronic Loyalists,24,F,False
+C01877,Health Seekers,50,F,True
+C01878,Occasional Visitors,54,M,True
+C01879,Rx-Only,44,M,False
+C01880,Rx-Only,62,F,True
+C01881,Price Sensitives,68,M,False
+C01882,At-Risk Lapsing,75,M,True
+C01883,Health Seekers,35,F,True
+C01884,Occasional Visitors,76,F,True
+C01885,Health Seekers,26,M,False
+C01886,Rx-Only,54,F,True
+C01887,Rx-Only,34,M,True
+C01888,Occasional Visitors,40,F,True
+C01889,Occasional Visitors,54,F,False
+C01890,Price Sensitives,28,M,True
+C01891,Health Seekers,51,M,True
+C01892,Chronic Loyalists,26,F,False
+C01893,Rx-Only,55,F,True
+C01894,Rx-Only,47,F,True
+C01895,Rx-Only,54,M,True
+C01896,Chronic Loyalists,47,F,False
+C01897,Health Seekers,63,F,True
+C01898,Rx-Only,72,F,False
+C01899,Rx-Only,54,M,False
+C01900,Health Seekers,42,M,True
+C01901,Rx-Only,42,F,True
+C01902,Occasional Visitors,46,M,True
+C01903,Rx-Only,63,F,False
+C01904,Occasional Visitors,59,F,True
+C01905,Chronic Loyalists,39,M,True
+C01906,Rx-Only,66,F,True
+C01907,Rx-Only,47,F,True
+C01908,Chronic Loyalists,54,M,True
+C01909,Price Sensitives,53,M,True
+C01910,Chronic Loyalists,73,F,True
+C01911,Health Seekers,25,F,True
+C01912,Occasional Visitors,69,M,True
+C01913,Occasional Visitors,48,F,True
+C01914,Rx-Only,39,F,True
+C01915,Chronic Loyalists,76,M,False
+C01916,Chronic Loyalists,40,F,True
+C01917,At-Risk Lapsing,26,M,True
+C01918,Occasional Visitors,52,F,True
+C01919,Occasional Visitors,37,F,False
+C01920,Occasional Visitors,35,M,True
+C01921,Price Sensitives,59,F,True
+C01922,Rx-Only,33,F,False
+C01923,Chronic Loyalists,77,F,True
+C01924,Health Seekers,43,F,False
+C01925,Rx-Only,50,F,True
+C01926,Rx-Only,67,F,True
+C01927,Price Sensitives,71,F,True
+C01928,Chronic Loyalists,46,F,True
+C01929,Health Seekers,43,F,True
+C01930,Health Seekers,23,F,True
+C01931,Chronic Loyalists,34,F,False
+C01932,Occasional Visitors,62,F,True
+C01933,Rx-Only,26,M,True
+C01934,Health Seekers,37,F,False
+C01935,Health Seekers,34,M,True
+C01936,At-Risk Lapsing,57,F,True
+C01937,At-Risk Lapsing,34,M,False
+C01938,Chronic Loyalists,57,F,True
+C01939,Rx-Only,39,F,True
+C01940,Occasional Visitors,50,M,False
+C01941,Health Seekers,57,F,True
+C01942,Rx-Only,47,F,True
+C01943,At-Risk Lapsing,58,M,True
+C01944,Occasional Visitors,60,M,True
+C01945,Occasional Visitors,40,M,True
+C01946,Health Seekers,76,M,True
+C01947,At-Risk Lapsing,48,F,True
+C01948,Rx-Only,72,F,False
+C01949,Chronic Loyalists,69,F,True
+C01950,Rx-Only,76,F,False
+C01951,Chronic Loyalists,29,M,True
+C01952,Rx-Only,42,F,True
+C01953,Chronic Loyalists,69,F,True
+C01954,Health Seekers,53,M,True
+C01955,Health Seekers,22,M,True
+C01956,Price Sensitives,59,M,True
+C01957,Health Seekers,39,F,True
+C01958,Chronic Loyalists,34,M,True
+C01959,At-Risk Lapsing,71,M,True
+C01960,Chronic Loyalists,68,M,True
+C01961,Health Seekers,69,F,True
+C01962,Health Seekers,28,F,True
+C01963,Rx-Only,29,M,True
+C01964,Price Sensitives,67,M,False
+C01965,Rx-Only,42,F,True
+C01966,At-Risk Lapsing,63,F,True
+C01967,Chronic Loyalists,27,F,True
+C01968,Health Seekers,37,F,True
+C01969,Health Seekers,33,M,False
+C01970,Rx-Only,48,M,True
+C01971,Rx-Only,39,M,True
+C01972,Rx-Only,23,F,False
+C01973,Rx-Only,39,M,True
+C01974,Rx-Only,56,F,False
+C01975,Rx-Only,25,M,True
+C01976,Occasional Visitors,75,F,True
+C01977,Rx-Only,58,F,False
+C01978,Price Sensitives,56,M,True
+C01979,Rx-Only,68,F,True
+C01980,Rx-Only,28,F,True
+C01981,Occasional Visitors,36,F,True
+C01982,Chronic Loyalists,63,M,True
+C01983,Price Sensitives,76,M,True
+C01984,Chronic Loyalists,65,M,True
+C01985,Rx-Only,25,M,True
+C01986,Occasional Visitors,28,F,False
+C01987,Rx-Only,67,M,True
+C01988,Rx-Only,73,M,True
+C01989,Rx-Only,49,F,True
+C01990,Chronic Loyalists,64,F,True
+C01991,Chronic Loyalists,62,M,True
+C01992,Rx-Only,49,F,False
+C01993,Health Seekers,73,M,True
+C01994,Health Seekers,34,F,True
+C01995,Chronic Loyalists,46,F,True
+C01996,Occasional Visitors,32,F,True
+C01997,Chronic Loyalists,53,F,True
+C01998,Chronic Loyalists,73,M,True
+C01999,Chronic Loyalists,41,M,True
+C02000,Price Sensitives,48,F,True
+C02001,Chronic Loyalists,57,F,True
+C02002,Health Seekers,76,M,True
+C02003,Health Seekers,37,M,True
+C02004,Price Sensitives,70,M,False
+C02005,At-Risk Lapsing,65,F,False
+C02006,Health Seekers,57,M,True
+C02007,Chronic Loyalists,24,F,False
+C02008,Occasional Visitors,51,M,False
+C02009,Rx-Only,45,M,True
+C02010,Chronic Loyalists,76,M,True
+C02011,Price Sensitives,58,F,True
+C02012,Chronic Loyalists,64,F,True
+C02013,Occasional Visitors,63,M,False
+C02014,Rx-Only,56,F,True
+C02015,Rx-Only,34,F,True
+C02016,Occasional Visitors,52,F,True
+C02017,Health Seekers,23,F,False
+C02018,Chronic Loyalists,25,M,True
+C02019,Occasional Visitors,63,M,False
+C02020,Chronic Loyalists,44,M,False
+C02021,Chronic Loyalists,52,M,False
+C02022,Rx-Only,56,F,True
+C02023,Rx-Only,52,M,True
+C02024,Rx-Only,24,M,True
+C02025,Health Seekers,67,M,True
+C02026,Rx-Only,27,M,True
+C02027,Health Seekers,50,F,False
+C02028,Health Seekers,68,F,True
+C02029,At-Risk Lapsing,71,F,True
+C02030,Occasional Visitors,58,F,True
+C02031,Price Sensitives,75,M,True
+C02032,At-Risk Lapsing,33,F,False
+C02033,Health Seekers,29,M,True
+C02034,Rx-Only,73,M,True
+C02035,At-Risk Lapsing,62,M,True
+C02036,Occasional Visitors,41,F,True
+C02037,Rx-Only,47,M,True
+C02038,Health Seekers,55,F,True
+C02039,Rx-Only,44,M,False
+C02040,Chronic Loyalists,37,M,True
+C02041,Occasional Visitors,31,M,True
+C02042,Health Seekers,73,F,False
+C02043,Health Seekers,24,M,True
+C02044,Chronic Loyalists,73,F,False
+C02045,Health Seekers,64,F,True
+C02046,Rx-Only,57,F,False
+C02047,Chronic Loyalists,75,F,True
+C02048,Health Seekers,23,F,True
+C02049,Rx-Only,39,F,True
+C02050,Occasional Visitors,46,M,True
+C02051,Health Seekers,57,M,False
+C02052,Rx-Only,26,F,True
+C02053,Health Seekers,30,F,True
+C02054,Rx-Only,72,M,True
+C02055,Chronic Loyalists,77,F,True
+C02056,Rx-Only,25,M,False
+C02057,Occasional Visitors,56,F,True
+C02058,Rx-Only,37,F,True
+C02059,Rx-Only,62,F,True
+C02060,Chronic Loyalists,40,M,False
+C02061,Occasional Visitors,39,M,True
+C02062,Occasional Visitors,27,F,True
+C02063,Chronic Loyalists,45,M,True
+C02064,Chronic Loyalists,50,F,True
+C02065,Rx-Only,38,F,True
+C02066,Chronic Loyalists,27,M,True
+C02067,Health Seekers,75,M,True
+C02068,Occasional Visitors,37,M,True
+C02069,Rx-Only,39,M,True
+C02070,Health Seekers,22,M,True
+C02071,Occasional Visitors,28,F,True
+C02072,Rx-Only,38,M,True
+C02073,Health Seekers,33,F,False
+C02074,Chronic Loyalists,28,M,True
+C02075,Rx-Only,63,F,False
+C02076,Rx-Only,36,M,True
+C02077,Rx-Only,53,F,True
+C02078,Chronic Loyalists,43,M,True
+C02079,Occasional Visitors,23,M,True
+C02080,Occasional Visitors,58,F,True
+C02081,Health Seekers,44,F,False
+C02082,Chronic Loyalists,57,M,False
+C02083,At-Risk Lapsing,29,F,True
+C02084,Chronic Loyalists,33,M,False
+C02085,Rx-Only,33,M,True
+C02086,Chronic Loyalists,35,F,True
+C02087,Rx-Only,69,M,True
+C02088,Health Seekers,54,M,True
+C02089,Price Sensitives,60,F,False
+C02090,Chronic Loyalists,63,M,True
+C02091,Rx-Only,57,M,True
+C02092,Occasional Visitors,56,F,True
+C02093,Chronic Loyalists,66,F,True
+C02094,Chronic Loyalists,33,F,False
+C02095,Health Seekers,52,F,True
+C02096,Health Seekers,34,F,False
+C02097,Health Seekers,46,F,False
+C02098,Chronic Loyalists,46,F,True
+C02099,Occasional Visitors,74,F,True
+C02100,Price Sensitives,57,F,True
+C02101,Chronic Loyalists,26,F,True
+C02102,Health Seekers,25,F,True
+C02103,Rx-Only,47,F,True
+C02104,Chronic Loyalists,47,F,False
+C02105,Occasional Visitors,29,F,True
+C02106,Occasional Visitors,64,F,True
+C02107,Occasional Visitors,27,M,False
+C02108,Rx-Only,46,F,False
+C02109,Health Seekers,27,F,True
+C02110,At-Risk Lapsing,38,F,True
+C02111,Chronic Loyalists,73,F,True
+C02112,Rx-Only,51,M,True
+C02113,Rx-Only,29,M,True
+C02114,Occasional Visitors,33,F,True
+C02115,Occasional Visitors,49,M,True
+C02116,Chronic Loyalists,28,F,False
+C02117,Occasional Visitors,30,M,True
+C02118,Health Seekers,50,F,False
+C02119,Health Seekers,76,F,True
+C02120,Occasional Visitors,27,M,True
+C02121,Rx-Only,59,F,True
+C02122,Health Seekers,44,F,False
+C02123,Occasional Visitors,64,F,True
+C02124,Rx-Only,35,F,False
+C02125,Chronic Loyalists,57,M,True
+C02126,Health Seekers,22,M,True
+C02127,Chronic Loyalists,61,F,True
+C02128,Rx-Only,48,F,True
+C02129,Chronic Loyalists,62,F,True
+C02130,Health Seekers,35,F,True
+C02131,Occasional Visitors,45,F,True
+C02132,Price Sensitives,77,M,True
+C02133,Health Seekers,54,M,True
+C02134,Price Sensitives,70,F,True
+C02135,At-Risk Lapsing,74,M,True
+C02136,Health Seekers,27,M,True
+C02137,Price Sensitives,50,F,True
+C02138,Occasional Visitors,60,F,True
+C02139,Health Seekers,30,M,True
+C02140,Occasional Visitors,28,F,True
+C02141,Price Sensitives,57,F,True
+C02142,Rx-Only,50,F,True
+C02143,At-Risk Lapsing,42,M,True
+C02144,Price Sensitives,72,M,True
+C02145,At-Risk Lapsing,50,F,False
+C02146,Chronic Loyalists,43,F,False
+C02147,Occasional Visitors,77,F,True
+C02148,Chronic Loyalists,42,F,True
+C02149,Chronic Loyalists,33,M,True
+C02150,Chronic Loyalists,63,M,True
+C02151,Occasional Visitors,61,F,True
+C02152,Health Seekers,64,F,True
+C02153,Chronic Loyalists,35,F,True
+C02154,Rx-Only,26,M,False
+C02155,Health Seekers,59,F,False
+C02156,Health Seekers,65,F,False
+C02157,Rx-Only,42,M,False
+C02158,Chronic Loyalists,25,F,False
+C02159,Rx-Only,30,F,False
+C02160,Health Seekers,74,F,False
+C02161,Chronic Loyalists,49,M,True
+C02162,Health Seekers,24,F,True
+C02163,Chronic Loyalists,26,M,True
+C02164,Occasional Visitors,30,M,True
+C02165,Occasional Visitors,76,F,False
+C02166,Rx-Only,68,M,True
+C02167,Rx-Only,52,F,True
+C02168,Rx-Only,30,M,True
+C02169,Rx-Only,52,F,False
+C02170,Rx-Only,43,F,True
+C02171,Chronic Loyalists,62,M,False
+C02172,Rx-Only,40,M,False
+C02173,Occasional Visitors,50,M,True
+C02174,At-Risk Lapsing,64,F,False
+C02175,Rx-Only,55,F,True
+C02176,Health Seekers,40,F,True
+C02177,Chronic Loyalists,66,M,False
+C02178,Price Sensitives,48,F,True
+C02179,Occasional Visitors,34,M,True
+C02180,Rx-Only,70,M,True
+C02181,Rx-Only,33,F,False
+C02182,Health Seekers,35,M,True
+C02183,Health Seekers,31,F,True
+C02184,Chronic Loyalists,74,F,True
+C02185,Chronic Loyalists,50,M,True
+C02186,Chronic Loyalists,47,M,True
+C02187,Chronic Loyalists,76,M,True
+C02188,Rx-Only,58,F,False
+C02189,Chronic Loyalists,36,M,True
+C02190,Health Seekers,43,M,True
+C02191,Rx-Only,61,F,True
+C02192,Rx-Only,38,M,True
+C02193,Rx-Only,56,F,True
+C02194,Health Seekers,54,M,True
+C02195,Price Sensitives,43,M,True
+C02196,Occasional Visitors,55,F,True
+C02197,Price Sensitives,29,M,True
+C02198,Health Seekers,69,F,True
+C02199,Occasional Visitors,65,M,False
+C02200,Occasional Visitors,70,M,True
+C02201,Health Seekers,34,M,False
+C02202,At-Risk Lapsing,49,M,True
+C02203,Rx-Only,68,F,True
+C02204,Health Seekers,72,M,True
+C02205,Rx-Only,68,F,True
+C02206,Health Seekers,35,F,True
+C02207,Health Seekers,77,F,True
+C02208,Chronic Loyalists,42,F,True
+C02209,Rx-Only,42,F,True
+C02210,Rx-Only,68,M,True
+C02211,Chronic Loyalists,76,F,True
+C02212,Health Seekers,61,F,True
+C02213,Price Sensitives,47,M,True
+C02214,Rx-Only,44,F,True
+C02215,Chronic Loyalists,26,F,True
+C02216,Occasional Visitors,73,M,True
+C02217,Rx-Only,39,M,True
+C02218,Rx-Only,27,F,False
+C02219,Occasional Visitors,41,M,False
+C02220,Chronic Loyalists,37,M,True
+C02221,Chronic Loyalists,65,F,True
+C02222,Occasional Visitors,28,F,True
+C02223,Chronic Loyalists,43,M,False
+C02224,Price Sensitives,31,M,True
+C02225,Rx-Only,45,M,True
+C02226,Occasional Visitors,59,F,False
+C02227,Chronic Loyalists,76,M,False
+C02228,Chronic Loyalists,73,M,True
+C02229,Price Sensitives,57,F,False
+C02230,Occasional Visitors,53,M,False
+C02231,Rx-Only,76,M,False
+C02232,Chronic Loyalists,76,M,True
+C02233,Rx-Only,28,M,False
+C02234,Rx-Only,67,F,False
+C02235,Rx-Only,50,M,False
+C02236,Health Seekers,71,M,False
+C02237,Chronic Loyalists,68,M,True
+C02238,Occasional Visitors,66,M,True
+C02239,Health Seekers,37,M,True
+C02240,Occasional Visitors,36,M,True
+C02241,Health Seekers,48,F,True
+C02242,Rx-Only,62,M,False
+C02243,Price Sensitives,23,F,False
+C02244,Occasional Visitors,72,F,False
+C02245,Occasional Visitors,33,F,False
+C02246,Occasional Visitors,61,M,False
+C02247,Chronic Loyalists,52,M,False
+C02248,Occasional Visitors,65,F,True
+C02249,Rx-Only,37,F,True
+C02250,Rx-Only,27,F,True
+C02251,Health Seekers,57,F,True
+C02252,Rx-Only,73,M,False
+C02253,Health Seekers,65,F,True
+C02254,Health Seekers,44,M,False
+C02255,Occasional Visitors,34,M,True
+C02256,Health Seekers,50,M,False
+C02257,Health Seekers,25,M,True
+C02258,Health Seekers,75,M,True
+C02259,Occasional Visitors,74,F,True
+C02260,Rx-Only,76,M,True
+C02261,Chronic Loyalists,50,F,True
+C02262,Rx-Only,62,F,True
+C02263,Rx-Only,49,M,False
+C02264,Rx-Only,32,F,True
+C02265,Health Seekers,65,F,True
+C02266,Health Seekers,72,F,True
+C02267,Rx-Only,42,F,True
+C02268,Price Sensitives,58,M,True
+C02269,Occasional Visitors,36,F,True
+C02270,Health Seekers,41,M,True
+C02271,Health Seekers,35,F,True
+C02272,Health Seekers,48,F,True
+C02273,Chronic Loyalists,44,F,False
+C02274,Rx-Only,40,F,True
+C02275,Occasional Visitors,28,M,True
+C02276,Health Seekers,47,M,False
+C02277,Occasional Visitors,37,F,True
+C02278,Rx-Only,22,M,True
+C02279,Rx-Only,69,F,True
+C02280,Rx-Only,49,F,True
+C02281,Health Seekers,64,M,True
+C02282,Health Seekers,74,F,True
+C02283,Health Seekers,56,F,False
+C02284,Health Seekers,37,M,False
+C02285,Rx-Only,68,M,False
+C02286,Occasional Visitors,58,M,True
+C02287,Occasional Visitors,55,F,False
+C02288,Occasional Visitors,34,M,True
+C02289,Health Seekers,22,M,True
+C02290,Health Seekers,26,F,True
+C02291,Chronic Loyalists,31,F,True
+C02292,Rx-Only,44,F,False
+C02293,Occasional Visitors,56,M,True
+C02294,Health Seekers,45,M,False
+C02295,Rx-Only,76,F,False
+C02296,Rx-Only,22,F,True
+C02297,At-Risk Lapsing,29,F,True
+C02298,Health Seekers,51,F,False
+C02299,Price Sensitives,32,M,True
+C02300,Occasional Visitors,41,M,True
+C02301,Occasional Visitors,67,M,False
+C02302,Rx-Only,47,F,False
+C02303,Rx-Only,31,M,False
+C02304,Chronic Loyalists,59,M,True
+C02305,Chronic Loyalists,23,F,True
+C02306,Chronic Loyalists,54,F,True
+C02307,Price Sensitives,26,M,True
+C02308,Rx-Only,27,F,False
+C02309,Chronic Loyalists,56,F,False
+C02310,Health Seekers,66,M,True
+C02311,Chronic Loyalists,64,F,True
+C02312,Health Seekers,72,F,True
+C02313,Rx-Only,52,M,True
+C02314,Occasional Visitors,77,F,True
+C02315,At-Risk Lapsing,46,F,True
+C02316,Rx-Only,31,F,False
+C02317,Occasional Visitors,73,M,True
+C02318,Rx-Only,36,M,True
+C02319,Rx-Only,70,M,True
+C02320,Price Sensitives,56,F,False
+C02321,Price Sensitives,34,M,True
+C02322,Rx-Only,59,F,False
+C02323,Occasional Visitors,65,M,True
+C02324,Rx-Only,77,F,True
+C02325,Rx-Only,27,M,True
+C02326,Rx-Only,24,F,True
+C02327,Occasional Visitors,64,M,True
+C02328,Health Seekers,48,F,True
+C02329,Occasional Visitors,68,F,True
+C02330,Price Sensitives,67,M,True
+C02331,Occasional Visitors,44,M,True
+C02332,Occasional Visitors,72,F,True
+C02333,At-Risk Lapsing,61,M,True
+C02334,Rx-Only,24,M,True
+C02335,Chronic Loyalists,32,F,False
+C02336,Health Seekers,47,F,False
+C02337,Chronic Loyalists,77,M,True
+C02338,Chronic Loyalists,27,F,True
+C02339,Occasional Visitors,69,F,True
+C02340,Rx-Only,65,F,True
+C02341,Rx-Only,67,F,True
+C02342,Price Sensitives,26,F,False
+C02343,Price Sensitives,57,M,False
+C02344,Health Seekers,48,F,True
+C02345,Rx-Only,43,M,True
+C02346,Health Seekers,53,F,True
+C02347,Rx-Only,38,F,True
+C02348,Chronic Loyalists,43,F,False
+C02349,Chronic Loyalists,38,F,False
+C02350,Health Seekers,61,M,True
+C02351,Rx-Only,50,M,True
+C02352,Rx-Only,74,F,True
+C02353,Occasional Visitors,50,F,True
+C02354,Health Seekers,69,F,False
+C02355,Health Seekers,75,F,True
+C02356,Health Seekers,76,M,True
+C02357,Rx-Only,65,M,True
+C02358,Rx-Only,40,F,True
+C02359,Health Seekers,40,F,False
+C02360,Occasional Visitors,53,M,True
+C02361,Price Sensitives,61,F,True
+C02362,Health Seekers,64,F,False
+C02363,Health Seekers,70,M,False
+C02364,Health Seekers,47,M,False
+C02365,Occasional Visitors,71,F,False
+C02366,At-Risk Lapsing,44,M,True
+C02367,Health Seekers,48,F,True
+C02368,Chronic Loyalists,63,M,False
+C02369,Health Seekers,31,M,True
+C02370,Rx-Only,74,F,True
+C02371,Occasional Visitors,70,M,True
+C02372,Price Sensitives,34,F,True
+C02373,Rx-Only,66,M,True
+C02374,Rx-Only,70,F,True
+C02375,Health Seekers,49,F,True
+C02376,Occasional Visitors,60,M,True
+C02377,At-Risk Lapsing,69,M,True
+C02378,Health Seekers,75,M,True
+C02379,Chronic Loyalists,35,M,False
+C02380,Chronic Loyalists,62,F,True
+C02381,Health Seekers,57,F,True
+C02382,Health Seekers,31,M,False
+C02383,At-Risk Lapsing,71,F,True
+C02384,Occasional Visitors,25,F,True
+C02385,Occasional Visitors,66,F,True
+C02386,Health Seekers,43,F,True
+C02387,Chronic Loyalists,59,F,True
+C02388,Price Sensitives,30,M,True
+C02389,Occasional Visitors,49,F,False
+C02390,Price Sensitives,44,M,True
+C02391,Rx-Only,74,M,True
+C02392,Occasional Visitors,66,M,True
+C02393,Rx-Only,60,M,True
+C02394,Chronic Loyalists,58,M,False
+C02395,Price Sensitives,58,F,True
+C02396,Chronic Loyalists,22,M,True
+C02397,At-Risk Lapsing,69,M,True
+C02398,Rx-Only,32,M,True
+C02399,Rx-Only,73,M,True
+C02400,Occasional Visitors,75,M,True
+C02401,Price Sensitives,49,M,True
+C02402,Occasional Visitors,73,M,False
+C02403,Rx-Only,72,F,True
+C02404,Chronic Loyalists,24,M,True
+C02405,Health Seekers,65,M,True
+C02406,Chronic Loyalists,43,F,False
+C02407,Chronic Loyalists,24,M,True
+C02408,Rx-Only,50,F,True
+C02409,Occasional Visitors,42,F,False
+C02410,Rx-Only,33,F,True
+C02411,Chronic Loyalists,47,F,True
+C02412,Health Seekers,22,M,True
+C02413,Occasional Visitors,75,M,True
+C02414,Occasional Visitors,31,M,False
+C02415,Rx-Only,24,M,True
+C02416,Rx-Only,45,F,True
+C02417,Occasional Visitors,31,M,True
+C02418,Occasional Visitors,59,M,True
+C02419,Rx-Only,31,M,True
+C02420,Rx-Only,45,M,True
+C02421,Health Seekers,36,F,True
+C02422,Chronic Loyalists,29,F,True
+C02423,Chronic Loyalists,22,F,True
+C02424,Price Sensitives,45,M,True
+C02425,Chronic Loyalists,69,F,True
+C02426,Occasional Visitors,69,F,True
+C02427,Health Seekers,40,F,True
+C02428,Occasional Visitors,44,M,False
+C02429,Price Sensitives,63,M,True
+C02430,Rx-Only,38,F,True
+C02431,Health Seekers,42,M,False
+C02432,Rx-Only,74,F,True
+C02433,Health Seekers,31,F,False
+C02434,Price Sensitives,60,F,False
+C02435,Rx-Only,31,F,True
+C02436,Health Seekers,35,M,True
+C02437,Occasional Visitors,50,F,True
+C02438,Occasional Visitors,47,M,True
+C02439,Chronic Loyalists,65,M,True
+C02440,Health Seekers,34,M,True
+C02441,At-Risk Lapsing,47,M,True
+C02442,Health Seekers,47,M,True
+C02443,Health Seekers,71,F,True
+C02444,Health Seekers,57,M,True
+C02445,Occasional Visitors,74,F,True
+C02446,Price Sensitives,35,M,True
+C02447,Rx-Only,31,F,True
+C02448,Price Sensitives,59,M,True
+C02449,Rx-Only,27,M,True
+C02450,Rx-Only,65,F,True
+C02451,Occasional Visitors,29,M,False
+C02452,Occasional Visitors,47,M,True
+C02453,Chronic Loyalists,24,F,True
+C02454,Occasional Visitors,39,F,True
+C02455,Rx-Only,24,F,True
+C02456,Rx-Only,52,F,True
+C02457,Health Seekers,35,M,True
+C02458,Occasional Visitors,71,M,True
+C02459,Occasional Visitors,25,F,True
+C02460,Chronic Loyalists,38,M,True
+C02461,Chronic Loyalists,30,F,False
+C02462,Health Seekers,29,F,False
+C02463,Chronic Loyalists,71,F,True
+C02464,Rx-Only,40,F,True
+C02465,At-Risk Lapsing,74,M,True
+C02466,Price Sensitives,30,F,False
+C02467,Rx-Only,41,F,True
+C02468,Rx-Only,38,M,False
+C02469,Chronic Loyalists,66,F,True
+C02470,Price Sensitives,26,M,False
+C02471,Occasional Visitors,51,F,True
+C02472,Health Seekers,46,F,True
+C02473,Rx-Only,71,F,True
+C02474,Chronic Loyalists,53,F,False
+C02475,Occasional Visitors,46,F,True
+C02476,Health Seekers,53,F,False
+C02477,Chronic Loyalists,40,F,False
+C02478,Rx-Only,37,M,True
+C02479,Price Sensitives,22,F,False
+C02480,Chronic Loyalists,34,F,True
+C02481,Chronic Loyalists,37,F,False
+C02482,Occasional Visitors,33,F,False
+C02483,Chronic Loyalists,76,F,True
+C02484,Price Sensitives,47,M,True
+C02485,Price Sensitives,59,F,True
+C02486,Health Seekers,76,M,False
+C02487,Rx-Only,27,F,True
+C02488,Rx-Only,58,M,False
+C02489,Occasional Visitors,39,F,True
+C02490,Chronic Loyalists,34,F,True
+C02491,Occasional Visitors,23,F,False
+C02492,Rx-Only,43,F,True
+C02493,Health Seekers,52,F,True
+C02494,Chronic Loyalists,33,M,False
+C02495,Occasional Visitors,37,F,True
+C02496,Health Seekers,62,M,True
+C02497,Rx-Only,33,F,False
+C02498,At-Risk Lapsing,75,F,True
+C02499,Health Seekers,44,F,True
+C02500,Rx-Only,55,M,False
+C02501,Chronic Loyalists,71,M,True
+C02502,Rx-Only,48,M,True
+C02503,Occasional Visitors,69,F,False
+C02504,Chronic Loyalists,39,M,True
+C02505,Occasional Visitors,46,F,False
+C02506,Occasional Visitors,38,M,True
+C02507,Occasional Visitors,34,M,True
+C02508,Health Seekers,75,F,True
+C02509,Rx-Only,47,F,True
+C02510,Chronic Loyalists,41,M,True
+C02511,Occasional Visitors,73,F,False
+C02512,Occasional Visitors,31,F,True
+C02513,Rx-Only,66,F,True
+C02514,Chronic Loyalists,32,F,False
+C02515,Chronic Loyalists,58,F,True
+C02516,Occasional Visitors,52,F,True
+C02517,Rx-Only,60,M,False
+C02518,Rx-Only,56,M,True
+C02519,Health Seekers,60,F,True
+C02520,Rx-Only,27,M,False
+C02521,Occasional Visitors,58,M,True
+C02522,Occasional Visitors,71,M,True
+C02523,Rx-Only,52,M,False
+C02524,Occasional Visitors,69,F,True
+C02525,Rx-Only,67,M,True
+C02526,Rx-Only,77,M,True
+C02527,Rx-Only,48,M,False
+C02528,Chronic Loyalists,37,F,False
+C02529,Chronic Loyalists,53,M,False
+C02530,Price Sensitives,54,F,True
+C02531,Health Seekers,41,F,True
+C02532,At-Risk Lapsing,22,M,True
+C02533,Occasional Visitors,67,M,True
+C02534,Occasional Visitors,25,F,False
+C02535,Occasional Visitors,76,M,True
+C02536,Rx-Only,66,M,False
+C02537,Health Seekers,46,F,True
+C02538,Health Seekers,36,F,True
+C02539,Occasional Visitors,56,F,False
+C02540,Occasional Visitors,75,M,True
+C02541,Chronic Loyalists,60,M,True
+C02542,Health Seekers,23,F,True
+C02543,Occasional Visitors,52,M,True
+C02544,Occasional Visitors,39,M,True
+C02545,Occasional Visitors,60,M,True
+C02546,Occasional Visitors,67,F,True
+C02547,Health Seekers,70,M,True
+C02548,Rx-Only,34,M,True
+C02549,Health Seekers,73,F,True
+C02550,Chronic Loyalists,38,F,True
+C02551,Rx-Only,35,M,True
+C02552,Rx-Only,53,F,True
+C02553,Health Seekers,60,F,True
+C02554,Occasional Visitors,77,F,True
+C02555,Rx-Only,28,M,True
+C02556,Rx-Only,57,F,True
+C02557,Rx-Only,77,M,True
+C02558,Rx-Only,76,F,True
+C02559,Occasional Visitors,71,F,False
+C02560,Health Seekers,39,M,True
+C02561,Health Seekers,75,M,False
+C02562,Rx-Only,50,F,True
+C02563,Rx-Only,77,M,True
+C02564,Rx-Only,29,F,True
+C02565,Health Seekers,34,M,True
+C02566,Rx-Only,28,M,True
+C02567,Rx-Only,69,F,True
+C02568,Price Sensitives,60,F,False
+C02569,Price Sensitives,52,M,True
+C02570,Chronic Loyalists,22,M,False
+C02571,Price Sensitives,74,F,True
+C02572,Health Seekers,71,F,True
+C02573,Health Seekers,26,F,True
+C02574,Occasional Visitors,42,F,False
+C02575,Occasional Visitors,28,F,False
+C02576,Occasional Visitors,59,F,True
+C02577,Occasional Visitors,36,F,True
+C02578,At-Risk Lapsing,66,F,True
+C02579,Rx-Only,70,F,True
+C02580,Health Seekers,42,M,False
+C02581,Rx-Only,66,M,True
+C02582,Occasional Visitors,48,M,True
+C02583,Rx-Only,64,M,True
+C02584,Chronic Loyalists,31,F,False
+C02585,Occasional Visitors,54,F,False
+C02586,Price Sensitives,30,M,True
+C02587,Rx-Only,32,M,True
+C02588,Occasional Visitors,54,F,False
+C02589,Chronic Loyalists,65,F,True
+C02590,Health Seekers,51,M,True
+C02591,Occasional Visitors,62,F,True
+C02592,Rx-Only,63,F,False
+C02593,Rx-Only,36,F,True
+C02594,Chronic Loyalists,46,F,True
+C02595,Occasional Visitors,44,F,True
+C02596,Health Seekers,33,M,False
+C02597,Price Sensitives,49,M,True
+C02598,Occasional Visitors,32,F,True
+C02599,At-Risk Lapsing,23,F,True
+C02600,Chronic Loyalists,52,F,True
+C02601,Health Seekers,42,M,True
+C02602,Rx-Only,29,M,True
+C02603,Rx-Only,74,M,False
+C02604,Occasional Visitors,60,M,False
+C02605,Health Seekers,73,F,True
+C02606,Health Seekers,51,F,True
+C02607,Price Sensitives,35,M,True
+C02608,Price Sensitives,59,F,False
+C02609,Rx-Only,57,F,True
+C02610,Health Seekers,29,F,True
+C02611,Occasional Visitors,35,F,True
+C02612,Chronic Loyalists,59,F,False
+C02613,Rx-Only,51,F,True
+C02614,Price Sensitives,54,M,True
+C02615,Health Seekers,57,F,True
+C02616,Price Sensitives,62,M,True
+C02617,Rx-Only,56,M,True
+C02618,Occasional Visitors,23,F,True
+C02619,Health Seekers,62,M,True
+C02620,Chronic Loyalists,42,F,False
+C02621,Rx-Only,74,F,True
+C02622,Occasional Visitors,72,F,True
+C02623,Rx-Only,53,M,False
+C02624,Chronic Loyalists,70,F,True
+C02625,Rx-Only,64,F,True
+C02626,Rx-Only,34,M,True
+C02627,Chronic Loyalists,66,F,True
+C02628,Rx-Only,27,M,True
+C02629,Occasional Visitors,74,F,False
+C02630,Health Seekers,64,F,True
+C02631,Chronic Loyalists,46,F,False
+C02632,Health Seekers,45,M,True
+C02633,Occasional Visitors,59,F,True
+C02634,Chronic Loyalists,51,F,True
+C02635,Rx-Only,46,M,True
+C02636,Occasional Visitors,46,M,True
+C02637,Health Seekers,75,M,True
+C02638,Rx-Only,58,F,False
+C02639,Rx-Only,24,M,True
+C02640,Chronic Loyalists,40,F,True
+C02641,Occasional Visitors,40,M,True
+C02642,Price Sensitives,75,M,True
+C02643,Health Seekers,40,F,True
+C02644,Health Seekers,51,F,True
+C02645,Occasional Visitors,34,M,True
+C02646,Chronic Loyalists,41,F,True
+C02647,Chronic Loyalists,55,F,True
+C02648,Occasional Visitors,25,M,True
+C02649,Health Seekers,30,M,True
+C02650,Rx-Only,77,M,False
+C02651,Health Seekers,30,F,True
+C02652,Rx-Only,65,F,True
+C02653,Rx-Only,27,F,True
+C02654,Rx-Only,39,F,True
+C02655,Price Sensitives,42,M,True
+C02656,Price Sensitives,39,M,True
+C02657,Rx-Only,38,M,False
+C02658,Rx-Only,59,F,True
+C02659,Occasional Visitors,22,M,True
+C02660,Rx-Only,30,M,True
+C02661,Rx-Only,40,F,True
+C02662,Chronic Loyalists,76,M,False
+C02663,At-Risk Lapsing,41,M,True
+C02664,Price Sensitives,43,M,True
+C02665,Price Sensitives,36,M,True
+C02666,Health Seekers,47,F,True
+C02667,Health Seekers,64,F,False
+C02668,Occasional Visitors,54,M,False
+C02669,Chronic Loyalists,73,F,True
+C02670,Health Seekers,56,F,True
+C02671,Rx-Only,58,M,True
+C02672,Chronic Loyalists,43,F,True
+C02673,Chronic Loyalists,29,M,True
+C02674,Health Seekers,71,M,True
+C02675,At-Risk Lapsing,75,F,False
+C02676,Rx-Only,40,M,True
+C02677,Occasional Visitors,45,M,False
+C02678,Price Sensitives,56,M,True
+C02679,Rx-Only,37,M,True
+C02680,Occasional Visitors,43,M,True
+C02681,Rx-Only,68,F,True
+C02682,Occasional Visitors,73,F,True
+C02683,Occasional Visitors,62,F,True
+C02684,Rx-Only,22,F,False
+C02685,Health Seekers,43,F,False
+C02686,At-Risk Lapsing,55,M,True
+C02687,Price Sensitives,58,F,True
+C02688,Rx-Only,45,M,True
+C02689,Occasional Visitors,38,F,True
+C02690,Rx-Only,30,F,True
+C02691,Occasional Visitors,44,F,True
+C02692,Occasional Visitors,38,M,True
+C02693,Occasional Visitors,40,F,True
+C02694,At-Risk Lapsing,27,F,False
+C02695,Health Seekers,43,F,True
+C02696,Rx-Only,70,F,True
+C02697,Occasional Visitors,63,M,True
+C02698,Occasional Visitors,74,F,False
+C02699,Rx-Only,49,M,True
+C02700,Rx-Only,22,M,True
+C02701,Rx-Only,60,M,True
+C02702,Chronic Loyalists,68,M,True
+C02703,Occasional Visitors,47,M,True
+C02704,At-Risk Lapsing,25,M,True
+C02705,Occasional Visitors,22,M,False
+C02706,Health Seekers,45,M,True
+C02707,Chronic Loyalists,25,F,True
+C02708,Occasional Visitors,64,F,False
+C02709,Rx-Only,45,F,True
+C02710,Health Seekers,48,F,True
+C02711,Occasional Visitors,27,F,False
+C02712,Rx-Only,43,F,True
+C02713,Occasional Visitors,22,F,True
+C02714,Health Seekers,40,M,True
+C02715,Rx-Only,61,F,True
+C02716,Rx-Only,22,M,False
+C02717,Rx-Only,69,F,True
+C02718,Price Sensitives,69,M,True
+C02719,Occasional Visitors,34,M,True
+C02720,Health Seekers,50,F,True
+C02721,Occasional Visitors,67,M,False
+C02722,Price Sensitives,50,F,True
+C02723,Occasional Visitors,32,F,True
+C02724,Occasional Visitors,75,M,False
+C02725,Chronic Loyalists,47,M,True
+C02726,Price Sensitives,60,F,True
+C02727,Chronic Loyalists,37,F,True
+C02728,Health Seekers,46,M,False
+C02729,Price Sensitives,53,F,True
+C02730,Chronic Loyalists,41,F,True
+C02731,At-Risk Lapsing,30,F,True
+C02732,Chronic Loyalists,66,F,True
+C02733,Chronic Loyalists,36,M,True
+C02734,Occasional Visitors,30,F,False
+C02735,Occasional Visitors,73,M,True
+C02736,Occasional Visitors,70,M,True
+C02737,Price Sensitives,28,F,True
+C02738,At-Risk Lapsing,52,F,True
+C02739,Rx-Only,61,M,True
+C02740,Occasional Visitors,53,F,True
+C02741,Rx-Only,77,M,True
+C02742,Rx-Only,39,M,False
+C02743,Occasional Visitors,71,M,True
+C02744,Rx-Only,33,F,True
+C02745,Rx-Only,65,M,False
+C02746,Health Seekers,50,F,True
+C02747,Occasional Visitors,40,F,True
+C02748,Occasional Visitors,66,M,False
+C02749,Health Seekers,69,F,True
+C02750,Chronic Loyalists,40,F,False
+C02751,Rx-Only,44,F,True
+C02752,Rx-Only,65,F,False
+C02753,Health Seekers,32,M,False
+C02754,Price Sensitives,39,F,True
+C02755,Chronic Loyalists,71,F,True
+C02756,Rx-Only,39,M,True
+C02757,Chronic Loyalists,56,F,False
+C02758,Price Sensitives,41,M,True
+C02759,Occasional Visitors,53,F,True
+C02760,Rx-Only,69,M,True
+C02761,Health Seekers,30,M,True
+C02762,Price Sensitives,32,M,False
+C02763,Health Seekers,32,M,True
+C02764,Chronic Loyalists,46,F,False
+C02765,Chronic Loyalists,63,F,False
+C02766,Health Seekers,26,F,True
+C02767,Health Seekers,53,M,True
+C02768,Occasional Visitors,43,M,False
+C02769,Health Seekers,45,F,True
+C02770,Price Sensitives,73,M,True
+C02771,Health Seekers,30,F,True
+C02772,Health Seekers,61,F,True
+C02773,Price Sensitives,26,F,True
+C02774,Occasional Visitors,36,F,False
+C02775,Health Seekers,68,F,True
+C02776,Rx-Only,40,F,True
+C02777,Health Seekers,52,F,True
+C02778,Price Sensitives,24,F,True
+C02779,Health Seekers,43,F,True
+C02780,Price Sensitives,73,M,False
+C02781,Chronic Loyalists,44,F,True
+C02782,Rx-Only,42,M,False
+C02783,Rx-Only,27,F,True
+C02784,Chronic Loyalists,66,M,True
+C02785,Price Sensitives,43,F,True
+C02786,Chronic Loyalists,59,F,True
+C02787,Chronic Loyalists,62,M,True
+C02788,Health Seekers,36,M,False
+C02789,Chronic Loyalists,54,F,True
+C02790,Health Seekers,57,M,True
+C02791,Occasional Visitors,52,M,True
+C02792,Occasional Visitors,36,M,True
+C02793,Chronic Loyalists,42,M,True
+C02794,Health Seekers,25,F,False
+C02795,Health Seekers,41,M,True
+C02796,Chronic Loyalists,48,M,True
+C02797,Health Seekers,30,M,True
+C02798,Price Sensitives,55,M,False
+C02799,Occasional Visitors,28,F,True
+C02800,Health Seekers,24,F,False
+C02801,Occasional Visitors,72,F,True
+C02802,Price Sensitives,27,M,False
+C02803,Health Seekers,50,F,True
+C02804,Price Sensitives,69,F,True
+C02805,Chronic Loyalists,26,M,True
+C02806,Rx-Only,53,F,True
+C02807,Chronic Loyalists,72,F,True
+C02808,Occasional Visitors,27,F,False
+C02809,Rx-Only,22,F,True
+C02810,Price Sensitives,27,F,True
+C02811,Health Seekers,52,F,True
+C02812,Occasional Visitors,44,M,True
+C02813,Chronic Loyalists,76,F,True
+C02814,Price Sensitives,28,F,True
+C02815,Occasional Visitors,68,M,False
+C02816,Health Seekers,32,F,True
+C02817,Chronic Loyalists,44,M,False
+C02818,Health Seekers,43,F,True
+C02819,Rx-Only,36,F,True
+C02820,Occasional Visitors,63,F,True
+C02821,Health Seekers,37,F,True
+C02822,Chronic Loyalists,57,F,True
+C02823,Chronic Loyalists,51,F,True
+C02824,Rx-Only,65,M,True
+C02825,Chronic Loyalists,27,F,True
+C02826,Rx-Only,68,F,True
+C02827,Rx-Only,43,F,True
+C02828,Occasional Visitors,46,M,False
+C02829,At-Risk Lapsing,33,F,True
+C02830,Chronic Loyalists,44,M,True
+C02831,Rx-Only,52,M,True
+C02832,Occasional Visitors,27,F,True
+C02833,Health Seekers,29,F,True
+C02834,Health Seekers,48,F,True
+C02835,Rx-Only,72,F,True
+C02836,Rx-Only,56,M,True
+C02837,Chronic Loyalists,40,F,True
+C02838,Rx-Only,42,M,True
+C02839,Rx-Only,68,F,True
+C02840,Health Seekers,51,F,True
+C02841,Price Sensitives,26,M,False
+C02842,Rx-Only,76,M,True
+C02843,Occasional Visitors,35,F,False
+C02844,Rx-Only,34,M,True
+C02845,Health Seekers,48,M,True
+C02846,Health Seekers,28,F,True
+C02847,Occasional Visitors,53,M,False
+C02848,Chronic Loyalists,60,F,True
+C02849,Health Seekers,74,M,True
+C02850,Price Sensitives,34,M,True
+C02851,Chronic Loyalists,62,M,True
+C02852,Chronic Loyalists,23,F,True
+C02853,Chronic Loyalists,63,F,False
+C02854,Chronic Loyalists,53,F,True
+C02855,Chronic Loyalists,62,F,True
+C02856,Chronic Loyalists,48,F,True
+C02857,Chronic Loyalists,58,M,True
+C02858,Rx-Only,24,F,True
+C02859,Occasional Visitors,69,F,True
+C02860,Chronic Loyalists,71,F,True
+C02861,Price Sensitives,48,F,False
+C02862,Rx-Only,37,F,True
+C02863,Chronic Loyalists,33,M,True
+C02864,Occasional Visitors,63,M,True
+C02865,Rx-Only,29,M,True
+C02866,Price Sensitives,68,M,True
+C02867,Health Seekers,25,F,True
+C02868,Price Sensitives,59,M,False
+C02869,Health Seekers,47,M,True
+C02870,Occasional Visitors,47,M,True
+C02871,Chronic Loyalists,56,F,True
+C02872,Rx-Only,38,M,True
+C02873,Health Seekers,45,M,True
+C02874,At-Risk Lapsing,23,M,True
+C02875,Occasional Visitors,43,F,True
+C02876,Occasional Visitors,44,M,True
+C02877,Chronic Loyalists,77,M,False
+C02878,Occasional Visitors,58,F,True
+C02879,Price Sensitives,62,M,True
+C02880,Rx-Only,45,F,True
+C02881,Health Seekers,28,F,True
+C02882,Health Seekers,42,M,False
+C02883,Occasional Visitors,76,F,True
+C02884,Occasional Visitors,50,F,True
+C02885,Rx-Only,44,M,False
+C02886,Rx-Only,36,M,True
+C02887,Occasional Visitors,48,M,True
+C02888,At-Risk Lapsing,38,F,False
+C02889,Price Sensitives,46,F,True
+C02890,Occasional Visitors,31,F,True
+C02891,Health Seekers,61,F,True
+C02892,Rx-Only,34,F,True
+C02893,Health Seekers,53,M,True
+C02894,Occasional Visitors,34,F,True
+C02895,Price Sensitives,73,M,False
+C02896,Rx-Only,34,M,True
+C02897,Occasional Visitors,59,F,True
+C02898,Rx-Only,36,F,True
+C02899,Price Sensitives,55,M,True
+C02900,Occasional Visitors,50,F,True
+C02901,At-Risk Lapsing,42,F,True
+C02902,Rx-Only,72,M,True
+C02903,Occasional Visitors,70,F,True
+C02904,Health Seekers,75,M,True
+C02905,Chronic Loyalists,62,F,True
+C02906,Rx-Only,59,M,True
+C02907,Rx-Only,60,F,False
+C02908,Price Sensitives,57,F,True
+C02909,Occasional Visitors,71,F,False
+C02910,Chronic Loyalists,77,F,False
+C02911,At-Risk Lapsing,41,M,False
+C02912,Health Seekers,72,F,False
+C02913,Rx-Only,45,F,False
+C02914,Chronic Loyalists,68,F,True
+C02915,Rx-Only,40,M,False
+C02916,Chronic Loyalists,60,F,True
+C02917,Rx-Only,58,F,False
+C02918,Health Seekers,42,M,True
+C02919,Chronic Loyalists,27,F,True
+C02920,Rx-Only,76,M,False
+C02921,Rx-Only,38,M,True
+C02922,Price Sensitives,50,F,True
+C02923,Occasional Visitors,49,F,True
+C02924,Health Seekers,26,F,True
+C02925,Chronic Loyalists,57,F,True
+C02926,Price Sensitives,29,F,False
+C02927,Occasional Visitors,32,F,True
+C02928,Chronic Loyalists,76,F,True
+C02929,Price Sensitives,55,F,False
+C02930,Rx-Only,72,M,True
+C02931,Occasional Visitors,49,M,True
+C02932,At-Risk Lapsing,56,M,False
+C02933,Health Seekers,71,F,True
+C02934,Health Seekers,57,F,True
+C02935,Chronic Loyalists,44,M,True
+C02936,Health Seekers,37,F,False
+C02937,Chronic Loyalists,33,F,False
+C02938,Rx-Only,53,F,True
+C02939,Occasional Visitors,45,M,True
+C02940,Rx-Only,46,M,False
+C02941,Health Seekers,66,M,True
+C02942,Rx-Only,52,M,True
+C02943,Health Seekers,65,F,False
+C02944,Occasional Visitors,66,M,True
+C02945,Occasional Visitors,38,F,True
+C02946,Health Seekers,62,F,False
+C02947,Rx-Only,75,M,True
+C02948,Health Seekers,23,F,True
+C02949,Health Seekers,50,F,True
+C02950,Chronic Loyalists,65,F,True
+C02951,Occasional Visitors,47,F,True
+C02952,Chronic Loyalists,40,F,False
+C02953,Rx-Only,56,F,True
+C02954,Occasional Visitors,51,F,False
+C02955,At-Risk Lapsing,44,M,True
+C02956,Chronic Loyalists,49,F,True
+C02957,Health Seekers,76,M,True
+C02958,Health Seekers,47,F,False
+C02959,Chronic Loyalists,74,M,True
+C02960,Rx-Only,22,M,True
+C02961,Rx-Only,42,F,True
+C02962,Health Seekers,73,F,True
+C02963,Rx-Only,40,F,True
+C02964,Occasional Visitors,38,M,False
+C02965,Chronic Loyalists,60,M,True
+C02966,Rx-Only,74,M,True
+C02967,Price Sensitives,75,F,False
+C02968,Rx-Only,66,M,False
+C02969,Health Seekers,60,M,True
+C02970,Chronic Loyalists,36,F,True
+C02971,At-Risk Lapsing,55,M,False
+C02972,Health Seekers,26,M,True
+C02973,Occasional Visitors,34,F,True
+C02974,Occasional Visitors,58,F,False
+C02975,Rx-Only,51,F,False
+C02976,Occasional Visitors,40,M,True
+C02977,Price Sensitives,68,M,True
+C02978,At-Risk Lapsing,38,M,True
+C02979,Health Seekers,45,F,True
+C02980,Occasional Visitors,50,F,True
+C02981,At-Risk Lapsing,44,F,True
+C02982,Chronic Loyalists,29,F,True
+C02983,Health Seekers,73,F,True
+C02984,Rx-Only,69,F,False
+C02985,Chronic Loyalists,61,F,True
+C02986,Chronic Loyalists,51,F,False
+C02987,Occasional Visitors,51,M,True
+C02988,Occasional Visitors,39,M,True
+C02989,Rx-Only,38,F,True
+C02990,Health Seekers,72,F,False
+C02991,Price Sensitives,29,M,False
+C02992,Price Sensitives,73,F,True
+C02993,Rx-Only,49,F,True
+C02994,Price Sensitives,46,F,True
+C02995,Rx-Only,77,M,True
+C02996,Occasional Visitors,42,F,False
+C02997,Health Seekers,58,F,True
+C02998,Price Sensitives,22,F,True
+C02999,Chronic Loyalists,73,F,True
+C03000,Rx-Only,67,F,True
+C03001,At-Risk Lapsing,22,F,True
+C03002,Occasional Visitors,36,M,True
+C03003,Occasional Visitors,42,M,True
+C03004,Price Sensitives,49,F,True
+C03005,Occasional Visitors,58,F,True
+C03006,Occasional Visitors,72,F,True
+C03007,Health Seekers,77,M,False
+C03008,Occasional Visitors,58,F,False
+C03009,At-Risk Lapsing,48,M,True
+C03010,Health Seekers,59,M,True
+C03011,Health Seekers,63,F,True
+C03012,Rx-Only,45,F,True
+C03013,Chronic Loyalists,28,M,True
+C03014,Occasional Visitors,63,F,False
+C03015,Price Sensitives,33,M,True
+C03016,Price Sensitives,73,M,True
+C03017,Chronic Loyalists,35,F,True
+C03018,Occasional Visitors,64,M,True
+C03019,Occasional Visitors,25,M,True
+C03020,Occasional Visitors,52,F,False
+C03021,Occasional Visitors,44,F,False
+C03022,Occasional Visitors,65,F,True
+C03023,Health Seekers,31,M,True
+C03024,Health Seekers,25,F,True
+C03025,Rx-Only,26,F,False
+C03026,Chronic Loyalists,29,M,True
+C03027,Health Seekers,49,F,True
+C03028,Occasional Visitors,25,M,True
+C03029,Occasional Visitors,55,M,False
+C03030,Chronic Loyalists,77,F,True
+C03031,Health Seekers,75,F,True
+C03032,Occasional Visitors,24,M,True
+C03033,Price Sensitives,73,M,False
+C03034,At-Risk Lapsing,43,F,True
+C03035,Price Sensitives,22,F,True
+C03036,Occasional Visitors,23,M,True
+C03037,Rx-Only,74,F,True
+C03038,Occasional Visitors,23,F,True
+C03039,Health Seekers,52,F,True
+C03040,Chronic Loyalists,59,F,True
+C03041,Occasional Visitors,44,M,True
+C03042,Health Seekers,53,F,True
+C03043,Chronic Loyalists,57,F,True
+C03044,Chronic Loyalists,68,F,True
+C03045,Occasional Visitors,30,F,True
+C03046,Rx-Only,57,M,True
+C03047,Chronic Loyalists,56,F,True
+C03048,Chronic Loyalists,64,M,False
+C03049,Rx-Only,27,F,True
+C03050,Health Seekers,30,M,False
+C03051,Rx-Only,30,F,True
+C03052,Rx-Only,76,M,True
+C03053,Health Seekers,40,M,True
+C03054,Rx-Only,30,F,False
+C03055,Occasional Visitors,39,F,True
+C03056,Health Seekers,38,F,True
+C03057,Chronic Loyalists,39,F,False
+C03058,Occasional Visitors,55,F,True
+C03059,Rx-Only,22,F,False
+C03060,Health Seekers,28,F,True
+C03061,Rx-Only,48,M,False
+C03062,Health Seekers,27,F,True
+C03063,Health Seekers,56,M,True
+C03064,Occasional Visitors,77,F,True
+C03065,Health Seekers,23,M,True
+C03066,Health Seekers,49,F,True
+C03067,Chronic Loyalists,63,F,True
+C03068,Chronic Loyalists,24,F,True
+C03069,Occasional Visitors,30,M,True
+C03070,Rx-Only,28,M,False
+C03071,Health Seekers,36,F,False
+C03072,Chronic Loyalists,75,M,False
+C03073,Health Seekers,57,F,False
+C03074,Rx-Only,59,M,True
+C03075,Health Seekers,77,F,True
+C03076,Rx-Only,47,F,True
+C03077,Rx-Only,42,F,True
+C03078,Rx-Only,24,F,True
+C03079,Occasional Visitors,62,M,True
+C03080,Health Seekers,70,M,False
+C03081,Price Sensitives,58,M,True
+C03082,Occasional Visitors,29,F,True
+C03083,Occasional Visitors,74,M,True
+C03084,Price Sensitives,23,F,False
+C03085,Occasional Visitors,28,F,False
+C03086,At-Risk Lapsing,30,F,True
+C03087,Chronic Loyalists,47,M,True
+C03088,Chronic Loyalists,27,M,True
+C03089,Health Seekers,69,M,True
+C03090,Price Sensitives,62,F,False
+C03091,Chronic Loyalists,75,M,True
+C03092,Rx-Only,38,F,True
+C03093,Chronic Loyalists,35,F,True
+C03094,Chronic Loyalists,27,M,True
+C03095,At-Risk Lapsing,24,F,False
+C03096,Rx-Only,53,F,True
+C03097,Rx-Only,44,M,False
+C03098,Rx-Only,31,M,True
+C03099,Health Seekers,22,M,False
+C03100,Chronic Loyalists,43,M,False
+C03101,Occasional Visitors,64,M,False
+C03102,Occasional Visitors,30,F,True
+C03103,Rx-Only,36,F,True
+C03104,Health Seekers,25,F,False
+C03105,Chronic Loyalists,56,F,True
+C03106,At-Risk Lapsing,63,M,False
+C03107,Occasional Visitors,48,F,True
+C03108,Health Seekers,45,M,True
+C03109,Rx-Only,65,M,True
+C03110,Rx-Only,26,F,True
+C03111,Price Sensitives,67,M,True
+C03112,Chronic Loyalists,24,M,True
+C03113,At-Risk Lapsing,46,F,False
+C03114,Chronic Loyalists,44,M,False
+C03115,Rx-Only,44,F,True
+C03116,Chronic Loyalists,68,F,False
+C03117,Occasional Visitors,22,M,True
+C03118,Occasional Visitors,52,F,True
+C03119,Occasional Visitors,22,F,True
+C03120,Occasional Visitors,53,M,True
+C03121,Chronic Loyalists,71,F,False
+C03122,Rx-Only,55,F,True
+C03123,Rx-Only,31,M,True
+C03124,Rx-Only,41,F,True
+C03125,Rx-Only,55,F,True
+C03126,Occasional Visitors,48,M,True
+C03127,Health Seekers,70,M,False
+C03128,Chronic Loyalists,56,F,True
+C03129,Health Seekers,63,M,True
+C03130,Rx-Only,70,M,False
+C03131,At-Risk Lapsing,29,F,False
+C03132,Chronic Loyalists,31,F,False
+C03133,Rx-Only,61,M,True
+C03134,Rx-Only,38,F,True
+C03135,Rx-Only,36,M,True
+C03136,Occasional Visitors,60,F,True
+C03137,Price Sensitives,57,M,True
+C03138,Chronic Loyalists,69,M,True
+C03139,Occasional Visitors,50,M,True
+C03140,Rx-Only,59,F,True
+C03141,Rx-Only,32,F,True
+C03142,Price Sensitives,31,M,True
+C03143,Health Seekers,65,M,True
+C03144,Health Seekers,33,F,False
+C03145,Rx-Only,62,M,True
+C03146,Chronic Loyalists,77,M,False
+C03147,Rx-Only,65,F,True
+C03148,Health Seekers,54,F,True
+C03149,At-Risk Lapsing,48,F,False
+C03150,Occasional Visitors,75,M,True
+C03151,Health Seekers,28,F,True
+C03152,Chronic Loyalists,50,F,True
+C03153,Health Seekers,62,M,True
+C03154,Occasional Visitors,60,F,True
+C03155,Chronic Loyalists,37,M,True
+C03156,Chronic Loyalists,26,M,True
+C03157,Health Seekers,75,F,False
+C03158,Occasional Visitors,74,F,True
+C03159,Occasional Visitors,60,M,True
+C03160,Occasional Visitors,37,F,True
+C03161,At-Risk Lapsing,66,M,True
+C03162,Health Seekers,58,M,True
+C03163,At-Risk Lapsing,44,F,False
+C03164,Rx-Only,25,F,True
+C03165,Rx-Only,26,M,False
+C03166,Chronic Loyalists,51,M,True
+C03167,Chronic Loyalists,62,M,True
+C03168,Chronic Loyalists,42,M,True
+C03169,Health Seekers,41,F,True
+C03170,Price Sensitives,53,M,True
+C03171,Occasional Visitors,26,F,True
+C03172,Price Sensitives,29,M,True
+C03173,Chronic Loyalists,41,F,True
+C03174,Rx-Only,32,M,False
+C03175,Health Seekers,74,F,False
+C03176,Occasional Visitors,75,M,True
+C03177,Chronic Loyalists,70,F,True
+C03178,Chronic Loyalists,32,M,True
+C03179,Chronic Loyalists,72,F,False
+C03180,Chronic Loyalists,53,F,True
+C03181,Price Sensitives,64,M,True
+C03182,Health Seekers,47,F,True
+C03183,Occasional Visitors,69,F,False
+C03184,Rx-Only,72,F,True
+C03185,Chronic Loyalists,30,F,True
+C03186,Price Sensitives,43,F,True
+C03187,Chronic Loyalists,29,F,True
+C03188,Rx-Only,75,F,True
+C03189,Rx-Only,65,F,True
+C03190,Chronic Loyalists,63,M,True
+C03191,Price Sensitives,30,M,True
+C03192,Health Seekers,53,M,True
+C03193,Chronic Loyalists,52,F,True
+C03194,Occasional Visitors,63,F,True
+C03195,Chronic Loyalists,35,M,True
+C03196,Chronic Loyalists,61,F,True
+C03197,Health Seekers,54,F,False
+C03198,Price Sensitives,52,F,False
+C03199,Health Seekers,67,F,True
+C03200,Rx-Only,41,M,False
+C03201,Health Seekers,38,M,True
+C03202,Rx-Only,58,F,True
+C03203,Health Seekers,67,F,True
+C03204,Occasional Visitors,69,M,False
+C03205,Health Seekers,38,F,True
+C03206,Occasional Visitors,36,M,True
+C03207,Occasional Visitors,59,F,True
+C03208,Chronic Loyalists,36,M,False
+C03209,Health Seekers,40,F,True
+C03210,Occasional Visitors,39,F,True
+C03211,Rx-Only,48,F,True
+C03212,Health Seekers,28,F,True
+C03213,Price Sensitives,72,M,True
+C03214,Chronic Loyalists,33,F,True
+C03215,Occasional Visitors,24,F,True
+C03216,Health Seekers,31,M,True
+C03217,Rx-Only,44,M,True
+C03218,Rx-Only,36,F,False
+C03219,Chronic Loyalists,28,F,True
+C03220,Health Seekers,67,M,True
+C03221,Health Seekers,25,M,True
+C03222,Occasional Visitors,56,M,True
+C03223,Occasional Visitors,73,F,True
+C03224,Rx-Only,22,M,True
+C03225,Rx-Only,53,F,True
+C03226,Health Seekers,28,M,True
+C03227,Rx-Only,24,M,True
+C03228,Chronic Loyalists,71,M,False
+C03229,Chronic Loyalists,77,F,False
+C03230,Health Seekers,42,M,True
+C03231,At-Risk Lapsing,40,F,True
+C03232,At-Risk Lapsing,27,F,False
+C03233,Rx-Only,72,F,True
+C03234,Occasional Visitors,24,M,True
+C03235,Rx-Only,35,M,False
+C03236,Rx-Only,50,M,True
+C03237,Occasional Visitors,66,F,True
+C03238,Chronic Loyalists,58,F,True
+C03239,At-Risk Lapsing,70,M,True
+C03240,Rx-Only,69,M,True
+C03241,At-Risk Lapsing,67,F,True
+C03242,Health Seekers,44,F,True
+C03243,Rx-Only,65,F,True
+C03244,Rx-Only,72,F,True
+C03245,Rx-Only,30,F,False
+C03246,Health Seekers,22,M,True
+C03247,Health Seekers,68,F,True
+C03248,Health Seekers,52,F,True
+C03249,Rx-Only,76,F,False
+C03250,Rx-Only,72,M,False
+C03251,Health Seekers,64,F,False
+C03252,Occasional Visitors,30,F,True
+C03253,At-Risk Lapsing,64,M,True
+C03254,Occasional Visitors,36,M,True
+C03255,Rx-Only,67,F,True
+C03256,Chronic Loyalists,31,M,False
+C03257,Occasional Visitors,64,F,True
+C03258,Occasional Visitors,69,M,True
+C03259,Rx-Only,24,F,True
+C03260,Chronic Loyalists,35,M,False
+C03261,Rx-Only,77,F,True
+C03262,Price Sensitives,46,F,True
+C03263,Rx-Only,30,F,True
+C03264,Health Seekers,64,M,True
+C03265,Rx-Only,26,M,False
+C03266,Rx-Only,67,M,True
+C03267,Health Seekers,38,F,False
+C03268,Rx-Only,49,F,True
+C03269,Chronic Loyalists,29,M,True
+C03270,Occasional Visitors,46,F,True
+C03271,Health Seekers,74,F,True
+C03272,Rx-Only,27,F,True
+C03273,Rx-Only,28,F,False
+C03274,Rx-Only,59,F,True
+C03275,Chronic Loyalists,58,M,True
+C03276,Rx-Only,24,F,False
+C03277,Rx-Only,43,F,True
+C03278,At-Risk Lapsing,27,M,True
+C03279,Chronic Loyalists,70,F,True
+C03280,Chronic Loyalists,61,F,True
+C03281,Price Sensitives,36,M,False
+C03282,Rx-Only,75,M,True
+C03283,Price Sensitives,40,F,False
+C03284,Health Seekers,53,F,True
+C03285,Price Sensitives,31,M,True
+C03286,Price Sensitives,24,F,True
+C03287,Chronic Loyalists,36,M,False
+C03288,Chronic Loyalists,42,M,False
+C03289,Rx-Only,41,F,True
+C03290,Occasional Visitors,60,F,True
+C03291,Chronic Loyalists,65,M,False
+C03292,Health Seekers,31,M,True
+C03293,Chronic Loyalists,52,M,False
+C03294,Rx-Only,54,F,True
+C03295,At-Risk Lapsing,29,M,False
+C03296,Chronic Loyalists,46,F,False
+C03297,Chronic Loyalists,61,F,True
+C03298,Health Seekers,65,M,True
+C03299,Health Seekers,69,M,True
+C03300,Health Seekers,39,F,True
+C03301,Price Sensitives,50,M,True
+C03302,Price Sensitives,71,F,True
+C03303,Occasional Visitors,63,F,True
+C03304,Health Seekers,40,F,False
+C03305,Health Seekers,35,M,False
+C03306,Rx-Only,44,M,True
+C03307,Price Sensitives,56,F,False
+C03308,Chronic Loyalists,61,F,True
+C03309,Chronic Loyalists,23,F,False
+C03310,Occasional Visitors,63,F,True
+C03311,Occasional Visitors,66,M,True
+C03312,Rx-Only,24,M,True
+C03313,Rx-Only,30,M,True
+C03314,Chronic Loyalists,28,M,True
+C03315,Rx-Only,60,M,False
+C03316,Occasional Visitors,44,F,True
+C03317,Rx-Only,55,M,True
+C03318,Occasional Visitors,44,M,False
+C03319,Chronic Loyalists,60,F,True
+C03320,Occasional Visitors,73,F,False
+C03321,Rx-Only,44,F,False
+C03322,Chronic Loyalists,58,M,True
+C03323,Chronic Loyalists,63,F,True
+C03324,Chronic Loyalists,69,M,False
+C03325,Chronic Loyalists,74,F,True
+C03326,Chronic Loyalists,49,F,True
+C03327,Rx-Only,72,F,False
+C03328,Occasional Visitors,26,F,True
+C03329,At-Risk Lapsing,35,M,True
+C03330,Chronic Loyalists,47,F,True
+C03331,Health Seekers,24,M,False
+C03332,Occasional Visitors,30,M,True
+C03333,Occasional Visitors,22,F,False
+C03334,Rx-Only,24,F,True
+C03335,Rx-Only,59,M,True
+C03336,Price Sensitives,73,M,True
+C03337,Price Sensitives,41,F,True
+C03338,Chronic Loyalists,33,M,True
+C03339,Health Seekers,40,F,False
+C03340,At-Risk Lapsing,31,F,True
+C03341,Health Seekers,54,M,True
+C03342,Health Seekers,27,F,True
+C03343,Chronic Loyalists,63,M,True
+C03344,Occasional Visitors,71,F,False
+C03345,Rx-Only,67,M,True
+C03346,Health Seekers,60,M,True
+C03347,Health Seekers,28,F,True
+C03348,Health Seekers,59,F,False
+C03349,Health Seekers,77,M,True
+C03350,Health Seekers,29,M,True
+C03351,At-Risk Lapsing,40,M,True
+C03352,At-Risk Lapsing,51,M,True
+C03353,Chronic Loyalists,45,M,False
+C03354,Rx-Only,57,M,False
+C03355,Occasional Visitors,34,M,True
+C03356,Occasional Visitors,66,F,False
+C03357,Rx-Only,72,F,True
+C03358,Chronic Loyalists,76,M,True
+C03359,Price Sensitives,76,F,True
+C03360,Chronic Loyalists,46,M,True
+C03361,Health Seekers,75,F,True
+C03362,Rx-Only,57,M,True
+C03363,Chronic Loyalists,25,M,True
+C03364,Chronic Loyalists,76,M,True
+C03365,Health Seekers,32,F,True
+C03366,Chronic Loyalists,24,M,True
+C03367,Rx-Only,66,M,True
+C03368,Chronic Loyalists,50,F,False
+C03369,Price Sensitives,27,M,False
+C03370,Chronic Loyalists,62,F,False
+C03371,Rx-Only,55,M,True
+C03372,Occasional Visitors,23,M,False
+C03373,Rx-Only,52,M,True
+C03374,At-Risk Lapsing,77,F,True
+C03375,Rx-Only,66,M,True
+C03376,Price Sensitives,45,M,False
+C03377,Occasional Visitors,66,F,True
+C03378,Occasional Visitors,62,F,True
+C03379,Rx-Only,38,M,False
+C03380,Occasional Visitors,55,M,True
+C03381,Rx-Only,65,M,False
+C03382,Chronic Loyalists,48,F,True
+C03383,Health Seekers,59,F,False
+C03384,Rx-Only,38,F,True
+C03385,Rx-Only,52,F,True
+C03386,Rx-Only,65,M,True
+C03387,Price Sensitives,72,F,True
+C03388,Chronic Loyalists,26,F,True
+C03389,Rx-Only,74,F,True
+C03390,Occasional Visitors,68,M,True
+C03391,Health Seekers,48,M,False
+C03392,Chronic Loyalists,67,M,True
+C03393,Price Sensitives,29,F,True
+C03394,At-Risk Lapsing,48,F,True
+C03395,Occasional Visitors,66,M,True
+C03396,Price Sensitives,27,M,False
+C03397,Rx-Only,39,F,False
+C03398,Rx-Only,60,F,False
+C03399,Rx-Only,39,F,True
+C03400,Rx-Only,54,M,False
+C03401,Chronic Loyalists,68,F,True
+C03402,Chronic Loyalists,33,F,True
+C03403,Rx-Only,52,M,True
+C03404,Rx-Only,74,M,True
+C03405,Chronic Loyalists,67,F,True
+C03406,Price Sensitives,24,F,False
+C03407,Rx-Only,67,M,True
+C03408,Price Sensitives,58,F,True
+C03409,Price Sensitives,25,M,False
+C03410,Chronic Loyalists,42,F,True
+C03411,Rx-Only,25,F,True
+C03412,Rx-Only,48,F,True
+C03413,Rx-Only,40,M,True
+C03414,Chronic Loyalists,52,M,False
+C03415,Health Seekers,25,M,True
+C03416,Price Sensitives,66,F,False
+C03417,Occasional Visitors,40,M,True
+C03418,At-Risk Lapsing,46,M,True
+C03419,Health Seekers,60,M,False
+C03420,Occasional Visitors,43,M,True
+C03421,Health Seekers,37,M,False
+C03422,Price Sensitives,73,F,True
+C03423,Price Sensitives,24,M,True
+C03424,Occasional Visitors,54,M,False
+C03425,Health Seekers,53,F,True
+C03426,Chronic Loyalists,42,F,True
+C03427,Occasional Visitors,38,M,True
+C03428,At-Risk Lapsing,32,M,True
+C03429,Rx-Only,72,F,True
+C03430,Rx-Only,61,F,False
+C03431,Rx-Only,50,M,True
+C03432,At-Risk Lapsing,23,M,False
+C03433,Chronic Loyalists,32,M,False
+C03434,Rx-Only,51,M,True
+C03435,Rx-Only,32,F,True
+C03436,Price Sensitives,59,F,True
+C03437,Price Sensitives,40,M,True
+C03438,Health Seekers,24,M,True
+C03439,Rx-Only,66,F,False
+C03440,Rx-Only,33,F,False
+C03441,Chronic Loyalists,75,M,True
+C03442,Occasional Visitors,43,F,False
+C03443,Occasional Visitors,45,M,False
+C03444,At-Risk Lapsing,75,F,True
+C03445,Price Sensitives,68,F,False
+C03446,Occasional Visitors,31,M,True
+C03447,Occasional Visitors,66,F,True
+C03448,Rx-Only,55,M,True
+C03449,Rx-Only,55,F,False
+C03450,Health Seekers,31,M,True
+C03451,Occasional Visitors,69,M,False
+C03452,Health Seekers,75,F,True
+C03453,Rx-Only,65,M,True
+C03454,Occasional Visitors,74,M,True
+C03455,Chronic Loyalists,38,F,True
+C03456,Health Seekers,66,M,False
+C03457,Price Sensitives,55,F,True
+C03458,Occasional Visitors,44,M,True
+C03459,Rx-Only,29,F,True
+C03460,Health Seekers,68,M,True
+C03461,Rx-Only,70,M,True
+C03462,Price Sensitives,26,F,True
+C03463,Rx-Only,61,M,True
+C03464,At-Risk Lapsing,68,F,True
+C03465,Chronic Loyalists,73,M,True
+C03466,Chronic Loyalists,29,M,False
+C03467,Chronic Loyalists,70,F,True
+C03468,Chronic Loyalists,42,F,False
+C03469,Chronic Loyalists,35,M,False
+C03470,At-Risk Lapsing,56,M,True
+C03471,Rx-Only,32,F,True
+C03472,Occasional Visitors,44,M,True
+C03473,Occasional Visitors,53,F,True
+C03474,Rx-Only,34,F,True
+C03475,Rx-Only,55,M,True
+C03476,Chronic Loyalists,71,M,False
+C03477,Rx-Only,54,F,True
+C03478,Health Seekers,63,F,True
+C03479,Occasional Visitors,28,M,True
+C03480,Price Sensitives,24,F,False
+C03481,Price Sensitives,38,M,True
+C03482,Chronic Loyalists,56,F,True
+C03483,Health Seekers,67,M,True
+C03484,Occasional Visitors,48,F,True
+C03485,Health Seekers,65,F,False
+C03486,Price Sensitives,49,M,True
+C03487,Occasional Visitors,71,F,False
+C03488,Chronic Loyalists,75,M,True
+C03489,Chronic Loyalists,35,M,True
+C03490,Chronic Loyalists,29,F,True
+C03491,Chronic Loyalists,37,M,False
+C03492,Chronic Loyalists,39,M,True
+C03493,Rx-Only,37,M,True
+C03494,Rx-Only,67,M,False
+C03495,Health Seekers,54,F,True
+C03496,Health Seekers,63,M,True
+C03497,Health Seekers,24,M,True
+C03498,Health Seekers,28,M,True
+C03499,Chronic Loyalists,69,F,True
+C03500,Occasional Visitors,32,F,True
+C03501,Health Seekers,54,M,True
+C03502,Rx-Only,48,F,False
+C03503,Health Seekers,77,M,True
+C03504,Occasional Visitors,33,M,True
+C03505,Rx-Only,34,F,False
+C03506,Health Seekers,73,F,True
+C03507,Rx-Only,72,F,True
+C03508,Occasional Visitors,63,F,True
+C03509,Chronic Loyalists,31,M,True
+C03510,Occasional Visitors,48,F,False
+C03511,Occasional Visitors,24,F,True
+C03512,At-Risk Lapsing,68,M,True
+C03513,Rx-Only,45,F,True
+C03514,Rx-Only,46,M,False
+C03515,Occasional Visitors,48,M,True
+C03516,Price Sensitives,56,F,False
+C03517,Health Seekers,74,F,True
+C03518,Chronic Loyalists,70,F,True
+C03519,Chronic Loyalists,69,F,True
+C03520,Rx-Only,44,F,True
+C03521,Health Seekers,55,M,True
+C03522,Health Seekers,39,F,True
+C03523,Chronic Loyalists,34,F,True
+C03524,Chronic Loyalists,29,M,True
+C03525,Occasional Visitors,48,F,False
+C03526,At-Risk Lapsing,54,F,True
+C03527,Health Seekers,46,M,True
+C03528,Occasional Visitors,47,M,False
+C03529,Occasional Visitors,25,F,True
+C03530,Occasional Visitors,39,M,True
+C03531,Occasional Visitors,25,F,True
+C03532,Health Seekers,68,M,True
+C03533,Chronic Loyalists,72,F,True
+C03534,At-Risk Lapsing,46,F,False
+C03535,Chronic Loyalists,22,M,True
+C03536,Chronic Loyalists,57,M,True
+C03537,Rx-Only,46,M,False
+C03538,Rx-Only,24,F,True
+C03539,Chronic Loyalists,75,F,True
+C03540,At-Risk Lapsing,66,F,True
+C03541,Occasional Visitors,63,M,True
+C03542,Rx-Only,52,F,True
+C03543,Rx-Only,26,M,True
+C03544,Rx-Only,63,F,True
+C03545,Rx-Only,63,M,False
+C03546,Chronic Loyalists,69,M,True
+C03547,Rx-Only,63,M,True
+C03548,Chronic Loyalists,46,F,False
+C03549,Health Seekers,66,M,True
+C03550,Chronic Loyalists,29,M,True
+C03551,Rx-Only,43,F,True
+C03552,Occasional Visitors,77,F,False
+C03553,At-Risk Lapsing,40,F,False
+C03554,Price Sensitives,45,M,True
+C03555,Health Seekers,53,F,True
+C03556,Rx-Only,45,M,True
+C03557,Health Seekers,41,M,True
+C03558,Occasional Visitors,68,F,True
+C03559,Health Seekers,59,F,True
+C03560,Chronic Loyalists,26,F,True
+C03561,Health Seekers,61,F,True
+C03562,At-Risk Lapsing,22,M,True
+C03563,Health Seekers,23,M,True
+C03564,Occasional Visitors,44,F,True
+C03565,Occasional Visitors,35,M,True
+C03566,Rx-Only,45,F,True
+C03567,Occasional Visitors,31,M,False
+C03568,Chronic Loyalists,64,M,True
+C03569,Health Seekers,44,F,True
+C03570,Chronic Loyalists,58,F,False
+C03571,Rx-Only,35,M,False
+C03572,Health Seekers,37,M,True
+C03573,Health Seekers,39,F,True
+C03574,Rx-Only,37,F,True
+C03575,Rx-Only,77,F,False
+C03576,Chronic Loyalists,44,F,False
+C03577,Occasional Visitors,55,F,True
+C03578,Chronic Loyalists,77,M,True
+C03579,Rx-Only,72,F,True
+C03580,Chronic Loyalists,26,M,False
+C03581,Occasional Visitors,72,F,True
+C03582,Chronic Loyalists,46,F,True
+C03583,At-Risk Lapsing,25,M,False
+C03584,Health Seekers,51,F,False
+C03585,Price Sensitives,41,F,True
+C03586,Chronic Loyalists,47,F,True
+C03587,Chronic Loyalists,54,F,True
+C03588,Rx-Only,36,M,True
+C03589,Occasional Visitors,47,M,True
+C03590,Health Seekers,72,F,True
+C03591,At-Risk Lapsing,49,M,False
+C03592,Health Seekers,64,M,True
+C03593,Price Sensitives,77,F,False
+C03594,Rx-Only,56,F,False
+C03595,Rx-Only,70,M,True
+C03596,Rx-Only,52,M,False
+C03597,Occasional Visitors,63,F,True
+C03598,Rx-Only,66,F,True
+C03599,Price Sensitives,30,F,True
+C03600,Chronic Loyalists,40,M,True
+C03601,Price Sensitives,46,F,False
+C03602,Health Seekers,33,M,False
+C03603,Occasional Visitors,46,M,False
+C03604,Rx-Only,57,F,True
+C03605,Price Sensitives,48,M,True
+C03606,Chronic Loyalists,43,F,False
+C03607,Chronic Loyalists,76,F,True
+C03608,Occasional Visitors,62,M,False
+C03609,Chronic Loyalists,62,F,True
+C03610,Chronic Loyalists,38,F,True
+C03611,Occasional Visitors,75,M,True
+C03612,Chronic Loyalists,53,F,False
+C03613,Occasional Visitors,71,F,True
+C03614,Rx-Only,43,M,True
+C03615,Occasional Visitors,29,F,True
+C03616,Price Sensitives,52,M,True
+C03617,Occasional Visitors,51,F,True
+C03618,Occasional Visitors,40,M,False
+C03619,Chronic Loyalists,73,M,True
+C03620,At-Risk Lapsing,38,M,True
+C03621,Health Seekers,52,F,True
+C03622,Rx-Only,22,M,False
+C03623,Rx-Only,73,M,True
+C03624,Chronic Loyalists,76,M,False
+C03625,Occasional Visitors,31,M,True
+C03626,Chronic Loyalists,57,F,False
+C03627,Health Seekers,64,M,False
+C03628,At-Risk Lapsing,33,M,True
+C03629,Chronic Loyalists,30,F,True
+C03630,Chronic Loyalists,72,F,False
+C03631,Occasional Visitors,58,F,False
+C03632,Rx-Only,51,M,True
+C03633,Occasional Visitors,41,F,True
+C03634,Occasional Visitors,61,M,True
+C03635,Occasional Visitors,62,F,False
+C03636,Health Seekers,24,M,True
+C03637,Chronic Loyalists,41,F,True
+C03638,At-Risk Lapsing,60,M,True
+C03639,Rx-Only,38,F,True
+C03640,Chronic Loyalists,39,M,True
+C03641,Rx-Only,33,M,True
+C03642,Rx-Only,72,F,True
+C03643,At-Risk Lapsing,31,F,True
+C03644,Health Seekers,63,M,True
+C03645,Chronic Loyalists,72,F,True
+C03646,Price Sensitives,33,M,True
+C03647,Chronic Loyalists,64,F,True
+C03648,Health Seekers,25,M,True
+C03649,Occasional Visitors,63,M,True
+C03650,Price Sensitives,61,F,True
+C03651,Chronic Loyalists,70,M,True
+C03652,Price Sensitives,33,M,True
+C03653,Chronic Loyalists,67,M,False
+C03654,Chronic Loyalists,51,M,False
+C03655,Price Sensitives,50,F,True
+C03656,Chronic Loyalists,40,F,True
+C03657,Rx-Only,24,F,False
+C03658,Chronic Loyalists,53,F,True
+C03659,Chronic Loyalists,44,M,True
+C03660,Occasional Visitors,46,M,True
+C03661,Price Sensitives,69,M,True
+C03662,Rx-Only,26,M,False
+C03663,Rx-Only,69,F,True
+C03664,Chronic Loyalists,22,F,True
+C03665,Price Sensitives,28,M,False
+C03666,Health Seekers,70,F,True
+C03667,Health Seekers,25,M,True
+C03668,Price Sensitives,73,M,True
+C03669,Health Seekers,65,M,True
+C03670,Rx-Only,24,M,False
+C03671,Occasional Visitors,42,F,True
+C03672,Rx-Only,54,F,True
+C03673,Health Seekers,58,M,False
+C03674,Rx-Only,35,F,False
+C03675,Health Seekers,58,F,False
+C03676,Health Seekers,22,F,True
+C03677,Rx-Only,65,F,True
+C03678,Rx-Only,45,F,True
+C03679,Rx-Only,51,M,True
+C03680,Price Sensitives,61,M,True
+C03681,Occasional Visitors,69,F,False
+C03682,Health Seekers,43,M,True
+C03683,Chronic Loyalists,39,M,True
+C03684,Rx-Only,71,F,False
+C03685,At-Risk Lapsing,63,F,True
+C03686,Occasional Visitors,32,F,False
+C03687,Rx-Only,56,F,True
+C03688,At-Risk Lapsing,50,M,True
+C03689,Health Seekers,37,M,True
+C03690,Price Sensitives,69,M,False
+C03691,Rx-Only,69,M,False
+C03692,Occasional Visitors,73,M,True
+C03693,At-Risk Lapsing,34,F,True
+C03694,Price Sensitives,50,M,False
+C03695,Rx-Only,54,M,False
+C03696,Occasional Visitors,70,M,True
+C03697,Occasional Visitors,45,F,True
+C03698,Chronic Loyalists,60,F,True
+C03699,Occasional Visitors,74,F,False
+C03700,Rx-Only,31,F,True
+C03701,Rx-Only,37,M,True
+C03702,Rx-Only,43,M,False
+C03703,Occasional Visitors,37,M,True
+C03704,Rx-Only,65,F,False
+C03705,Health Seekers,76,M,True
+C03706,Chronic Loyalists,57,F,True
+C03707,Price Sensitives,25,F,True
+C03708,Price Sensitives,66,M,False
+C03709,Rx-Only,60,M,True
+C03710,Occasional Visitors,45,F,False
+C03711,Health Seekers,43,F,False
+C03712,At-Risk Lapsing,67,M,False
+C03713,Occasional Visitors,68,F,True
+C03714,Health Seekers,28,M,True
+C03715,Rx-Only,35,M,True
+C03716,Rx-Only,41,F,True
+C03717,At-Risk Lapsing,64,M,True
+C03718,Health Seekers,55,F,True
+C03719,Price Sensitives,55,F,True
+C03720,At-Risk Lapsing,69,M,True
+C03721,Price Sensitives,50,F,True
+C03722,Chronic Loyalists,24,F,False
+C03723,Chronic Loyalists,23,M,True
+C03724,Chronic Loyalists,76,M,True
+C03725,Price Sensitives,66,F,False
+C03726,Health Seekers,29,F,False
+C03727,Chronic Loyalists,61,F,True
+C03728,Price Sensitives,36,M,True
+C03729,Occasional Visitors,47,F,True
+C03730,Rx-Only,75,F,True
+C03731,Health Seekers,34,F,True
+C03732,Chronic Loyalists,60,F,False
+C03733,Rx-Only,67,F,False
+C03734,Chronic Loyalists,73,F,False
+C03735,Rx-Only,62,F,True
+C03736,Price Sensitives,34,F,True
+C03737,Price Sensitives,30,M,True
+C03738,Occasional Visitors,64,F,True
+C03739,At-Risk Lapsing,37,M,True
+C03740,At-Risk Lapsing,27,F,False
+C03741,Rx-Only,45,F,True
+C03742,Chronic Loyalists,43,F,True
+C03743,Chronic Loyalists,44,M,True
+C03744,Price Sensitives,61,M,True
+C03745,Rx-Only,49,F,False
+C03746,Health Seekers,57,M,True
+C03747,Price Sensitives,30,F,True
+C03748,Rx-Only,76,M,True
+C03749,Rx-Only,32,F,True
+C03750,Health Seekers,77,F,True
+C03751,Rx-Only,55,F,False
+C03752,At-Risk Lapsing,68,M,True
+C03753,Occasional Visitors,42,M,True
+C03754,Price Sensitives,38,M,True
+C03755,Price Sensitives,38,M,True
+C03756,Chronic Loyalists,50,M,True
+C03757,Occasional Visitors,51,M,True
+C03758,Chronic Loyalists,42,M,True
+C03759,Occasional Visitors,40,F,True
+C03760,Chronic Loyalists,33,M,False
+C03761,Health Seekers,25,F,True
+C03762,Chronic Loyalists,28,M,False
+C03763,Health Seekers,35,F,True
+C03764,Price Sensitives,51,M,True
+C03765,Chronic Loyalists,50,F,True
+C03766,Health Seekers,22,M,True
+C03767,Health Seekers,54,F,True
+C03768,Health Seekers,36,M,False
+C03769,Health Seekers,36,M,True
+C03770,Rx-Only,65,F,False
+C03771,Chronic Loyalists,44,F,True
+C03772,Health Seekers,51,M,True
+C03773,Rx-Only,35,M,False
+C03774,Price Sensitives,75,F,True
+C03775,Health Seekers,25,F,True
+C03776,At-Risk Lapsing,37,M,False
+C03777,Chronic Loyalists,26,F,True
+C03778,Chronic Loyalists,44,F,True
+C03779,Occasional Visitors,74,M,False
+C03780,Occasional Visitors,71,F,False
+C03781,Price Sensitives,49,F,True
+C03782,Rx-Only,24,M,True
+C03783,Health Seekers,60,F,True
+C03784,Chronic Loyalists,55,F,False
+C03785,Occasional Visitors,68,M,True
+C03786,Rx-Only,51,M,False
+C03787,Chronic Loyalists,32,F,True
+C03788,Rx-Only,24,F,True
+C03789,Rx-Only,74,F,True
+C03790,Occasional Visitors,55,M,True
+C03791,Occasional Visitors,34,F,True
+C03792,Occasional Visitors,53,M,True
+C03793,Rx-Only,26,F,True
+C03794,At-Risk Lapsing,36,F,False
+C03795,Rx-Only,32,F,False
+C03796,Health Seekers,50,M,False
+C03797,Chronic Loyalists,61,M,True
+C03798,Health Seekers,30,M,True
+C03799,Price Sensitives,60,F,True
+C03800,Chronic Loyalists,60,F,True
+C03801,Health Seekers,56,M,True
+C03802,Occasional Visitors,46,M,True
+C03803,Health Seekers,76,F,True
+C03804,Chronic Loyalists,56,F,True
+C03805,Rx-Only,28,M,True
+C03806,Chronic Loyalists,28,M,True
+C03807,Occasional Visitors,53,M,True
+C03808,Chronic Loyalists,54,M,True
+C03809,Rx-Only,37,M,True
+C03810,Chronic Loyalists,45,F,True
+C03811,Occasional Visitors,29,M,True
+C03812,Health Seekers,39,F,True
+C03813,Rx-Only,61,F,True
+C03814,Rx-Only,42,F,True
+C03815,At-Risk Lapsing,26,F,True
+C03816,Rx-Only,60,M,True
+C03817,Price Sensitives,24,F,True
+C03818,Rx-Only,70,M,False
+C03819,Rx-Only,65,M,True
+C03820,Rx-Only,26,F,True
+C03821,Chronic Loyalists,31,M,True
+C03822,Health Seekers,52,M,True
+C03823,Chronic Loyalists,54,M,True
+C03824,Price Sensitives,29,M,True
+C03825,Occasional Visitors,68,M,True
+C03826,Occasional Visitors,55,M,True
+C03827,Price Sensitives,69,F,False
+C03828,Occasional Visitors,59,M,True
+C03829,Chronic Loyalists,62,F,False
+C03830,Occasional Visitors,62,F,True
+C03831,Rx-Only,50,F,True
+C03832,Rx-Only,34,M,True
+C03833,Chronic Loyalists,34,M,False
+C03834,Occasional Visitors,52,M,True
+C03835,Health Seekers,28,F,True
+C03836,Health Seekers,68,F,True
+C03837,Chronic Loyalists,40,F,True
+C03838,Occasional Visitors,60,M,False
+C03839,Occasional Visitors,24,F,True
+C03840,Health Seekers,43,F,False
+C03841,Occasional Visitors,66,M,True
+C03842,Rx-Only,25,M,True
+C03843,Rx-Only,34,F,False
+C03844,Chronic Loyalists,46,M,False
+C03845,Price Sensitives,47,F,True
+C03846,Price Sensitives,52,M,True
+C03847,Occasional Visitors,65,F,False
+C03848,At-Risk Lapsing,45,F,True
+C03849,Price Sensitives,37,F,False
+C03850,Chronic Loyalists,53,F,True
+C03851,At-Risk Lapsing,34,F,True
+C03852,Chronic Loyalists,66,M,False
+C03853,At-Risk Lapsing,35,M,True
+C03854,Occasional Visitors,69,F,True
+C03855,Chronic Loyalists,59,F,True
+C03856,Rx-Only,55,F,True
+C03857,Occasional Visitors,24,M,True
+C03858,Occasional Visitors,26,F,True
+C03859,Health Seekers,51,M,True
+C03860,Chronic Loyalists,63,M,False
+C03861,Occasional Visitors,45,F,True
+C03862,Occasional Visitors,76,M,True
+C03863,Rx-Only,50,F,True
+C03864,Chronic Loyalists,22,M,True
+C03865,At-Risk Lapsing,22,F,True
+C03866,Price Sensitives,31,M,False
+C03867,Price Sensitives,67,F,True
+C03868,Occasional Visitors,37,F,True
+C03869,Health Seekers,62,M,True
+C03870,Rx-Only,39,M,False
+C03871,Chronic Loyalists,64,M,True
+C03872,Chronic Loyalists,35,F,True
+C03873,Occasional Visitors,31,M,False
+C03874,Health Seekers,27,M,True
+C03875,Health Seekers,55,F,True
+C03876,Occasional Visitors,23,F,True
+C03877,Health Seekers,68,M,True
+C03878,Health Seekers,44,M,True
+C03879,Occasional Visitors,60,M,False
+C03880,Rx-Only,68,M,True
+C03881,Chronic Loyalists,45,M,False
+C03882,Chronic Loyalists,44,M,True
+C03883,Chronic Loyalists,22,F,True
+C03884,Occasional Visitors,26,M,True
+C03885,Chronic Loyalists,39,F,True
+C03886,Chronic Loyalists,54,F,True
+C03887,Chronic Loyalists,32,F,True
+C03888,Occasional Visitors,30,F,True
+C03889,Health Seekers,33,M,True
+C03890,Chronic Loyalists,77,M,True
+C03891,Price Sensitives,34,M,True
+C03892,Occasional Visitors,24,F,True
+C03893,Chronic Loyalists,32,F,True
+C03894,Rx-Only,36,M,True
+C03895,Health Seekers,28,F,False
+C03896,Chronic Loyalists,45,F,True
+C03897,Rx-Only,71,M,False
+C03898,Chronic Loyalists,34,M,True
+C03899,Rx-Only,45,F,False
+C03900,Rx-Only,24,F,True
+C03901,Rx-Only,38,M,True
+C03902,Occasional Visitors,67,F,True
+C03903,Rx-Only,41,F,True
+C03904,Rx-Only,50,F,True
+C03905,Rx-Only,31,F,True
+C03906,Chronic Loyalists,68,M,True
+C03907,Occasional Visitors,25,F,False
+C03908,Health Seekers,65,M,False
+C03909,Price Sensitives,71,F,False
+C03910,Occasional Visitors,74,F,True
+C03911,Chronic Loyalists,75,M,False
+C03912,Rx-Only,34,M,True
+C03913,Health Seekers,76,F,True
+C03914,Chronic Loyalists,77,F,False
+C03915,Rx-Only,30,M,False
+C03916,Health Seekers,29,M,True
+C03917,Chronic Loyalists,52,F,True
+C03918,Rx-Only,51,F,False
+C03919,Health Seekers,44,F,True
+C03920,Health Seekers,68,F,True
+C03921,Rx-Only,31,M,True
+C03922,At-Risk Lapsing,62,F,True
+C03923,Occasional Visitors,56,F,True
+C03924,Health Seekers,36,F,True
+C03925,Price Sensitives,69,F,True
+C03926,Health Seekers,43,M,True
+C03927,Rx-Only,43,M,True
+C03928,Chronic Loyalists,49,F,True
+C03929,Rx-Only,23,M,True
+C03930,Health Seekers,40,F,True
+C03931,Price Sensitives,25,F,False
+C03932,Chronic Loyalists,27,F,True
+C03933,Health Seekers,67,M,True
+C03934,Chronic Loyalists,59,F,True
+C03935,Rx-Only,34,M,True
+C03936,Rx-Only,49,F,False
+C03937,Price Sensitives,54,M,True
+C03938,Chronic Loyalists,57,F,True
+C03939,Chronic Loyalists,65,F,True
+C03940,Chronic Loyalists,62,M,True
+C03941,Occasional Visitors,69,F,True
+C03942,Occasional Visitors,40,F,False
+C03943,Health Seekers,77,F,True
+C03944,Occasional Visitors,60,F,True
+C03945,Occasional Visitors,59,M,False
+C03946,Health Seekers,56,F,True
+C03947,Rx-Only,49,F,False
+C03948,Occasional Visitors,69,M,True
+C03949,Price Sensitives,49,F,True
+C03950,Price Sensitives,75,F,True
+C03951,Rx-Only,49,M,True
+C03952,Occasional Visitors,44,F,True
+C03953,Occasional Visitors,39,M,True
+C03954,Rx-Only,46,F,True
+C03955,Rx-Only,22,M,False
+C03956,Chronic Loyalists,67,M,True
+C03957,Health Seekers,77,M,True
+C03958,Rx-Only,73,F,True
+C03959,Rx-Only,28,M,True
+C03960,Rx-Only,38,F,True
+C03961,Health Seekers,46,M,False
+C03962,Rx-Only,32,F,False
+C03963,Rx-Only,24,M,True
+C03964,Rx-Only,38,F,True
+C03965,Health Seekers,69,F,False
+C03966,Rx-Only,77,F,True
+C03967,Chronic Loyalists,69,M,True
+C03968,Price Sensitives,43,F,True
+C03969,Chronic Loyalists,30,M,False
+C03970,Occasional Visitors,41,M,True
+C03971,Rx-Only,51,M,False
+C03972,Price Sensitives,62,M,False
+C03973,Rx-Only,67,M,False
+C03974,Health Seekers,76,M,True
+C03975,Rx-Only,66,F,True
+C03976,Health Seekers,35,F,False
+C03977,Rx-Only,50,M,False
+C03978,Chronic Loyalists,45,M,True
+C03979,Health Seekers,24,F,True
+C03980,Occasional Visitors,32,M,True
+C03981,Chronic Loyalists,63,F,True
+C03982,Price Sensitives,35,F,True
+C03983,Rx-Only,41,M,False
+C03984,Health Seekers,51,F,True
+C03985,Health Seekers,28,M,False
+C03986,Chronic Loyalists,55,M,True
+C03987,Occasional Visitors,30,M,True
+C03988,Health Seekers,38,F,True
+C03989,Chronic Loyalists,53,M,True
+C03990,Price Sensitives,72,M,True
+C03991,Rx-Only,62,F,True
+C03992,Chronic Loyalists,76,M,False
+C03993,Health Seekers,45,M,True
+C03994,Occasional Visitors,33,M,True
+C03995,Occasional Visitors,69,F,True
+C03996,Chronic Loyalists,46,F,False
+C03997,Chronic Loyalists,65,M,True
+C03998,Health Seekers,66,M,False
+C03999,Health Seekers,60,F,True
+C04000,Health Seekers,44,F,False
+C04001,Price Sensitives,65,M,True
+C04002,Rx-Only,64,F,True
+C04003,Rx-Only,54,F,True
+C04004,Rx-Only,55,M,False
+C04005,At-Risk Lapsing,51,F,True
+C04006,At-Risk Lapsing,35,F,True
+C04007,Chronic Loyalists,65,F,False
+C04008,Chronic Loyalists,35,F,True
+C04009,Rx-Only,47,M,True
+C04010,Chronic Loyalists,62,F,False
+C04011,Rx-Only,22,M,False
+C04012,Rx-Only,55,M,True
+C04013,Health Seekers,40,F,False
+C04014,Occasional Visitors,74,M,True
+C04015,Price Sensitives,77,M,True
+C04016,At-Risk Lapsing,39,M,True
+C04017,Chronic Loyalists,53,M,True
+C04018,Chronic Loyalists,54,F,True
+C04019,Occasional Visitors,52,F,True
+C04020,Health Seekers,28,M,True
+C04021,Price Sensitives,66,M,True
+C04022,Rx-Only,50,F,True
+C04023,Chronic Loyalists,46,M,True
+C04024,Chronic Loyalists,38,M,True
+C04025,Health Seekers,62,F,True
+C04026,Health Seekers,34,M,True
+C04027,Rx-Only,71,M,False
+C04028,Occasional Visitors,60,M,True
+C04029,Health Seekers,49,M,False
+C04030,Chronic Loyalists,25,F,True
+C04031,Occasional Visitors,23,F,True
+C04032,Occasional Visitors,58,F,True
+C04033,Health Seekers,69,F,False
+C04034,Price Sensitives,66,M,False
+C04035,Health Seekers,58,F,True
+C04036,Occasional Visitors,58,M,False
+C04037,Occasional Visitors,53,M,False
+C04038,Health Seekers,27,F,True
+C04039,Health Seekers,71,F,False
+C04040,Chronic Loyalists,24,F,False
+C04041,Price Sensitives,70,F,True
+C04042,Occasional Visitors,58,F,True
+C04043,Rx-Only,68,F,True
+C04044,Chronic Loyalists,67,F,True
+C04045,Chronic Loyalists,53,M,False
+C04046,At-Risk Lapsing,59,F,True
+C04047,Chronic Loyalists,77,M,True
+C04048,Occasional Visitors,59,M,True
+C04049,Health Seekers,55,M,False
+C04050,Occasional Visitors,57,F,True
+C04051,Health Seekers,55,M,True
+C04052,Occasional Visitors,60,F,False
+C04053,Chronic Loyalists,41,F,False
+C04054,Rx-Only,37,F,True
+C04055,Occasional Visitors,46,F,True
+C04056,Occasional Visitors,53,M,True
+C04057,Health Seekers,62,F,True
+C04058,Health Seekers,33,M,True
+C04059,Chronic Loyalists,69,F,False
+C04060,Rx-Only,77,M,False
+C04061,Health Seekers,33,M,True
+C04062,At-Risk Lapsing,58,M,True
+C04063,Occasional Visitors,39,F,True
+C04064,Rx-Only,77,F,True
+C04065,At-Risk Lapsing,66,M,True
+C04066,Rx-Only,60,F,True
+C04067,Rx-Only,22,F,True
+C04068,Occasional Visitors,31,M,True
+C04069,Health Seekers,76,M,True
+C04070,Rx-Only,73,F,True
+C04071,Health Seekers,70,M,False
+C04072,Rx-Only,41,F,True
+C04073,Rx-Only,31,F,True
+C04074,Chronic Loyalists,67,M,True
+C04075,Rx-Only,45,M,False
+C04076,Chronic Loyalists,53,M,True
+C04077,Occasional Visitors,51,F,True
+C04078,Price Sensitives,62,M,True
+C04079,Price Sensitives,33,F,True
+C04080,Health Seekers,27,M,False
+C04081,Rx-Only,73,M,True
+C04082,Rx-Only,30,F,True
+C04083,Rx-Only,29,F,True
+C04084,Price Sensitives,34,F,True
+C04085,Rx-Only,57,F,True
+C04086,Price Sensitives,73,M,False
+C04087,Price Sensitives,73,F,True
+C04088,Price Sensitives,68,F,True
+C04089,Chronic Loyalists,35,F,True
+C04090,Rx-Only,42,F,True
+C04091,Occasional Visitors,28,M,True
+C04092,Rx-Only,68,M,False
+C04093,Health Seekers,67,M,False
+C04094,Health Seekers,64,M,True
+C04095,Rx-Only,69,F,False
+C04096,Occasional Visitors,77,M,True
+C04097,Rx-Only,43,M,False
+C04098,Price Sensitives,24,F,True
+C04099,Chronic Loyalists,70,M,False
+C04100,Rx-Only,52,F,True
+C04101,Occasional Visitors,31,F,True
+C04102,Occasional Visitors,58,F,True
+C04103,Health Seekers,38,F,True
+C04104,Health Seekers,43,M,True
+C04105,Chronic Loyalists,75,M,True
+C04106,Occasional Visitors,72,M,False
+C04107,Price Sensitives,38,F,True
+C04108,Health Seekers,74,M,False
+C04109,Health Seekers,77,F,False
+C04110,Occasional Visitors,23,M,True
+C04111,Price Sensitives,35,F,True
+C04112,Occasional Visitors,42,F,True
+C04113,Rx-Only,75,F,True
+C04114,Occasional Visitors,27,M,True
+C04115,Occasional Visitors,33,M,True
+C04116,Health Seekers,64,F,True
+C04117,Rx-Only,71,M,True
+C04118,Rx-Only,56,M,True
+C04119,Health Seekers,58,F,False
+C04120,Health Seekers,69,M,True
+C04121,Chronic Loyalists,71,M,False
+C04122,Price Sensitives,57,M,False
+C04123,Health Seekers,27,M,True
+C04124,Occasional Visitors,30,M,True
+C04125,Occasional Visitors,65,M,True
+C04126,Health Seekers,23,M,True
+C04127,Chronic Loyalists,36,F,True
+C04128,At-Risk Lapsing,28,M,True
+C04129,Rx-Only,22,M,False
+C04130,Price Sensitives,33,F,False
+C04131,Chronic Loyalists,28,M,True
+C04132,Health Seekers,70,M,True
+C04133,Chronic Loyalists,23,M,False
+C04134,Chronic Loyalists,54,F,False
+C04135,Price Sensitives,47,M,True
+C04136,Occasional Visitors,62,F,False
+C04137,Chronic Loyalists,46,F,True
+C04138,Occasional Visitors,25,M,True
+C04139,Health Seekers,48,F,True
+C04140,Rx-Only,54,M,True
+C04141,Rx-Only,42,F,True
+C04142,Rx-Only,41,M,True
+C04143,Price Sensitives,52,F,True
+C04144,Health Seekers,38,F,True
+C04145,Health Seekers,71,F,True
+C04146,Occasional Visitors,60,F,True
+C04147,Health Seekers,52,F,True
+C04148,Chronic Loyalists,57,F,True
+C04149,Rx-Only,22,F,True
+C04150,Occasional Visitors,66,M,True
+C04151,Occasional Visitors,63,F,False
+C04152,Health Seekers,58,M,True
+C04153,Price Sensitives,74,M,False
+C04154,Occasional Visitors,27,M,True
+C04155,Occasional Visitors,54,M,True
+C04156,Occasional Visitors,36,M,False
+C04157,Rx-Only,31,M,True
+C04158,Occasional Visitors,61,M,True
+C04159,Health Seekers,32,F,True
+C04160,Occasional Visitors,67,M,True
+C04161,Health Seekers,45,M,True
+C04162,Chronic Loyalists,75,F,True
+C04163,Health Seekers,72,F,True
+C04164,Health Seekers,48,F,True
+C04165,Chronic Loyalists,29,M,True
+C04166,Rx-Only,63,M,True
+C04167,Chronic Loyalists,60,M,True
+C04168,Rx-Only,67,M,False
+C04169,Rx-Only,71,F,True
+C04170,Price Sensitives,57,F,True
+C04171,Price Sensitives,59,M,True
+C04172,Health Seekers,22,M,True
+C04173,Health Seekers,25,F,True
+C04174,Rx-Only,37,F,True
+C04175,Price Sensitives,57,F,True
+C04176,Chronic Loyalists,38,F,True
+C04177,Health Seekers,40,M,True
+C04178,Rx-Only,77,F,True
+C04179,Rx-Only,63,M,True
+C04180,Rx-Only,60,M,True
+C04181,Price Sensitives,36,M,True
+C04182,Rx-Only,43,M,False
+C04183,Occasional Visitors,36,F,False
+C04184,Rx-Only,61,M,True
+C04185,Health Seekers,59,F,True
+C04186,Chronic Loyalists,55,M,True
+C04187,Chronic Loyalists,69,F,True
+C04188,Health Seekers,70,M,False
+C04189,Health Seekers,27,F,True
+C04190,At-Risk Lapsing,48,M,True
+C04191,Chronic Loyalists,56,F,True
+C04192,Occasional Visitors,44,M,True
+C04193,Health Seekers,56,M,True
+C04194,Chronic Loyalists,49,M,True
+C04195,Rx-Only,38,M,True
+C04196,Health Seekers,37,M,True
+C04197,Occasional Visitors,46,F,False
+C04198,Rx-Only,33,M,True
+C04199,Rx-Only,38,F,True
+C04200,Chronic Loyalists,38,M,True
+C04201,Health Seekers,57,F,True
+C04202,Price Sensitives,48,F,True
+C04203,Occasional Visitors,63,F,True
+C04204,Price Sensitives,73,M,True
+C04205,Health Seekers,76,F,True
+C04206,Rx-Only,29,F,True
+C04207,Rx-Only,57,M,False
+C04208,Occasional Visitors,72,F,True
+C04209,Chronic Loyalists,23,F,True
+C04210,Occasional Visitors,64,M,False
+C04211,Occasional Visitors,37,M,True
+C04212,Health Seekers,55,M,False
+C04213,At-Risk Lapsing,28,F,True
+C04214,Health Seekers,32,F,True
+C04215,Rx-Only,55,F,True
+C04216,Chronic Loyalists,29,M,True
+C04217,Price Sensitives,22,M,True
+C04218,Rx-Only,24,F,True
+C04219,Occasional Visitors,51,F,True
+C04220,Rx-Only,50,F,False
+C04221,Price Sensitives,56,F,True
+C04222,Health Seekers,72,M,True
+C04223,Health Seekers,44,F,False
+C04224,Chronic Loyalists,75,M,True
+C04225,Rx-Only,30,F,True
+C04226,Health Seekers,75,F,False
+C04227,Occasional Visitors,63,F,True
+C04228,Rx-Only,64,M,True
+C04229,Chronic Loyalists,32,M,True
+C04230,Occasional Visitors,74,F,True
+C04231,Health Seekers,64,F,True
+C04232,Health Seekers,55,F,True
+C04233,Rx-Only,59,F,True
+C04234,Health Seekers,62,M,True
+C04235,Occasional Visitors,74,F,False
+C04236,Price Sensitives,24,M,False
+C04237,At-Risk Lapsing,40,F,True
+C04238,Health Seekers,64,M,True
+C04239,Rx-Only,67,F,True
+C04240,Rx-Only,38,F,True
+C04241,Chronic Loyalists,45,F,True
+C04242,Health Seekers,60,M,True
+C04243,Rx-Only,32,M,True
+C04244,Price Sensitives,66,F,True
+C04245,Chronic Loyalists,29,M,True
+C04246,Occasional Visitors,50,M,True
+C04247,Chronic Loyalists,38,F,True
+C04248,Occasional Visitors,75,M,False
+C04249,Occasional Visitors,55,F,True
+C04250,Rx-Only,37,F,True
+C04251,Rx-Only,57,F,False
+C04252,Occasional Visitors,30,F,True
+C04253,Chronic Loyalists,30,F,False
+C04254,Chronic Loyalists,36,F,True
+C04255,Occasional Visitors,38,M,False
+C04256,Chronic Loyalists,45,F,False
+C04257,At-Risk Lapsing,72,M,False
+C04258,Health Seekers,60,M,False
+C04259,Rx-Only,45,F,True
+C04260,Health Seekers,60,F,True
+C04261,Price Sensitives,68,F,True
+C04262,Price Sensitives,49,M,True
+C04263,Health Seekers,68,F,False
+C04264,Occasional Visitors,64,F,True
+C04265,Health Seekers,44,F,True
+C04266,Rx-Only,33,F,True
+C04267,Occasional Visitors,64,F,True
+C04268,Rx-Only,74,F,True
+C04269,Rx-Only,66,M,True
+C04270,Rx-Only,56,M,False
+C04271,Rx-Only,57,F,False
+C04272,Rx-Only,47,F,True
+C04273,Occasional Visitors,32,F,True
+C04274,Chronic Loyalists,76,F,False
+C04275,Price Sensitives,47,M,True
+C04276,Occasional Visitors,23,M,True
+C04277,Occasional Visitors,76,M,True
+C04278,Health Seekers,64,M,True
+C04279,Occasional Visitors,25,M,False
+C04280,Chronic Loyalists,22,M,False
+C04281,Chronic Loyalists,42,F,False
+C04282,Occasional Visitors,33,F,True
+C04283,Chronic Loyalists,60,F,True
+C04284,Rx-Only,36,F,True
+C04285,Health Seekers,45,M,True
+C04286,Rx-Only,42,M,True
+C04287,Price Sensitives,48,F,True
+C04288,Health Seekers,32,F,False
+C04289,Chronic Loyalists,37,M,True
+C04290,Chronic Loyalists,66,F,False
+C04291,Price Sensitives,73,F,True
+C04292,Health Seekers,65,F,False
+C04293,Chronic Loyalists,76,F,True
+C04294,Rx-Only,60,M,True
+C04295,Health Seekers,62,M,False
+C04296,Occasional Visitors,54,F,True
+C04297,Rx-Only,36,M,True
+C04298,Price Sensitives,48,M,True
+C04299,Rx-Only,73,M,True
+C04300,Price Sensitives,57,F,True
+C04301,Rx-Only,28,M,True
+C04302,Occasional Visitors,70,F,True
+C04303,Chronic Loyalists,32,F,True
+C04304,Rx-Only,68,F,True
+C04305,Chronic Loyalists,22,F,True
+C04306,Rx-Only,53,F,True
+C04307,Rx-Only,55,F,True
+C04308,Occasional Visitors,77,F,True
+C04309,Chronic Loyalists,31,F,True
+C04310,At-Risk Lapsing,67,M,True
+C04311,Chronic Loyalists,28,F,True
+C04312,Occasional Visitors,33,M,True
+C04313,Occasional Visitors,22,F,True
+C04314,Chronic Loyalists,34,F,True
+C04315,Chronic Loyalists,70,F,False
+C04316,At-Risk Lapsing,40,F,True
+C04317,Price Sensitives,44,F,True
+C04318,Rx-Only,50,M,False
+C04319,Chronic Loyalists,49,M,True
+C04320,Occasional Visitors,72,M,True
+C04321,Health Seekers,63,F,True
+C04322,Occasional Visitors,41,M,True
+C04323,Health Seekers,52,M,True
+C04324,Health Seekers,73,F,True
+C04325,Occasional Visitors,28,M,True
+C04326,Occasional Visitors,26,M,True
+C04327,Health Seekers,68,F,True
+C04328,Occasional Visitors,42,F,True
+C04329,At-Risk Lapsing,61,M,False
+C04330,Chronic Loyalists,48,F,True
+C04331,Chronic Loyalists,51,F,True
+C04332,Health Seekers,61,F,True
+C04333,Chronic Loyalists,33,F,True
+C04334,Rx-Only,31,F,False
+C04335,Chronic Loyalists,23,F,True
+C04336,Health Seekers,48,M,False
+C04337,Chronic Loyalists,34,F,False
+C04338,Health Seekers,71,M,True
+C04339,Rx-Only,41,M,True
+C04340,Chronic Loyalists,29,M,True
+C04341,Chronic Loyalists,45,M,True
+C04342,Health Seekers,50,M,True
+C04343,Price Sensitives,71,F,True
+C04344,Rx-Only,49,F,False
+C04345,Rx-Only,42,F,True
+C04346,Occasional Visitors,68,M,True
+C04347,Occasional Visitors,76,M,True
+C04348,Price Sensitives,47,M,True
+C04349,Health Seekers,59,F,True
+C04350,Rx-Only,63,F,False
+C04351,Price Sensitives,64,F,True
+C04352,Occasional Visitors,36,M,True
+C04353,Chronic Loyalists,43,M,False
+C04354,Rx-Only,51,F,True
+C04355,Rx-Only,56,F,True
+C04356,Rx-Only,46,F,True
+C04357,Chronic Loyalists,60,F,True
+C04358,Chronic Loyalists,29,F,True
+C04359,Occasional Visitors,25,F,True
+C04360,Occasional Visitors,68,F,True
+C04361,Health Seekers,48,M,True
+C04362,Occasional Visitors,54,M,True
+C04363,Rx-Only,48,M,False
+C04364,Health Seekers,62,M,True
+C04365,Occasional Visitors,41,F,True
+C04366,Health Seekers,61,F,True
+C04367,Occasional Visitors,39,F,True
+C04368,Rx-Only,58,F,False
+C04369,Chronic Loyalists,70,M,True
+C04370,Occasional Visitors,49,F,True
+C04371,Chronic Loyalists,31,M,True
+C04372,Rx-Only,65,F,True
+C04373,Occasional Visitors,46,F,True
+C04374,Occasional Visitors,50,M,True
+C04375,Rx-Only,55,F,False
+C04376,Occasional Visitors,54,F,True
+C04377,Occasional Visitors,73,M,True
+C04378,Chronic Loyalists,52,F,True
+C04379,Health Seekers,46,M,True
+C04380,Occasional Visitors,70,F,True
+C04381,Health Seekers,73,F,True
+C04382,Rx-Only,60,F,True
+C04383,Rx-Only,34,M,True
+C04384,Rx-Only,32,F,True
+C04385,Rx-Only,42,M,False
+C04386,Chronic Loyalists,50,F,True
+C04387,Health Seekers,47,M,True
+C04388,Occasional Visitors,39,F,True
+C04389,Rx-Only,43,M,True
+C04390,Occasional Visitors,27,F,True
+C04391,Occasional Visitors,56,F,True
+C04392,Occasional Visitors,40,M,True
+C04393,Chronic Loyalists,25,F,True
+C04394,Chronic Loyalists,38,F,True
+C04395,Rx-Only,44,M,True
+C04396,Occasional Visitors,46,M,True
+C04397,Chronic Loyalists,47,F,True
+C04398,Chronic Loyalists,48,F,True
+C04399,Rx-Only,76,F,True
+C04400,Price Sensitives,31,M,False
+C04401,Occasional Visitors,67,M,True
+C04402,Chronic Loyalists,65,M,False
+C04403,At-Risk Lapsing,47,M,True
+C04404,Rx-Only,29,F,True
+C04405,Price Sensitives,77,F,False
+C04406,Rx-Only,44,M,True
+C04407,Occasional Visitors,44,M,True
+C04408,At-Risk Lapsing,41,F,True
+C04409,Health Seekers,31,F,True
+C04410,Chronic Loyalists,67,F,True
+C04411,Rx-Only,41,M,True
+C04412,Rx-Only,59,M,False
+C04413,Occasional Visitors,31,M,False
+C04414,Rx-Only,56,M,True
+C04415,Rx-Only,50,M,True
+C04416,Price Sensitives,43,M,False
+C04417,Health Seekers,25,M,False
+C04418,Price Sensitives,73,M,True
+C04419,Chronic Loyalists,57,M,True
+C04420,Rx-Only,44,F,False
+C04421,Price Sensitives,53,M,True
+C04422,Occasional Visitors,77,F,True
+C04423,Chronic Loyalists,55,M,True
+C04424,Rx-Only,51,F,True
+C04425,Rx-Only,70,M,True
+C04426,Rx-Only,41,F,True
+C04427,Chronic Loyalists,32,F,False
+C04428,Occasional Visitors,62,M,True
+C04429,Price Sensitives,69,M,True
+C04430,Occasional Visitors,40,F,True
+C04431,Rx-Only,66,M,True
+C04432,Rx-Only,47,F,True
+C04433,Price Sensitives,26,M,True
+C04434,Rx-Only,23,F,False
+C04435,Occasional Visitors,42,M,True
+C04436,At-Risk Lapsing,38,F,False
+C04437,Price Sensitives,72,F,True
+C04438,Occasional Visitors,30,F,True
+C04439,Price Sensitives,45,F,True
+C04440,Chronic Loyalists,56,M,True
+C04441,Chronic Loyalists,45,F,True
+C04442,Health Seekers,62,F,True
+C04443,Health Seekers,73,M,False
+C04444,Rx-Only,34,M,False
+C04445,Chronic Loyalists,60,F,True
+C04446,Occasional Visitors,59,F,True
+C04447,Occasional Visitors,39,F,True
+C04448,Occasional Visitors,54,F,True
+C04449,Rx-Only,48,M,True
+C04450,Health Seekers,38,F,False
+C04451,Rx-Only,63,F,False
+C04452,Rx-Only,31,F,True
+C04453,Rx-Only,65,F,True
+C04454,Price Sensitives,52,F,True
+C04455,Health Seekers,74,F,True
+C04456,Chronic Loyalists,33,F,True
+C04457,Rx-Only,69,M,True
+C04458,Price Sensitives,40,F,True
+C04459,Chronic Loyalists,48,M,True
+C04460,Occasional Visitors,54,F,False
+C04461,Chronic Loyalists,25,M,False
+C04462,Price Sensitives,75,F,False
+C04463,Occasional Visitors,53,F,False
+C04464,Chronic Loyalists,46,F,True
+C04465,Occasional Visitors,74,M,True
+C04466,Rx-Only,51,F,True
+C04467,Health Seekers,54,F,True
+C04468,Rx-Only,41,F,True
+C04469,Occasional Visitors,49,M,True
+C04470,Chronic Loyalists,67,M,True
+C04471,At-Risk Lapsing,59,F,True
+C04472,Price Sensitives,33,F,True
+C04473,Health Seekers,74,M,False
+C04474,Chronic Loyalists,22,M,True
+C04475,Occasional Visitors,46,F,True
+C04476,Rx-Only,57,M,True
+C04477,Health Seekers,23,F,True
+C04478,Rx-Only,58,F,False
+C04479,Price Sensitives,54,F,True
+C04480,Rx-Only,68,M,False
+C04481,Occasional Visitors,44,F,True
+C04482,Rx-Only,41,M,True
+C04483,Occasional Visitors,51,F,True
+C04484,Chronic Loyalists,28,F,True
+C04485,Rx-Only,27,M,True
+C04486,Occasional Visitors,43,F,True
+C04487,Occasional Visitors,66,F,True
+C04488,Rx-Only,49,F,True
+C04489,Occasional Visitors,52,F,True
+C04490,Chronic Loyalists,56,F,True
+C04491,Occasional Visitors,52,M,True
+C04492,Health Seekers,46,M,True
+C04493,At-Risk Lapsing,40,M,True
+C04494,Chronic Loyalists,68,M,True
+C04495,Price Sensitives,27,M,True
+C04496,Price Sensitives,46,M,True
+C04497,Price Sensitives,32,F,False
+C04498,Price Sensitives,27,M,True
+C04499,Occasional Visitors,69,M,True
+C04500,Occasional Visitors,75,F,True
+C04501,Chronic Loyalists,26,M,True
+C04502,Rx-Only,67,F,True
+C04503,Rx-Only,65,F,True
+C04504,Occasional Visitors,72,M,True
+C04505,Health Seekers,26,M,True
+C04506,Rx-Only,53,M,True
+C04507,Rx-Only,68,M,True
+C04508,Chronic Loyalists,23,F,False
+C04509,Rx-Only,25,F,False
+C04510,Occasional Visitors,73,F,False
+C04511,Price Sensitives,45,F,True
+C04512,Occasional Visitors,67,M,False
+C04513,Rx-Only,47,M,True
+C04514,Occasional Visitors,55,M,True
+C04515,Rx-Only,26,F,True
+C04516,At-Risk Lapsing,59,M,True
+C04517,Chronic Loyalists,30,M,True
+C04518,Occasional Visitors,52,F,True
+C04519,Chronic Loyalists,49,M,True
+C04520,Health Seekers,30,M,True
+C04521,Rx-Only,54,F,False
+C04522,Price Sensitives,73,F,True
+C04523,Rx-Only,66,F,True
+C04524,Health Seekers,34,M,True
+C04525,Chronic Loyalists,26,M,True
+C04526,Health Seekers,42,M,True
+C04527,Rx-Only,32,M,False
+C04528,Chronic Loyalists,56,F,True
+C04529,Health Seekers,38,M,True
+C04530,Rx-Only,31,F,True
+C04531,Chronic Loyalists,29,M,True
+C04532,Occasional Visitors,51,F,True
+C04533,Health Seekers,26,M,False
+C04534,Health Seekers,70,F,False
+C04535,Health Seekers,57,F,False
+C04536,Occasional Visitors,42,M,False
+C04537,Chronic Loyalists,44,M,True
+C04538,Health Seekers,57,F,True
+C04539,Rx-Only,49,M,True
+C04540,Chronic Loyalists,38,F,True
+C04541,Chronic Loyalists,30,M,True
+C04542,Chronic Loyalists,71,M,True
+C04543,Rx-Only,59,M,True
+C04544,Occasional Visitors,40,M,True
+C04545,Health Seekers,32,F,True
+C04546,Price Sensitives,50,F,True
+C04547,Occasional Visitors,45,F,True
+C04548,Rx-Only,44,M,False
+C04549,Price Sensitives,31,M,True
+C04550,Rx-Only,24,F,True
+C04551,Price Sensitives,28,F,True
+C04552,Chronic Loyalists,45,M,True
+C04553,At-Risk Lapsing,76,F,True
+C04554,Occasional Visitors,27,F,True
+C04555,Occasional Visitors,61,F,True
+C04556,Occasional Visitors,43,F,False
+C04557,Rx-Only,67,F,True
+C04558,Health Seekers,40,M,False
+C04559,Occasional Visitors,36,F,False
+C04560,Price Sensitives,42,F,False
+C04561,Occasional Visitors,73,F,False
+C04562,Rx-Only,50,F,True
+C04563,Price Sensitives,56,M,False
+C04564,Occasional Visitors,37,M,True
+C04565,Rx-Only,22,F,True
+C04566,Price Sensitives,35,F,True
+C04567,Health Seekers,64,M,True
+C04568,Health Seekers,74,F,True
+C04569,Chronic Loyalists,52,F,True
+C04570,Health Seekers,58,F,True
+C04571,At-Risk Lapsing,30,F,True
+C04572,At-Risk Lapsing,46,M,True
+C04573,Chronic Loyalists,71,M,True
+C04574,Rx-Only,39,F,False
+C04575,Chronic Loyalists,50,F,True
+C04576,Rx-Only,39,F,False
+C04577,Price Sensitives,27,F,True
+C04578,Rx-Only,42,F,True
+C04579,Rx-Only,57,F,False
+C04580,Occasional Visitors,63,F,True
+C04581,Rx-Only,22,M,True
+C04582,Price Sensitives,65,F,False
+C04583,Chronic Loyalists,67,M,True
+C04584,Rx-Only,66,M,True
+C04585,Health Seekers,40,M,True
+C04586,Rx-Only,77,M,False
+C04587,Occasional Visitors,70,F,True
+C04588,Rx-Only,42,F,False
+C04589,Occasional Visitors,25,M,False
+C04590,Rx-Only,25,F,True
+C04591,Price Sensitives,57,F,True
+C04592,Rx-Only,63,M,True
+C04593,Chronic Loyalists,54,F,True
+C04594,Chronic Loyalists,68,F,True
+C04595,Occasional Visitors,49,F,True
+C04596,Occasional Visitors,54,F,False
+C04597,Rx-Only,50,F,False
+C04598,At-Risk Lapsing,57,M,True
+C04599,Occasional Visitors,64,M,True
+C04600,Rx-Only,33,M,True
+C04601,Health Seekers,71,F,False
+C04602,Chronic Loyalists,52,F,True
+C04603,Occasional Visitors,70,F,True
+C04604,Chronic Loyalists,42,M,True
+C04605,Health Seekers,76,M,True
+C04606,At-Risk Lapsing,49,M,True
+C04607,Occasional Visitors,53,M,False
+C04608,Health Seekers,50,M,True
+C04609,Price Sensitives,71,F,True
+C04610,Rx-Only,64,M,True
+C04611,Chronic Loyalists,38,F,True
+C04612,Chronic Loyalists,47,M,False
+C04613,Rx-Only,50,M,True
+C04614,Rx-Only,66,F,True
+C04615,Price Sensitives,63,F,True
+C04616,Rx-Only,26,F,True
+C04617,Occasional Visitors,30,F,True
+C04618,Occasional Visitors,31,F,True
+C04619,Chronic Loyalists,23,F,True
+C04620,Occasional Visitors,66,F,True
+C04621,Price Sensitives,42,M,True
+C04622,Rx-Only,77,F,True
+C04623,Chronic Loyalists,45,F,True
+C04624,Rx-Only,48,F,True
+C04625,Rx-Only,31,F,True
+C04626,Health Seekers,71,F,True
+C04627,Chronic Loyalists,46,F,True
+C04628,Health Seekers,58,M,True
+C04629,Health Seekers,36,F,True
+C04630,Occasional Visitors,33,F,True
+C04631,Rx-Only,38,F,False
+C04632,Chronic Loyalists,23,F,True
+C04633,Health Seekers,30,F,False
+C04634,Health Seekers,64,F,True
+C04635,Health Seekers,40,F,False
+C04636,Occasional Visitors,49,M,True
+C04637,Chronic Loyalists,34,F,True
+C04638,Health Seekers,30,F,True
+C04639,Price Sensitives,46,F,True
+C04640,Chronic Loyalists,70,F,True
+C04641,Health Seekers,65,F,True
+C04642,Rx-Only,28,M,True
+C04643,Occasional Visitors,74,M,True
+C04644,Occasional Visitors,72,F,True
+C04645,Chronic Loyalists,74,F,True
+C04646,Rx-Only,22,M,True
+C04647,Chronic Loyalists,27,F,True
+C04648,Rx-Only,72,F,True
+C04649,Occasional Visitors,41,M,False
+C04650,Rx-Only,48,F,False
+C04651,Occasional Visitors,54,M,False
+C04652,Occasional Visitors,59,F,True
+C04653,Rx-Only,53,F,True
+C04654,Price Sensitives,42,M,True
+C04655,Chronic Loyalists,71,F,True
+C04656,Rx-Only,68,M,True
+C04657,Rx-Only,39,F,True
+C04658,Chronic Loyalists,55,M,True
+C04659,Price Sensitives,44,M,True
+C04660,Rx-Only,59,M,True
+C04661,Chronic Loyalists,27,M,False
+C04662,Price Sensitives,71,F,True
+C04663,Occasional Visitors,49,F,True
+C04664,Health Seekers,42,F,True
+C04665,Chronic Loyalists,30,F,False
+C04666,Rx-Only,25,F,True
+C04667,Health Seekers,48,F,True
+C04668,Occasional Visitors,66,F,True
+C04669,Rx-Only,23,F,True
+C04670,Occasional Visitors,67,F,False
+C04671,Occasional Visitors,25,F,True
+C04672,Price Sensitives,71,M,True
+C04673,At-Risk Lapsing,37,F,True
+C04674,Occasional Visitors,60,F,True
+C04675,Rx-Only,41,F,True
+C04676,Health Seekers,74,F,False
+C04677,Occasional Visitors,41,M,True
+C04678,Health Seekers,49,M,True
+C04679,Health Seekers,57,F,False
+C04680,Occasional Visitors,42,M,True
+C04681,Occasional Visitors,54,F,True
+C04682,Rx-Only,74,F,True
+C04683,Occasional Visitors,29,M,True
+C04684,Price Sensitives,54,F,True
+C04685,Health Seekers,70,F,True
+C04686,Price Sensitives,36,M,True
+C04687,Occasional Visitors,51,F,True
+C04688,At-Risk Lapsing,57,M,False
+C04689,Health Seekers,33,F,True
+C04690,Occasional Visitors,41,M,False
+C04691,Occasional Visitors,53,M,False
+C04692,Rx-Only,45,M,True
+C04693,Chronic Loyalists,49,F,True
+C04694,Rx-Only,34,M,True
+C04695,Health Seekers,73,F,False
+C04696,Health Seekers,61,F,True
+C04697,Chronic Loyalists,65,M,True
+C04698,Occasional Visitors,33,M,True
+C04699,Occasional Visitors,33,M,True
+C04700,Rx-Only,35,F,True
+C04701,Rx-Only,70,M,True
+C04702,Rx-Only,72,F,True
+C04703,Rx-Only,74,F,True
+C04704,Health Seekers,23,F,True
+C04705,Rx-Only,33,F,True
+C04706,Chronic Loyalists,51,F,False
+C04707,Health Seekers,51,F,True
+C04708,Occasional Visitors,57,F,False
+C04709,Occasional Visitors,61,M,True
+C04710,Health Seekers,39,F,True
+C04711,Health Seekers,39,M,True
+C04712,Occasional Visitors,24,F,False
+C04713,Rx-Only,49,M,True
+C04714,At-Risk Lapsing,53,F,True
+C04715,Chronic Loyalists,46,M,True
+C04716,At-Risk Lapsing,56,F,False
+C04717,Price Sensitives,53,F,False
+C04718,Chronic Loyalists,27,M,False
+C04719,Occasional Visitors,66,F,True
+C04720,Price Sensitives,76,M,True
+C04721,Chronic Loyalists,41,M,True
+C04722,Health Seekers,77,M,True
+C04723,Rx-Only,67,F,True
+C04724,Health Seekers,48,F,True
+C04725,Occasional Visitors,49,F,True
+C04726,Health Seekers,28,M,False
+C04727,Rx-Only,54,M,True
+C04728,Occasional Visitors,70,F,True
+C04729,Chronic Loyalists,31,M,False
+C04730,Occasional Visitors,34,F,True
+C04731,Health Seekers,50,M,False
+C04732,Rx-Only,60,F,True
+C04733,Price Sensitives,57,F,True
+C04734,Health Seekers,76,F,True
+C04735,Price Sensitives,38,F,True
+C04736,Price Sensitives,24,M,True
+C04737,Rx-Only,63,M,True
+C04738,Rx-Only,57,F,True
+C04739,Occasional Visitors,50,F,True
+C04740,Chronic Loyalists,69,M,True
+C04741,Price Sensitives,26,M,True
+C04742,Chronic Loyalists,38,F,True
+C04743,Occasional Visitors,69,F,True
+C04744,Occasional Visitors,45,F,False
+C04745,Chronic Loyalists,71,F,True
+C04746,Chronic Loyalists,48,F,True
+C04747,Health Seekers,55,M,True
+C04748,Chronic Loyalists,41,F,True
+C04749,Occasional Visitors,39,M,True
+C04750,Health Seekers,72,F,True
+C04751,Chronic Loyalists,76,F,False
+C04752,Chronic Loyalists,58,M,True
+C04753,Health Seekers,25,F,True
+C04754,Chronic Loyalists,50,M,True
+C04755,Health Seekers,73,F,True
+C04756,Rx-Only,30,F,False
+C04757,Rx-Only,67,M,False
+C04758,Occasional Visitors,22,F,True
+C04759,Chronic Loyalists,61,F,False
+C04760,Chronic Loyalists,48,F,False
+C04761,Rx-Only,50,F,True
+C04762,Occasional Visitors,60,M,True
+C04763,Health Seekers,32,M,True
+C04764,Price Sensitives,66,M,True
+C04765,Chronic Loyalists,43,F,True
+C04766,Health Seekers,45,M,True
+C04767,Rx-Only,68,F,True
+C04768,Health Seekers,30,M,False
+C04769,Occasional Visitors,64,M,True
+C04770,Rx-Only,39,M,False
+C04771,Health Seekers,67,M,True
+C04772,Health Seekers,36,F,True
+C04773,Health Seekers,57,F,True
+C04774,Occasional Visitors,67,M,True
+C04775,Price Sensitives,22,M,True
+C04776,Occasional Visitors,25,F,True
+C04777,Rx-Only,75,M,True
+C04778,Occasional Visitors,47,F,True
+C04779,Rx-Only,67,F,True
+C04780,Rx-Only,30,M,True
+C04781,Rx-Only,54,F,True
+C04782,Rx-Only,76,F,True
+C04783,Health Seekers,70,F,True
+C04784,Occasional Visitors,72,M,True
+C04785,Chronic Loyalists,75,M,True
+C04786,Chronic Loyalists,60,F,True
+C04787,Health Seekers,27,M,False
+C04788,Rx-Only,55,F,True
+C04789,Chronic Loyalists,31,F,True
+C04790,Occasional Visitors,42,M,True
+C04791,Chronic Loyalists,66,M,False
+C04792,Rx-Only,44,M,True
+C04793,Health Seekers,43,F,True
+C04794,Occasional Visitors,49,F,False
+C04795,Chronic Loyalists,58,F,True
+C04796,Health Seekers,44,M,True
+C04797,Chronic Loyalists,68,F,True
+C04798,Occasional Visitors,59,M,True
+C04799,Health Seekers,32,M,True
+C04800,Chronic Loyalists,70,F,True
+C04801,Health Seekers,60,M,False
+C04802,Health Seekers,44,M,False
+C04803,Rx-Only,50,M,True
+C04804,Occasional Visitors,25,F,False
+C04805,Health Seekers,72,M,True
+C04806,Health Seekers,68,F,False
+C04807,Rx-Only,34,M,True
+C04808,Health Seekers,54,M,True
+C04809,At-Risk Lapsing,41,F,True
+C04810,Chronic Loyalists,67,F,False
+C04811,Health Seekers,44,F,True
+C04812,Price Sensitives,71,M,True
+C04813,Occasional Visitors,24,M,False
+C04814,Rx-Only,52,F,True
+C04815,Chronic Loyalists,25,F,True
+C04816,Occasional Visitors,60,M,True
+C04817,Health Seekers,48,F,True
+C04818,Price Sensitives,33,M,True
+C04819,Occasional Visitors,53,F,True
+C04820,Occasional Visitors,47,F,True
+C04821,Occasional Visitors,67,F,False
+C04822,Chronic Loyalists,24,F,True
+C04823,Health Seekers,65,F,True
+C04824,Health Seekers,33,F,True
+C04825,Health Seekers,32,M,False
+C04826,Chronic Loyalists,33,M,False
+C04827,Health Seekers,61,F,True
+C04828,Rx-Only,74,F,True
+C04829,Occasional Visitors,40,F,False
+C04830,Occasional Visitors,71,F,True
+C04831,Price Sensitives,28,F,True
+C04832,Health Seekers,29,M,True
+C04833,Rx-Only,33,M,True
+C04834,Health Seekers,69,F,True
+C04835,Health Seekers,49,M,True
+C04836,Price Sensitives,32,F,True
+C04837,Health Seekers,36,F,True
+C04838,Health Seekers,69,F,True
+C04839,Health Seekers,52,M,True
+C04840,Chronic Loyalists,60,M,True
+C04841,Rx-Only,70,F,True
+C04842,Occasional Visitors,28,F,True
+C04843,Health Seekers,32,F,True
+C04844,Rx-Only,64,F,True
+C04845,At-Risk Lapsing,74,F,True
+C04846,Chronic Loyalists,26,M,True
+C04847,Rx-Only,35,F,True
+C04848,Rx-Only,31,M,True
+C04849,Rx-Only,56,M,True
+C04850,Price Sensitives,27,M,False
+C04851,At-Risk Lapsing,60,M,True
+C04852,Occasional Visitors,59,F,True
+C04853,Health Seekers,48,F,True
+C04854,Rx-Only,39,M,True
+C04855,Occasional Visitors,37,F,True
+C04856,Rx-Only,54,F,True
+C04857,Occasional Visitors,70,M,True
+C04858,Rx-Only,44,F,True
+C04859,Occasional Visitors,37,F,True
+C04860,Chronic Loyalists,48,F,False
+C04861,Occasional Visitors,36,M,False
+C04862,Rx-Only,30,F,True
+C04863,Rx-Only,59,M,False
+C04864,Chronic Loyalists,30,F,True
+C04865,At-Risk Lapsing,68,F,True
+C04866,Chronic Loyalists,38,M,False
+C04867,Occasional Visitors,64,F,True
+C04868,Health Seekers,77,M,True
+C04869,Rx-Only,70,M,True
+C04870,Price Sensitives,48,F,True
+C04871,Occasional Visitors,68,F,True
+C04872,Price Sensitives,43,M,False
+C04873,Health Seekers,36,F,False
+C04874,Chronic Loyalists,38,F,True
+C04875,Occasional Visitors,29,M,True
+C04876,Rx-Only,75,F,True
+C04877,Price Sensitives,62,F,False
+C04878,Rx-Only,48,F,True
+C04879,Chronic Loyalists,49,M,True
+C04880,At-Risk Lapsing,73,M,True
+C04881,Rx-Only,34,M,True
+C04882,Rx-Only,38,M,False
+C04883,Occasional Visitors,28,F,False
+C04884,Health Seekers,22,M,True
+C04885,Rx-Only,69,F,False
+C04886,Occasional Visitors,55,F,True
+C04887,Chronic Loyalists,26,M,True
+C04888,Chronic Loyalists,44,F,False
+C04889,Price Sensitives,58,M,True
+C04890,Chronic Loyalists,76,F,False
+C04891,Rx-Only,48,F,True
+C04892,Occasional Visitors,48,M,True
+C04893,Health Seekers,72,F,True
+C04894,Chronic Loyalists,74,M,True
+C04895,Chronic Loyalists,76,M,True
+C04896,Rx-Only,74,M,True
+C04897,Price Sensitives,30,F,False
+C04898,Occasional Visitors,38,F,False
+C04899,Occasional Visitors,23,M,True
+C04900,Health Seekers,34,M,True
+C04901,Health Seekers,38,F,True
+C04902,Health Seekers,53,M,True
+C04903,Health Seekers,25,M,True
+C04904,Price Sensitives,42,F,False
+C04905,Rx-Only,26,M,False
+C04906,Rx-Only,62,F,True
+C04907,Occasional Visitors,45,F,False
+C04908,Rx-Only,52,F,False
+C04909,Price Sensitives,26,F,False
+C04910,Rx-Only,29,M,True
+C04911,Chronic Loyalists,68,F,True
+C04912,Rx-Only,23,M,True
+C04913,Chronic Loyalists,31,F,True
+C04914,At-Risk Lapsing,34,M,True
+C04915,Health Seekers,47,F,True
+C04916,Health Seekers,70,F,True
+C04917,Rx-Only,44,F,True
+C04918,Health Seekers,62,F,False
+C04919,Chronic Loyalists,53,F,True
+C04920,Chronic Loyalists,71,F,True
+C04921,Chronic Loyalists,26,M,True
+C04922,Occasional Visitors,39,F,False
+C04923,Health Seekers,42,M,True
+C04924,Price Sensitives,50,F,False
+C04925,Occasional Visitors,33,M,True
+C04926,Chronic Loyalists,67,M,True
+C04927,Occasional Visitors,61,M,True
+C04928,Health Seekers,55,F,True
+C04929,Chronic Loyalists,25,F,False
+C04930,Chronic Loyalists,56,M,True
+C04931,Rx-Only,32,F,True
+C04932,Chronic Loyalists,73,M,False
+C04933,Chronic Loyalists,30,F,True
+C04934,Chronic Loyalists,33,F,True
+C04935,Chronic Loyalists,47,M,True
+C04936,Health Seekers,60,F,True
+C04937,Occasional Visitors,25,M,False
+C04938,Rx-Only,56,F,False
+C04939,Health Seekers,36,F,False
+C04940,Rx-Only,72,F,True
+C04941,Occasional Visitors,75,F,True
+C04942,At-Risk Lapsing,22,M,True
+C04943,Occasional Visitors,48,F,True
+C04944,Health Seekers,33,F,True
+C04945,Occasional Visitors,46,F,True
+C04946,Chronic Loyalists,37,F,True
+C04947,Occasional Visitors,55,M,True
+C04948,Chronic Loyalists,62,F,False
+C04949,Chronic Loyalists,28,F,True
+C04950,Price Sensitives,29,F,False
+C04951,Health Seekers,34,F,True
+C04952,Rx-Only,77,M,True
+C04953,Health Seekers,45,M,True
+C04954,Health Seekers,63,M,True
+C04955,Rx-Only,77,M,True
+C04956,Health Seekers,77,M,False
+C04957,Occasional Visitors,28,F,False
+C04958,Rx-Only,33,M,True
+C04959,Health Seekers,55,M,True
+C04960,Health Seekers,45,F,True
+C04961,Rx-Only,64,M,False
+C04962,Rx-Only,32,M,True
+C04963,At-Risk Lapsing,50,F,True
+C04964,Rx-Only,72,F,True
+C04965,At-Risk Lapsing,50,M,True
+C04966,Rx-Only,27,F,True
+C04967,Chronic Loyalists,55,F,True
+C04968,Chronic Loyalists,36,M,True
+C04969,Chronic Loyalists,23,M,False
+C04970,Occasional Visitors,37,F,True
+C04971,Rx-Only,43,M,False
+C04972,Health Seekers,76,M,True
+C04973,Price Sensitives,51,M,True
+C04974,Occasional Visitors,76,F,True
+C04975,Rx-Only,47,F,True
+C04976,Rx-Only,35,F,False
+C04977,Rx-Only,43,F,True
+C04978,Chronic Loyalists,41,F,True
+C04979,Occasional Visitors,44,F,True
+C04980,Occasional Visitors,27,M,False
+C04981,Health Seekers,63,M,True
+C04982,Rx-Only,60,F,True
+C04983,Health Seekers,76,M,True
+C04984,Rx-Only,22,F,True
+C04985,Health Seekers,53,F,False
+C04986,Price Sensitives,58,F,True
+C04987,At-Risk Lapsing,28,M,True
+C04988,Rx-Only,67,F,True
+C04989,Rx-Only,42,M,True
+C04990,Price Sensitives,32,M,True
+C04991,Chronic Loyalists,76,M,False
+C04992,Price Sensitives,60,F,True
+C04993,At-Risk Lapsing,77,F,True
+C04994,Rx-Only,32,M,True
+C04995,Rx-Only,51,M,True
+C04996,Chronic Loyalists,51,M,True
+C04997,Rx-Only,33,M,True
+C04998,Chronic Loyalists,40,F,True
+C04999,Chronic Loyalists,48,M,True
+C05000,Occasional Visitors,38,F,True
